@@ -213,7 +213,8 @@ label {
 	border-top-width:1px;
 	border-top-color:#FAFAFA;
 	
-	overflow:hidden;
+	/*overflow:hidden;*/
+	overflow:auto;
 }
 #settingsCloseBtn {
 	float:right;
@@ -274,7 +275,7 @@ label {
 	
 	font-size:10pt;
 	
-	visibility:hidden;
+	display:none;
 }
 
 #listSettings {
@@ -291,7 +292,7 @@ label {
 	
 	font-size:10pt;
 	
-	visibility:hidden;
+	display:none;
 }
 #listsPaneHeader {
 	position:absolute;

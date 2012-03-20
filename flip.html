@@ -55,20 +55,20 @@
 		<div id="settingsBg">
 			<div id="settings">
 				<button id="settingsCloseBtn" title="Close the settings panel" onclick="document.getElementById('settingsBg').style.display = 'none';">&times;</button>
-				<span style="float:right; font-size:10pt; margin-right:12px; margin-top:6px;">All changes take effect immediately</span>
+				<span style="float:right; font-size:10pt; margin-right:12px; margin-top:6px;">All changes are saved automatically</span>
 				<span id="settingsHeader">KanjiFlip_Z. Settings</span>
 				<div id="generalSettings">
 					<span style="font-size:13pt;">General Settings</span>
 					<br />
 					<br />
-					Store settings and lists:
+					Use settings and lists stored...
 					<br />
-					<label for="saveLocal" onclick="setSetting('cloudSave', 'false'); cloudSave = false;">
+					<label for="saveLocal" onclick="setSetting('cloudSave', 'false'); cloudSave = false; loadSettings();">
 						<input type="radio" name="saveLocation" id="saveLocal" disabled />
 						In this browser <small>(accessible only on this computer by anyone who uses it)</small>
 					</label>
 					<br />
-					<label for="saveCloud" onclick="setSetting('cloudSave', 'true'); cloudSave = true;">
+					<label for="saveCloud" onclick="setSetting('cloudSave', 'true'); cloudSave = true; loadSettings();">
 						<input type="radio" name="saveLocation" id="saveCloud" checked />
 						In the cloud <small>(accessible on any computer only when you sign in)</small>
 					</label>
@@ -138,6 +138,10 @@
 					<span style="font-size:13pt;">Changelog</span>
 					<br />
 					<ul>
+						<li>2012-03-20:</li>
+						<ul>
+							<li>Completed account-based storage</li>
+						</ul>
 						<li>2012-03-14:</li>
 						<ul>
 							<li>Added additional access keys</li>
@@ -147,24 +151,24 @@
 							<li>Improved list storage</li>
 							<li>Added account-based list storage</li>
 						</ul>
-						<li>2011-03-30:</li>
+						<!--<li>2011-03-30:</li>
 						<ul>
 							<li>Button icons changed</li>
 							<li>Changelog page added</li>
-						</ul>
+						</ul>-->
 					</ul>
 				</div>
 				<div id="settingsTabs">
-					<div class="settingsTab" onclick="document.getElementById('generalSettings').style.visibility = 'visible'; document.getElementById('listSettings').style.visibility = 'hidden'; document.getElementById('changelogSettings').style.visibility = 'hidden';">
-						General
+					<div class="settingsTab" accesskey="g" onclick="document.getElementById('generalSettings').style.display = 'block'; document.getElementById('listSettings').style.display = 'none'; document.getElementById('changelogSettings').style.display = 'none';">
+						<u>G</u>eneral
 					</div>
 					&nbsp;&nbsp;
-					<div class="settingsTab" onclick="document.getElementById('listSettings').style.visibility = 'visible'; document.getElementById('generalSettings').style.visibility = 'hidden'; document.getElementById('changelogSettings').style.visibility = 'hidden';">
-						Lists
+					<div class="settingsTab" accesskey="l" onclick="document.getElementById('listSettings').style.display = 'block'; document.getElementById('generalSettings').style.display = 'none'; document.getElementById('changelogSettings').style.display = 'none';">
+						<u>L</u>ists
 					</div>
 					&nbsp;&nbsp;
-					<div class="settingsTab" onclick="document.getElementById('changelogSettings').style.visibility = 'visible'; document.getElementById('listSettings').style.visibility = 'hidden'; document.getElementById('generalSettings').style.visibility = 'hidden';">
-						Changelog
+					<div class="settingsTab" accesskey="c" onclick="document.getElementById('changelogSettings').style.display = 'block'; document.getElementById('listSettings').style.display = 'none'; document.getElementById('generalSettings').style.display = 'none';">
+						<u>C</u>hangelog
 					</div>
 				</div>
 			</div>
