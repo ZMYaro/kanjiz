@@ -11,7 +11,8 @@ var validators = {
 	"list":/\[.*\]/
 };
 
-/** Gets the value for a setting
+/**
+  * Gets the value for a setting
   * @param {string} setting - The setting to fetch
   */
 function getSetting(setting) {
@@ -43,7 +44,8 @@ function getSetting(setting) {
 	}
 }
 
-/** Sets a setting to the given value
+/**
+  * Sets a setting to the given value
   * @param {string} setting - The setting to change
   * @param {string} value - The new value for the setting
   */
@@ -70,4 +72,65 @@ function setSetting(setting, value) {
 	} else {
 		console.log("The setting " + setting + " = " + value + " was not saved because cloud storage is disabled, but this browser does not support localStorage.");
 	}
+}
+
+/**
+  * Loads all user-customizable settings
+  */
+function loadSettings() {
+	cloudSave = getSetting("cloudSave") != "false";
+	if(!!localStorage) {
+		document.getElementById("saveLocal").disabled = false;
+		if(!cloudSave) {
+			document.getElementById("saveCloud").checked = false;
+			document.getElementById("saveLocal").checked = true;
+		}
+	}
+	
+	/*if(localStorage) {
+		if(localStorage.userList && localStorage.userList != "" && localStorage.userList != "[]") {*/
+			/*list = localStorage.userList.split(";,;");
+			
+			var userListPane = document.getElementById("userListPane");
+			
+			userListPane.innerHTML = "<button style='font-size:10pt;' onclick='shuffleUserList();'>Shuffle List</button><button style='font-size:10pt;' onclick='clearUserList();'>Clear List</button>";
+			for(var i = 0; i < list.length; i++) {
+				list[i] = list[i].split("/\\/");
+				list[i] = {"english":list[i][0], "kana":list[i][1], "kanji":list[i][2]};
+				
+				var listItem = document.createElement("div"); // create the HTML list item
+				listItem.className = "listItem";
+				listItem.innerHTML = "<button onclick=\"removeItem(this.parentElement);\">&times;</button>";
+				listItem.innerHTML += "&nbsp;" + list[i]["english"] + " / " + list[i]["kanji"] + " / " + list[i]["kana"];
+				userListPane.appendChild(listItem); // add it to the visible list
+			}*/
+	
+	// load the list and fill in the user list interface
+	list = JSON.parse(getSetting("list"));
+	userListPane.innerHTML = "<button style='font-size:10pt;' onclick='shuffleUserList();'>Shuffle List</button><button style='font-size:10pt;' onclick='clearUserList();'>Clear List</button>";
+	for(var i = 0; i < list.length; i++) {
+		var listItem = document.createElement("div"); // create the HTML list item
+		listItem.className = "listItem";
+		listItem.innerHTML = "<button onclick=\"removeItem(this.parentElement);\">&times;</button>";
+		listItem.innerHTML += "&nbsp;" + list[i]["english"] + " / " + list[i]["kanji"] + " / " + list[i]["kana"];
+		userListPane.appendChild(listItem); // add it to the visible list
+	}
+	
+	// load the front data and update the UI accourdingly
+	data[0] = getSetting("frontData");
+	txt[0] = list[current][data[0]];
+	document.getElementById("frontEnglish").checked = false;
+	document.getElementById("frontKana").checked = false;
+	document.getElementById("frontKanji").checked = false;
+	
+	document.getElementById("front" + data[0].charAt(0).toUpperCase() + data[0].substring(1)).checked = true;
+	
+	// load the back data and update the UI accourdingly
+	data[1] = getSetting("backData");
+	txt[1] = list[current][data[1]];
+	document.getElementById("backEnglish").checked = false;
+	document.getElementById("backKana").checked = false;
+	document.getElementById("backKanji").checked = false;
+	
+	document.getElementById("back" + data[1].charAt(0).toUpperCase() + data[1].substring(1)).checked = true;
 }
