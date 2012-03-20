@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 7, Lesson 1 Vocabulary</name>
+	
+	<listItem>
+		<kanji>クリスマス</kanji>
+		<kana>クリスマス</kana>
+		<english>Christmas</english>
+	</listItem>
+	<listItem>
+		<kanji>クリスマスツリー</kanji>
+		<kana>クリスマスツリー</kana>
+		<english>Christmas tree</english>
+	</listItem>
+	<listItem>
+		<kanji>クリスマスカード</kanji>
+		<kana>クリスマスカード</kana>
+		<english>Christmas card</english>
+	</listItem>
+	<listItem>
+		<kanji>クリストきょう</kanji>
+		<kana>クリストきょう</kana>
+		<english>Christianity</english>
+	</listItem>
+	<listItem>
+		<kanji>(お)正月</kanji>
+		<kana>(お)しょうがつ</kana>
+		<english>New Year</english>
+	</listItem>
+	<listItem>
+		<kanji>(お)餅</kanji>
+		<kana>(お)もち</kana>
+		<english>pounded rice cakes</english>
+	</listItem>
+	<listItem>
+		<kanji>着物</kanji>
+		<kana>きもの</kana>
+		<english>traditional Japanese wear</english>
+	</listItem>
+	<listItem>
+		<kanji>年賀状</kanji>
+		<kana>ねんがじょう</kana>
+		<english>New Year's card</english>
+	</listItem>
+	<listItem>
+		<kanji>お年玉</kanji>
+		<kana>おとしだま</kana>
+		<english>money received at New Year's</english>
+	</listItem>
+	<listItem>
+		<kanji>教会</kanji>
+		<kana>きょうきい</kana>
+		<english>(Christian) church</english>
+	</listItem>
+	<listItem>
+		<kanji>神社</kanji>
+		<kana>じんじゃ</kana>
+		<english>(Shinto) shrine</english>
+	</listItem>
+	<listItem>
+		<kanji>(お)寺</kanji>
+		<kana>(お)てら</kana>
+		<english>(Buddhist) temple</english>
+	</listItem>
+	<listItem>
+		<kanji>花火</kanji>
+		<kana>はなび</kana>
+		<english>fireworks</english>
+	</listItem>
+	<listItem>
+		<kanji>花火(を します)</kanji>
+		<kana>はなび(を します)</kana>
+		<english>(to launch) fireworks</english>
+	</listItem>
+	<listItem>
+		<kanji>送る</kanji>
+		<kana>おくる</kana>
+		<english>to send [mail]</english>
+	</listItem>
+	<listItem>
+		<kanji>送ります</kanji>
+		<kana>おくります</kana>
+		<english>send [mail]</english>
+	</listItem>
+	<listItem>
+		<kanji>初めて</kanji>
+		<kana>はじめて</kana>
+		<english>[for the] first time</english>
+	</listItem>
+	<listItem>
+		<kanji>クリスマスイブ</kanji>
+		<kana>クリスマスイブ</kana>
+		<english>Christmas eve</english>
+	</listItem>
+	<listItem>
+		<kanji>クリスマスケーキ</kanji>
+		<kana>クリスマスケーキ</kana>
+		<english>Christmas cake</english>
+	</listItem>
+	<listItem>
+		<kanji>クリスマスプレゼント</kanji>
+		<kana>クリスマスプレゼント</kana>
+		<english>Christmas present</english>
+	</listItem>
+	<listItem>
+		<kanji>サンタクロース</kanji>
+		<kana>サンタクロース</kana>
+		<english>Sänta Cläus</english>
+	</listItem>
+	<listItem>
+		<kanji>晦日</kanji>
+		<kana>みそか</kana>
+		<english>December 30&lt;sup&gt;th&lt;/sup&gt;</english>
+	</listItem>
+	<listItem>
+		<kanji>大晦日</kanji>
+		<kana>おおみそか</kana>
+		<english>New Year's Eve (December 31&lt;sup&gt;th&lt;/sup&gt;</english>
+	</listItem>
+	<listItem>
+		<kanji>かざります</kanji>
+		<kana>かざります</kana>
+		<english>[to] decorate</english>
+	</listItem>
+	<listItem>
+		<kanji>つつみます</kanji>
+		<kana>つつみます</kana>
+		<english>[to] wrap</english>
+	</listItem>
+	<listItem>
+		<kanji>[verb た-form] ことが あります。</kanji>
+		<kana>[verb た-form] ことが あります。</kana>
+		<english>have done [verb]</english>
+	</listItem>
+</kanjiList>

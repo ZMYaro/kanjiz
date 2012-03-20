@@ -1,0 +1,511 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Grade 1 Kanjis</name>
+	
+	<listItem>
+		<kanji>一</kanji>
+		<kana>いち</kana>
+		<english>one (1)</english>
+	</listItem>
+	<listItem>
+		<kanji>一つ</kanji>
+		<kana>ひとつ</kana>
+		<english>one (1)</english>
+	</listItem>
+	<listItem>
+		<kanji>二</kanji>
+		<kana>に</kana>
+		<english>two (2)</english>
+	</listItem>
+	<listItem>
+		<kanji>二つ</kanji>
+		<kana>ふたつ</kana>
+		<english>two (2)</english>
+	</listItem>
+	<listItem>
+		<kanji>三</kanji>
+		<kana>さん</kana>
+		<english>three (3)</english>
+	</listItem>
+	<listItem>
+		<kanji>三つ</kanji>
+		<kana>みっつ</kana>
+		<english>three (3)</english>
+	</listItem>
+	<listItem>
+		<kanji>四</kanji>
+		<kana>し/よん</kana>
+		<english>four (4)</english>
+	</listItem>
+	<listItem>
+		<kanji>四つ</kanji>
+		<kana>よっつ</kana>
+		<english>four (4)</english>
+	</listItem>
+	<listItem>
+		<kanji>五</kanji>
+		<kana>ご</kana>
+		<english>five (5)</english>
+	</listItem>
+	<listItem>
+		<kanji>五つ</kanji>
+		<kana>いつつ</kana>
+		<english>five (5)</english>
+	</listItem>
+	<listItem>
+		<kanji>六</kanji>
+		<kana>ろく</kana>
+		<english>six (6)</english>
+	</listItem>
+	<listItem>
+		<kanji>六つ</kanji>
+		<kana>むっつ</kana>
+		<english>six (6)</english>
+	</listItem>
+	<listItem>
+		<kanji>七</kanji>
+		<kana>しち/なな</kana>
+		<english>seven (7)</english>
+	</listItem>
+	<listItem>
+		<kanji>七つ</kanji>
+		<kana>ななつ</kana>
+		<english>seven (7)</english>
+	</listItem>
+	<listItem>
+		<kanji>八</kanji>
+		<kana>はち</kana>
+		<english>eight (8)</english>
+	</listItem>
+	<listItem>
+		<kanji>八つ</kanji>
+		<kana>やっつ</kana>
+		<english>eight (8)</english>
+	</listItem>
+	<listItem>
+		<kanji>九</kanji>
+		<kana>きゅう/く</kana>
+		<english>nine (9)</english>
+	</listItem>
+	<listItem>
+		<kanji>九つ</kanji>
+		<kana>ここのつ</kana>
+		<english>nine (9)</english>
+	</listItem>
+	<listItem>
+		<kanji>十</kanji>
+		<kana>じゅう/とお</kana>
+		<english>ten (10)</english>
+	</listItem>
+	<listItem>
+		<kanji>百</kanji>
+		<kana>ひゃく</kana>
+		<english>hundred (100)</english>
+	</listItem>
+	<listItem>
+		<kanji>千</kanji>
+		<kana>せん</kana>
+		<english>thousand</english>
+	</listItem>
+	<listItem>
+		<kanji>日</kanji>
+		<kana>にち/ひ</kana>
+		<english>Sunday, day</english>
+	</listItem>
+	<listItem>
+		<kanji>月</kanji>
+		<kana>つき/げつ</kana>
+		<english>moon, Monday, month</english>
+	</listItem>
+	<listItem>
+		<kanji>火</kanji>
+		<kana>ひ/か</kana>
+		<english>fire, Tuesday</english>
+	</listItem>
+	<listItem>
+		<kanji>水</kanji>
+		<kana>みず/すい</kana>
+		<english>water, Wednesday</english>
+	</listItem>
+	<listItem>
+		<kanji>木</kanji>
+		<kana>き/もく</kana>
+		<english>tree, wood, Thursday</english>
+	</listItem>
+	<listItem>
+		<kanji>金</kanji>
+		<kana>かね/きん</kana>
+		<english>gold, money, Friday</english>
+	</listItem>
+	<listItem>
+		<kanji>土</kanji>
+		<kana>つち/ど</kana>
+		<english>soil, Saturday</english>
+	</listItem>
+	<listItem>
+		<kanji>上</kanji>
+		<kana>うえ/じょう</kana>
+		<english>above, up</english>
+	</listItem>
+	<listItem>
+		<kanji>下</kanji>
+		<kana>した/か</kana>
+		<english>below, low</english>
+	</listItem>
+	<listItem>
+		<kanji>左</kanji>
+		<kana>ひだり/か</kana>
+		<english>left</english>
+	</listItem>
+	<listItem>
+		<kanji>右</kanji>
+		<kana>みぎ/か</kana>
+		<english>right</english>
+	</listItem>
+	<listItem>
+		<kanji>大</kanji>
+		<kana>だい</kana>
+		<english>large</english>
+	</listItem>
+	<listItem>
+		<kanji>大きい</kanji>
+		<kana>おおきい</kana>
+		<english>large</english>
+	</listItem>
+	<listItem>
+		<kanji>中</kanji>
+		<kana>なか/ちゅう</kana>
+		<english>middle size</english>
+	</listItem>
+	<listItem>
+		<kanji>小</kanji>
+		<kana>しょう</kana>
+		<english>small</english>
+	</listItem>
+	<listItem>
+		<kanji>小さい</kanji>
+		<kana>ちいさい</kana>
+		<english>small</english>
+	</listItem>
+	<listItem>
+		<kanji>目</kanji>
+		<kana>め/もく</kana>
+		<english>eye</english>
+	</listItem>
+	<listItem>
+		<kanji>耳</kanji>
+		<kana>みみ/じ</kana>
+		<english>ear</english>
+	</listItem>
+	<listItem>
+		<kanji>口</kanji>
+		<kana>くち/こう</kana>
+		<english>mouth</english>
+	</listItem>
+	<listItem>
+		<kanji>手</kanji>
+		<kana>て/しゅ</kana>
+		<english>hand</english>
+	</listItem>
+	<listItem>
+		<kanji>足</kanji>
+		<kana>あし/そく</kana>
+		<english>leg</english>
+	</listItem>
+	<listItem>
+		<kanji>人</kanji>
+		<kana>ひと/じん</kana>
+		<english>person</english>
+	</listItem>
+	<listItem>
+		<kanji>子</kanji>
+		<kana>こ</kana>
+		<english>child</english>
+	</listItem>
+	<listItem>
+		<kanji>男</kanji>
+		<kana>おとこ/だん</kana>
+		<english>man</english>
+	</listItem>
+	<listItem>
+		<kanji>女</kanji>
+		<kana>おんな/じょ</kana>
+		<english>woman</english>
+	</listItem>
+	<listItem>
+		<kanji>赤</kanji>
+		<kana>あか/せき</kana>
+		<english>red</english>
+	</listItem>
+	<listItem>
+		<kanji>青</kanji>
+		<kana>あお/せい</kana>
+		<english>blue</english>
+	</listItem>
+	<listItem>
+		<kanji>白</kanji>
+		<kana>しろ/はく</kana>
+		<english>white</english>
+	</listItem>
+	<listItem>
+		<kanji>山</kanji>
+		<kana>やま/さん</kana>
+		<english>mountain</english>
+	</listItem>
+	<listItem>
+		<kanji>川</kanji>
+		<kana>かわ/せん</kana>
+		<english>river</english>
+	</listItem>
+	<listItem>
+		<kanji>森</kanji>
+		<kana>もり/しん</kana>
+		<english>forest</english>
+	</listItem>
+	<listItem>
+		<kanji>林</kanji>
+		<kana>はやし/りん</kana>
+		<english>bush</english>
+	</listItem>
+	<listItem>
+		<kanji>他</kanji>
+		<kana>ほか/た</kana>
+		<english>other</english>
+	</listItem>
+	<listItem>
+		<kanji>田</kanji>
+		<kana>た/でん</kana>
+		<english>rice field</english>
+	</listItem>
+	<listItem>
+		<kanji>花</kanji>
+		<kana>はな/か</kana>
+		<english>flower</english>
+	</listItem>
+	<listItem>
+		<kanji>竹</kanji>
+		<kana>たけ/ちく</kana>
+		<english>bamboo</english>
+	</listItem>
+	<listItem>
+		<kanji>虫</kanji>
+		<kana>むし/ちゅう</kana>
+		<english>bug</english>
+	</listItem>
+	<listItem>
+		<kanji>貝</kanji>
+		<kana>かい/ばい</kana>
+		<english>shell</english>
+	</listItem>
+	<listItem>
+		<kanji>犬</kanji>
+		<kana>いぬ/けん</kana>
+		<english>dog</english>
+	</listItem>
+	<listItem>
+		<kanji>石</kanji>
+		<kana>いし/せき</kana>
+		<english>rocks</english>
+	</listItem>
+	<listItem>
+		<kanji>雨</kanji>
+		<kana>あめ/う</kana>
+		<english>rain</english>
+	</listItem>
+	<listItem>
+		<kanji>空</kanji>
+		<kana>そら/くう</kana>
+		<english>sky</english>
+	</listItem>
+	<listItem>
+		<kanji>天</kanji>
+		<kana>あま/てん</kana>
+		<english>heaven/sky</english>
+	</listItem>
+	<listItem>
+		<kanji>気</kanji>
+		<kana>き</kana>
+		<english>spirits</english>
+	</listItem>
+	<listItem>
+		<kanji>夕</kanji>
+		<kana>ゆう</kana>
+		<english>early evening</english>
+	</listItem>
+	<listItem>
+		<kanji>町</kanji>
+		<kana>まち/ちょう</kana>
+		<english>town</english>
+	</listItem>
+	<listItem>
+		<kanji>村</kanji>
+		<kana>むら/そん</kana>
+		<english>village</english>
+	</listItem>
+	<listItem>
+		<kanji>学ぶ</kanji>
+		<kana>まなぶ</kana>
+		<english>to learn</english>
+	</listItem>
+	<listItem>
+		<kanji>学</kanji>
+		<kana>がく</kana>
+		<english>to learn</english>
+	</listItem>
+	<listItem>
+		<kanji>校</kanji>
+		<kana>こう</kana>
+		<english>school</english>
+	</listItem>
+	<listItem>
+		<kanji>先</kanji>
+		<kana>さき/せん</kana>
+		<english>before, ahead</english>
+	</listItem>
+	<listItem>
+		<kanji>生きる</kanji>
+		<kana>いきる</kana>
+		<english>to live</english>
+	</listItem>
+	<listItem>
+		<kanji>生</kanji>
+		<kana>せい</kana>
+		<english>to live</english>
+	</listItem>
+	<listItem>
+		<kanji>名</kanji>
+		<kana>な/めい</kana>
+		<english>name</english>
+	</listItem>
+	<listItem>
+		<kanji>本</kanji>
+		<kana>もと/ほん</kana>
+		<english>books, real</english>
+	</listItem>
+	<listItem>
+		<kanji>文</kanji>
+		<kana>ふみ/ぶん</kana>
+		<english>sentence, literature</english>
+	</listItem>
+	<listItem>
+		<kanji>字</kanji>
+		<kana>じ</kana>
+		<english>letters</english>
+	</listItem>
+	<listItem>
+		<kanji>年</kanji>
+		<kana>とし/ねん</kana>
+		<english>year</english>
+	</listItem>
+	<listItem>
+		<kanji>正しい</kanji>
+		<kana>ただしい</kana>
+		<english>correct, justice</english>
+	</listItem>
+	<listItem>
+		<kanji>正</kanji>
+		<kana>せい</kana>
+		<english>correct, justice</english>
+	</listItem>
+	<listItem>
+		<kanji>入る</kanji>
+		<kana>はいる</kana>
+		<english>to enter</english>
+	</listItem>
+	<listItem>
+		<kanji>入</kanji>
+		<kana>にゅう</kana>
+		<english>to enter</english>
+	</listItem>
+	<listItem>
+		<kanji>出る</kanji>
+		<kana>でる</kana>
+		<english>to exit</english>
+	</listItem>
+	<listItem>
+		<kanji>出</kanji>
+		<kana>しゅつ</kana>
+		<english>to exit</english>
+	</listItem>
+	<listItem>
+		<kanji>休む</kanji>
+		<kana>やすむ</kana>
+		<english>to rest</english>
+	</listItem>
+	<listItem>
+		<kanji>休</kanji>
+		<kana>きゅう</kana>
+		<english>to rest</english>
+	</listItem>
+	<listItem>
+		<kanji>立</kanji>
+		<kana>りつ</kana>
+		<english>to stand up</english>
+	</listItem>
+	<listItem>
+		<kanji>立つ</kanji>
+		<kana>たつ</kana>
+		<english>to stand up</english>
+	</listItem>
+	<listItem>
+		<kanji>見</kanji>
+		<kana>けん</kana>
+		<english>to see</english>
+	</listItem>
+	<listItem>
+		<kanji>見る</kanji>
+		<kana>みる</kana>
+		<english>to see</english>
+	</listItem>
+	<listItem>
+		<kanji>早</kanji>
+		<kana>そう</kana>
+		<english>early</english>
+	</listItem>
+	<listItem>
+		<kanji>早い</kanji>
+		<kana>はやい</kana>
+		<english>early</english>
+	</listItem>
+	<listItem>
+		<kanji>糸</kanji>
+		<kana>いと/し</kana>
+		<english>thread</english>
+	</listItem>
+	<listItem>
+		<kanji>王</kanji>
+		<kana>おう</kana>
+		<english>king</english>
+	</listItem>
+	<listItem>
+		<kanji>玉</kanji>
+		<kana>たま/ぎょく</kana>
+		<english>jewel, ball</english>
+	</listItem>
+	<listItem>
+		<kanji>車</kanji>
+		<kana>くるま/しゃ</kana>
+		<english>car</english>
+	</listItem>
+	<listItem>
+		<kanji>円(い)</kanji>
+		<kana>まる(い)</kana>
+		<english>circle, round</english>
+	</listItem>
+	<listItem>
+		<kanji>円</kanji>
+		<kana>えん</kana>
+		<english>circle, round, Yen</english>
+	</listItem>
+	<listItem>
+		<kanji>力</kanji>
+		<kana>ちから/りょく</kana>
+		<english>strong, power</english>
+	</listItem>
+	<listItem>
+		<kanji>音</kanji>
+		<kana>おと/おん</kana>
+		<english>sound</english>
+	</listItem>
+</kanjiList>

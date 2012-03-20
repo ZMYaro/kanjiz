@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 9, Lesson 1 Vocabulary</name>
+	<listItem>
+		<kanji>Aと Bで</kanji>
+		<kana>Aと Bで</kana>
+		<english>between A and B</english>
+	</listItem>
+	<listItem>
+		<kanji>どっち</kanji>
+		<kana>どっち</kana>
+		<english>which [one of two] (informal)</english>
+	</listItem>
+	<listItem>
+		<kanji>どちら</kanji>
+		<kana>だちら</kana>
+		<english>which [one of two] (polite)</english>
+	</listItem>
+	<listItem>
+		<kanji>こちら</kanji>
+		<kana>こちら</kana>
+		<english>this (polite)</english>
+	</listItem>
+	<listItem>
+		<kanji>そちら</kanji>
+		<kana>そちら</kana>
+		<english>that (polite)</english>
+	</listItem>
+	<listItem>
+		<kanji>あちら</kanji>
+		<kana>あちら</kana>
+		<english>that over there (polite)</english>
+	</listItem>
+	<listItem>
+		<kanji>(〜の)方</kanji>
+		<kana>(〜の)ほう</kana>
+		<english>~ as an alternative</english>
+	</listItem>
+	<listItem>
+		<kanji>〜より</kanji>
+		<kana>〜より</kana>
+		<english>more than ~</english>
+	</listItem>
+	<listItem>
+		<kanji>もっと</kanji>
+		<kana>もっと</kana>
+		<english>more</english>
+	</listItem>
+	<listItem>
+		<kanji>ずっと</kanji>
+		<kana>ずっと</kana>
+		<english>by far</english>
+	</listItem>
+	<listItem>
+		<kanji>両方</kanji>
+		<kana>りょうほう</kana>
+		<english>both</english>
+	</listItem>
+	<listItem>
+		<kanji>どちらも/どっちも + Neg.</kanji>
+		<kana>どちらも/どっちも + Neg.</kana>
+		<english>neither</english>
+	</listItem>
+	<listItem>
+		<kanji>〜に さしあげます</kanji>
+		<kana>〜に さしあげます</kana>
+		<english>give to ~ [a superior]</english>
+	</listItem>
+	<listItem>
+		<kanji>何を さしあげましょうか。</kanji>
+		<kana>なにを さしあげましょうか。</kana>
+		<english>May I help you?</english>
+	</listItem>
+	<listItem>
+		<kanji>店員</kanji>
+		<kana>てんいん</kana>
+		<english>store clerk</english>
+	</listItem>
+	<listItem>
+		<kanji>(お)きゃく(さま)</kanji>
+		<kana>(お)きゃく(さま)</kana>
+		<english>customer, guest</english>
+	</listItem>
+</kanjiList>

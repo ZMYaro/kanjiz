@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 2, Lesson 2 Vocabulary</name>
+	
+	<listItem>
+		<kanji>上</kanji>
+		<kana>うえ</kana>
+		<english>on, above, on top of</english>
+	</listItem>
+	<listItem>
+		<kanji>下</kanji>
+		<kana>した</kana>
+		<english>under, below</english>
+	</listItem>
+	<listItem>
+		<kanji>中</kanji>
+		<kana>なか</kana>
+		<english>inside</english>
+	</listItem>
+	<listItem>
+		<kanji>外</kanji>
+		<kana>そと</kana>
+		<english>outside</english>
+	</listItem>
+	<listItem>
+		<kanji>前</kanji>
+		<kana>まえ</kana>
+		<english>in front of</english>
+	</listItem>
+	<listItem>
+		<kanji>後ろ</kanji>
+		<kana>うしろ</kana>
+		<english>back, behind</english>
+	</listItem>
+	<listItem>
+		<kanji>右</kanji>
+		<kana>みぎ</kana>
+		<english>right side</english>
+	</listItem>
+	<listItem>
+		<kanji>左</kanji>
+		<kana>ひだり</kana>
+		<english>left side</english>
+	</listItem>
+	<listItem>
+		<kanji>そば</kanji>
+		<kana>そば</kana>
+		<english>by, nearby</english>
+	</listItem>
+	<listItem>
+		<kanji>間</kanji>
+		<kana>あいだ</kana>
+		<english>between</english>
+	</listItem>
+	<listItem>
+		<kanji>となり</kanji>
+		<kana>となり</kana>
+		<english>next (to)</english>
+	</listItem>
+	<listItem>
+		<kanji>近く</kanji>
+		<kana>ちかく</kana>
+		<english>vicinity; nearby</english>
+	</listItem>
+	<listItem>
+		<kanji>遠く</kanji>
+		<kana>とおく</kana>
+		<english>far away</english>
+	</listItem>
+	<listItem>
+		<kanji>所</kanji>
+		<kana>ところ</kana>
+		<english>place</english>
+	</listItem>
+	<listItem>
+		<kanji>横</kanji>
+		<kana>よこ</kana>
+		<english>side</english>
+	</listItem>
+	<listItem>
+		<kanji>向こう</kanji>
+		<kana>むこう</kana>
+		<english>beyond</english>
+	</listItem>
+	<listItem>
+		<kanji>手前</kanji>
+		<kana>てまえ</kana>
+		<english>this side</english>
+	</listItem>
+	<listItem>
+		<kanji>近所</kanji>
+		<kana>きんじょ</kana>
+		<english>neighborhood</english>
+	</listItem>
+	<listItem>
+		<kanji>真ん中</kanji>
+		<kana>まんなか</kana>
+		<english>middle</english>
+	</listItem>
+</kanjiList>

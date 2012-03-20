@@ -1,0 +1,173 @@
+<html>
+	<head>
+		<title>KanjiFlip_Z.</title>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+		<link rel="shortcut icon" type="image/x-icon" href="/imgs/favicon.ico" />
+		<link rel="stylesheet" type="text/css" href="/flip/styles.css" />
+		<script type="text/javascript" src="/lists/loadList.js"></script>
+		<script type="text/javascript" src="/flip/fast_lists.js"></script>
+		<script type="text/javascript" src="/flip/keyinput.js"></script>
+		<script type="text/javascript" src="/flip/settings.js"></script>
+		<script type="text/javascript" src="/flip/app.js"></script>
+	</head>
+	<body onload="init();">
+		<div id="osCard"></div>
+		<div id="bg"></div>
+		<div id="app">
+			<div id="cardBlock">
+				<div id="card" style="width:240px;">
+					<div id="cardTxt">
+						Loading...
+					</div>
+				</div>
+			</div>
+			<div id="controls">
+				<span id="progressNum">1/2</span>
+				<div id="progressBar">
+					<div id="progress">
+					</div>
+				</div>
+				<br />
+				<br />
+				<button id="restartBtn" style="line-height:95%;" title="Hotkey: R" accesskey="r" onclick="restart();">
+					<big>&#8606;</big>
+					<br />
+					<small><u>R</u>estart</small>
+				</button>
+				<button id="prevCardBtn" style="line-height:95%;" title="Hotkey: K or P" accesskey="p" onclick="if (current > 0) {current-= 2; nextCard();}" >
+					<big>&#8592;</big>
+					<br />
+					<small><u>P</u>rev. Card</small>
+				</button>
+				<button id="flipCardBtn" style="line-height:95%;" title="Hotkey: F" accesskey="f" onclick="flipCard();">
+					<big>&#8631;</big>
+					<br />
+					<small><u>F</u>lip Card</small>
+				</button>
+				<button id="nextCardBtn" style="line-height:95%;" title="Hotkey: J or N" accesskey="n" onclick="nextCard();" >
+					<big>&#8594;</big>
+					<br />
+					<small><u>N</u>ext Card</small>
+				</button>
+			</div>
+			<button id="settingsBtn" accesskey="s" onclick="document.getElementById('settingsBg').style.display = 'block';"><u>S</u>ettings</button>
+		</div>
+		<div id="settingsBg">
+			<div id="settings">
+				<button id="settingsCloseBtn" title="Close the settings panel" onclick="document.getElementById('settingsBg').style.display = 'none';">&times;</button>
+				<span style="float:right; font-size:10pt; margin-right:12px; margin-top:6px;">All changes take effect immediately</span>
+				<span id="settingsHeader">KanjiFlip_Z. Settings</span>
+				<div id="generalSettings">
+					<span style="font-size:13pt;">General Settings</span>
+					<br />
+					<br />
+					Store settings and lists:
+					<br />
+					<label for="saveLocal" onclick="setSetting('cloudSave', 'false'); cloudSave = false;">
+						<input type="radio" name="saveLocation" id="saveLocal" disabled />
+						In this browser <small>(accessible only on this computer by anyone who uses it)</small>
+					</label>
+					<br />
+					<label for="saveCloud" onclick="setSetting('cloudSave', 'true'); cloudSave = true;">
+						<input type="radio" name="saveLocation" id="saveCloud" checked />
+						In the cloud <small>(accessible on any computer only when you sign in)</small>
+					</label>
+					<br />
+					<br />
+					Front:
+					<br />
+					<label for="frontEnglish" onclick="setData(0, 'english');">
+						<input type="radio" name="front" id="frontEnglish" checked />
+						English
+					</label>
+					<label for="frontKana" onclick="setData(0, 'kana');">
+						<input type="radio" name="front" id="frontKana" />
+						Kana
+					</label>
+					<label for="frontKanji" onclick="setData(0, 'kanji');">
+						<input type="radio" name="front" id="frontKanji" />
+						Kanji
+					</label>
+					<br />
+					<br />
+					Back:
+					<br />
+					<label for="backEnglish" onclick="setData(1, 'english');">
+						<input type="radio" name="back" id="backEnglish" />
+						English
+					</label>
+					<label for="backKana" onclick="setData(1, 'kana');">
+						<input type="radio" name="back" id="backKana" />
+						Kana
+					</label>
+					<label for="backKanji" onclick="setData(1, 'kanji');">
+						<input type="radio" name="back" id="backKanji" checked />
+						Kanji
+					</label>
+				</div>
+				<div id="listSettings">
+					<span style="font-size:13pt;">Selected Words</span>
+					<div id="listsPaneHeader">
+						Lists
+					</div>
+					<div id="listItemsPaneHeader">
+					
+					</div>
+					<div id="userListPane">
+						<button style="font-size:10pt;" title="Not yet implemented" onclick="shuffleUserList();">Shuffle List</button>
+						<button style="font-size:10pt;" title="Remove all items from the list" onclick="clearUserList();">Clear List</button>
+						<div class="listItem" data-english="Welcome" data-kana="よこそう" data-kanji="よこそう">
+							<button onclick="removeItem(this.parentElement);">&times;</button>&nbsp;Welcome / よこそう / よこそう</button>
+						</div>
+						<div class="listItem" data-english="To KanjiFlip_Z." data-kana="KanjiFlip_Z.へ" data-kanji="KanjiFlip_Z.へ">
+							<button onclick="removeItem(this.parentElement);">&times;</button>&nbsp;To KanjiFlip_Z./ KanjiFlip_Z.へ / KanjiFlip_Z.へ
+						</div>
+					</div>
+					<div id="listsPane">
+						<br />
+						<br />
+						<p style="text-align:center; font-size:10pt;">
+							<img src="/imgs/loading_anim.gif" />
+							Loading...
+						</p>
+					</div>
+					<div id="listItemsPane">
+					</div>
+				</div>
+				<div id="changelogSettings">
+					<span style="font-size:13pt;">Changelog</span>
+					<br />
+					<ul>
+						<li>2012-03-14:</li>
+						<ul>
+							<li>Added additional access keys</li>
+						</ul>
+						<li>2012-03-12:</li>
+						<ul>
+							<li>Improved list storage</li>
+							<li>Added account-based list storage</li>
+						</ul>
+						<li>2011-03-30:</li>
+						<ul>
+							<li>Button icons changed</li>
+							<li>Changelog page added</li>
+						</ul>
+					</ul>
+				</div>
+				<div id="settingsTabs">
+					<div class="settingsTab" onclick="document.getElementById('generalSettings').style.visibility = 'visible'; document.getElementById('listSettings').style.visibility = 'hidden'; document.getElementById('changelogSettings').style.visibility = 'hidden';">
+						General
+					</div>
+					&nbsp;&nbsp;
+					<div class="settingsTab" onclick="document.getElementById('listSettings').style.visibility = 'visible'; document.getElementById('generalSettings').style.visibility = 'hidden'; document.getElementById('changelogSettings').style.visibility = 'hidden';">
+						Lists
+					</div>
+					&nbsp;&nbsp;
+					<div class="settingsTab" onclick="document.getElementById('changelogSettings').style.visibility = 'visible'; document.getElementById('listSettings').style.visibility = 'hidden'; document.getElementById('generalSettings').style.visibility = 'hidden';">
+						Changelog
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

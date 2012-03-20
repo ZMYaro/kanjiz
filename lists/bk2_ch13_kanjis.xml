@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 13 Kanjis</name>
+	<description>Landmarks, maps, and roads</description>
+	
+	<!-- landmarks -->
+	<listItem>
+		<kanji>動物園</kanji>
+		<kana>どうぶつえん</kana>
+		<english>zoo</english>
+	</listItem>
+	<listItem>
+		<kanji>郵便局</kanji>
+		<kana>ゆうびんきょく</kana>
+		<english>post office</english>
+	</listItem>
+	<listItem>
+		<kanji>美術館</kanji>
+		<kana>びじゅつかん</kana>
+		<english>art museum</english>
+	</listItem>
+	<listItem>
+		<kanji>映画館</kanji>
+		<kana>えいがかん</kana>
+		<english>movie theater</english>
+	</listItem>
+	<listItem>
+		<kanji>図書館</kanji>
+		<kana>としょかん</kana>
+		<english>library</english>
+	</listItem>
+	<listItem>
+		<kanji>公衆電話</kanji>
+		<kana>こうしゅうでんわ</kana>
+		<english>public phone</english>
+	</listItem>
+	<listItem>
+		<kanji>病院</kanji>
+		<kana>びょういん</kana>
+		<english>hospital</english>
+	</listItem>
+	<listItem>
+		<kanji>教会</kanji>
+		<kana>きょうかい</kana>
+		<english>[Christian] church</english>
+	</listItem>
+	<listItem>
+		<kanji>お寺</kanji>
+		<kana>おてら</kana>
+		<english>[Buddhist] temple</english>
+	</listItem>
+	<listItem>
+		<kanji>神社</kanji>
+		<kana>じんじゃ</kana>
+		<english>[Shinto] shrine</english>
+	</listItem>
+	<listItem>
+		<kanji>駐車場</kanji>
+		<kana>ちゅうしゃじょう</kana>
+		<english>parking lot</english>
+	</listItem>
+	<listItem>
+		<kanji>銀行</kanji>
+		<kana>ぎんこう</kana>
+		<english>bank</english>
+	</listItem>
+	<listItem>
+		<kanji>公園</kanji>
+		<kana>こうえん</kana>
+		<english>park</english>
+	</listItem>
+	<listItem>
+		<kanji>学校</kanji>
+		<kana>がっこう</kana>
+		<english>school</english>
+	</listItem>
+	<listItem>
+		<kanji>交番</kanji>
+		<kana>こうばん</kana>
+		<english>police box</english>
+	</listItem>
+	<listItem>
+		<kanji>空港</kanji>
+		<kana>くうこう</kana>
+		<english>airport</english>
+	</listItem>
+	<listItem>
+		<kanji>(電車の)駅</kanji>
+		<kana>（でんしゃの）えき</kana>
+		<english>train station</english>
+	</listItem>
+	<listItem>
+		<kanji>(バス/タクシー/船の）乗り場</kanji>
+		<kana>(バス/タクシー/ふねの）のりば</kana>
+		<english>(bus/taxi/ship) stop</english>
+	</listItem>
+	<listItem>
+		<kanji>薬屋</kanji>
+		<kana>くすりや</kana>
+		<english>pharmacy</english>
+	</listItem>
+	<listItem>
+		<kanji>花屋</kanji>
+		<kana>はなや</kana>
+		<english>flower store</english>
+	</listItem>
+	<listItem>
+		<kanji>肉屋</kanji>
+		<kana>にくや</kana>
+		<english>butcher</english>
+	</listItem>
+	<listItem>
+		<kanji>本屋</kanji>
+		<kana>ほんや</kana>
+		<english>book store</english>
+	</listItem>
+	<listItem>
+		<kanji>中華料理屋</kanji>
+		<kana>ちゅうかりょうりや</kana>
+		<english>Chinese restaurant</english>
+	</listItem>
+	<listItem>
+		<kanji>日本料理屋</kanji>
+		<kana>にほんりょうりや</kana>
+		<english>Japanese restaurant</english>
+	</listItem>
+	<listItem>
+		<kanji>お店</kanji>
+		<kana>おみせ</kana>
+		<english>shop</english>
+	</listItem>
+	<listItem>
+		<kanji>喫茶店</kanji>
+		<kana>きっさてん</kana>
+		<english>coffee shop</english>
+	</listItem>
+	
+	<!-- on the map -->
+	<listItem>
+		<kanji>地図</kanji>
+		<kana>ちず</kana>
+		<english>map</english>
+	</listItem>
+	<listItem>
+		<kanji>町</kanji>
+		<kana>まち</kana>
+		<english>town</english>
+	</listItem>
+	<listItem>
+		<kanji>村</kanji>
+		<kana>むら</kana>
+		<english>village</english>
+	</listItem>
+	<listItem>
+		<kanji>通り/道</kanji>
+		<kana>どおり/みち</kana>
+		<english>street</english>
+	</listItem>
+	<listItem>
+		<kanji>交差点</kanji>
+		<kana>こうさてん</kana>
+		<english>[four-way] intersection</english>
+	</listItem>
+	<listItem>
+		<kanji>信号</kanji>
+		<kana>しんごう</kana>
+		<english>traffic signal</english>
+	</listItem>
+	<listItem>
+		<kanji>橋</kanji>
+		<kana>はし</kana>
+		<english>bridge</english>
+	</listItem>
+	<listItem>
+		<kanji>(橋を)渡る</kanji>
+		<kana>(はしを）わたる</kana>
+		<english>to cross (a bridge)</english>
+	</listItem>
+	<listItem>
+		<kanji>曲がる</kanji>
+		<kana>まがる</kana>
+		<english>to turn</english>
+	</listItem>
+	<listItem>
+		<kanji>向こう</kanji>
+		<kana>むこう</kana>
+		<english>beyond</english>
+	</listItem>
+	<listItem>
+		<kanji>向こう側</kanji>
+		<kana>むこうがわ</kana>
+		<english>other side</english>
+	</listItem>
+	<listItem>
+		<kanji>二番目の～</kanji>
+		<kana>にばんめの～</kana>
+		<english>the second ~</english>
+	</listItem>
+	<listItem>
+		<kanji>入り口</kanji>
+		<kana>いりぐち</kana>
+		<english>entrance</english>
+	</listItem>
+	<listItem>
+		<kanji>出口</kanji>
+		<kana>でぐち</kana>
+		<english>exit</english>
+	</listItem>
+	
+	<!-- on the road -->
+	<listItem>
+		<kanji>歩いて行く</kanji>
+		<kana>あるいていく</kana>
+		<english>to go on foot</english>
+	</listItem>
+	<listItem>
+		<kanji>近い</kanji>
+		<kana>ちかい</kana>
+		<english>close</english>
+	</listItem>
+	<listItem>
+		<kanji>遠い</kanji>
+		<kana>とおい</kana>
+		<english>far</english>
+	</listItem>
+	<listItem>
+		<kanji>速い</kanji>
+		<kana>はやい</kana>
+		<english>fast</english>
+	</listItem>
+	<listItem>
+		<kanji>混んでいる</kanji>
+		<kana>こんでいる</kana>
+		<english>is crowded</english>
+	</listItem>
+	<listItem>
+		<kanji>空いている</kanji>
+		<kana>あいている</kana>
+		<english>not crowded/vacant</english>
+	</listItem>
+</kanjiList>

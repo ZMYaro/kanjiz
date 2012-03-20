@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 4, Lesson 1 Vocabulary</name>
+	
+	<listItem>
+		<kanji>うん</kanji>
+		<kana>うん</kana>
+		<english>yes (informal)</english>
+	</listItem>
+	<listItem>
+		<kanji>ううん</kanji>
+		<kana>ううん</kana>
+		<english>no (informal)</english>
+	</listItem>
+	<listItem>
+		<kanji>信号</kanji>
+		<kana>しんごう</kana>
+		<english>traffic light</english>
+	</listItem>
+	<listItem>
+		<kanji>パトカー</kanji>
+		<kana>パトカー</kana>
+		<english>police car</english>
+	</listItem>
+	<listItem>
+		<kanji>救急車</kanji>
+		<kana>きゅうきゅうしゃ</kana>
+		<english>ambulance</english>
+	</listItem>
+	<listItem>
+		<kanji>けいかん</kanji>
+		<kana>けいかん</kana>
+		<english>police officer</english>
+	</listItem>
+	<listItem>
+		<kanji>おしえる</kanji>
+		<kana>おしえる</kana>
+		<english>teach</english>
+	</listItem>
+	<listItem>
+		<kanji>おしえて</kanji>
+		<kana>おしえて</kana>
+		<english>teach (te-form)</english>
+	</listItem>
+	<listItem>
+		<kanji>おしえます</kanji>
+		<kana>おしえます</kana>
+		<english>to teach</english>
+	</listItem>
+	<listItem>
+		<kanji>お巡りさん</kanji>
+		<kana>おまわりさん</kana>
+		<english>police officer</english>
+	</listItem>
+	<listItem>
+		<kanji>こうばん</kanji>
+		<kana>こうばん</kana>
+		<english>police box</english>
+	</listItem>
+	<listItem>
+		<kanji>サイレン</kanji>
+		<kana>サイレン</kana>
+		<english>siren</english>
+	</listItem>
+</kanjiList>

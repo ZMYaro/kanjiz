@@ -1,0 +1,468 @@
+<html>
+	<head>
+		<title>KanjiTest_Z.</title>
+
+		<meta name="description" content="Kanji flash card web app"/>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		
+		<!-- mobile -->
+		<meta name="apple-mobile-web-app-capable" content="yes"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1"/>
+		<link rel="apple-touch-icon-precomposed" href="/test/apple-touch-icon-precomposed.png"/>
+		
+		<link rel="shortcut icon" type="image/x-icon" href="/imgs/favicon.ico"/>
+		
+		<!-- Google Chrome Frame -->
+		<meta http-equiv="X-UA-Compatible" content="chrome=1"/>
+		
+		<link rel="stylesheet" type="text/css" media="(max-width:480px)" href="/test/mobile.css"/>
+		<link rel="stylesheet" type="text/css" media="(min-width:481px)" href="/test/desktop.css"/>
+		
+		<script type="text/javascript" src="/test/script.js"></script>
+		<script type="text/javascript" src="/lists/loadList.js"></script>
+	</head>
+	<body onLoad="init();">
+		<div id="disp">
+		</div>
+		<br/>
+		<table id="kanjiControls" class="controls" style="visibility:visible;" cellpadding="0" cellspacing="0">
+			<tr>
+				<td>
+					<button onClick="showKana();" title="Hotkey: S or O">
+						Show かな
+					</button>
+				</td>
+				<td>
+					<button onClick="showEng();" title="Hotkey: D or E">
+						Show English
+					</button>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<button onClick="mode = 'kanji'; loadWord();" title="Hotkey: A">
+						New かんじ
+					</button>
+				</td>
+				<td>
+					<button onClick="showOptions();" title="Hotkey: F or U">
+						Settings
+					</button>
+				</td>
+			</tr>
+		</table>
+		<table id="kanaControls" class="controls" style="visibility:hidden;" cellpadding="0" cellspacing="0">
+			<tr>
+				<td>
+					<button onClick="showKanji();" title="Hotkey: A">
+						Show かんじ
+					</button>
+				</td>
+				<td>
+					<button onClick="showEng();" title="Hotkey: D or E">
+						Show English
+					</button>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<button onClick="mode = 'kana'; loadWord();" title="Hotkey: S or O">
+						New かな
+					</button>
+				</td>
+				<td>
+					<button onClick="showOptions();" title="Hotkey: F or U">
+						Settings
+					</button>
+				</td>
+			</tr>
+		</table>
+		<table id="englishControls" class="controls" style="visibility:hidden;" cellpadding="0" cellspacing="0">
+			<tr>
+				<td>
+					<button onClick="showKanji();" title="Hotkey: A">
+						Show かんじ
+					</button>
+				</td>
+				<td>
+					<button onClick="showKana();" title="Hotkey: S or O">
+						Show かな
+					</button>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<button onClick="mode = 'english'; loadWord();" title="Hotkey: D or E">
+						New word
+					</button>
+				</td>
+				<td>
+					<button onClick="showOptions();" title="Hotkey: F or U">
+						Settings
+					</button>
+				</td>
+			</tr>
+		</table>
+		<div id="options">
+        	<button style="float:right;" onClick="hideOptions();">
+				&nbsp;&times;&nbsp;
+			</button>
+			<h1 style="margin:0; text-shadow:0px 1px 0px #EEEEEE;">Settings</h1>
+			<small>Changes take effect immediately</small>
+			<hr/>
+			Choose mode:
+			<br/>
+			<label for="kanjiMode">
+				<input type="radio" checked="checked" name="chooseMode" id="kanjiMode" onClick="setMode();"/>
+				Kanji
+			</label>
+			<br/>
+			<label for="kanaMode">
+				<input type="radio" name="chooseMode" id="kanaMode" onClick="setMode();"/>
+				Kana
+			</label>
+			<br/>
+			<label for="englishMode">
+				<input type="radio" name="chooseMode" id="englishMode" onClick="setMode();"/>
+				English
+			</label>
+			
+			<hr/>
+			Choose a vocabulary list:
+			<br/>
+			<div id="lists">
+				<label for="grade1_kanjis">
+					<input type="checkbox" id="grade1_kanjis" onClick="setLists();"/>
+					Grade 1 - Kanjis
+				</label>
+	<!--			<br/>
+				<label for="grade1_words">
+					<input type="checkbox" id="grade1_words" onClick="setLists();"/>
+					Grade 1 - Words (incomplete)
+				</label>-->
+				<br/>
+				<button class="smallBtn" id="bk1ExpandBtn" onclick="expand('bk1');">+</button> Book 1
+				<div class="expandable" id="bk1">
+					<button class="smallBtn" id="bk1_ch4ExpandBtn" onclick="expand('bk1_ch4');">+</button> Chapter 4
+					<div class="expandable" id="bk1_ch4">
+						<label for="bk1_ch4_l1">
+							<input type="checkbox" id="bk1_ch4_l1" onClick="setLists();"/>
+							Book 1, Chapter 4, Lesson 1 - Vocabulary
+						</label>
+						<br/>
+						<label for="bk1_ch4_l2">
+							<input type="checkbox" id="bk1_ch4_l2" onClick="setLists();"/>
+							Book 1, Chapter 4, Lesson 2 - Vocabulary
+						</label>
+						<br/>
+						<label for="bk1_ch4_l3">
+							<input type="checkbox" id="bk1_ch4_l3" onClick="setLists();"/>
+							Book 1, Chapter 4, Lesson 3 - Vocabulary
+						</label>
+						<br/>
+						<label for="bk1_ch4_l4">
+							<input type="checkbox" id="bk1_ch4_l4" onClick="setLists();"/>
+							Book 1, Chapter 4, Lesson 4 - Vocabulary
+						</label>
+						<br/>
+						<label for="bk1_ch4_l5">
+							<input type="checkbox" id="bk1_ch4_l5" onClick="setLists();"/>
+							Book 1, Chapter 4, Lesson 5 - Vocabulary
+						</label>
+					</div>
+					<button class="smallBtn" id="bk1_ch5ExpandBtn" onclick="expand('bk1_ch5');">+</button> Chapter 5
+					<div class="expandable" id="bk1_ch5">
+						<label for="bk1_ch5_l1">
+							<input type="checkbox" id="bk1_ch5_l1" onClick="setLists();"/>
+							Book 1, Chapter 5, Lesson 1 - Vocabulary
+						</label>
+						<br/>
+						<label for="bk1_ch5_l2">
+							<input type="checkbox" id="bk1_ch5_l2" onClick="setLists();"/>
+							Book 1, Chapter 5, Lesson 2 - Vocabulary
+						</label>
+						<br/>
+						<label for="bk1_ch5_l3">
+							<input type="checkbox" id="bk1_ch5_l3" onClick="setLists();"/>
+							Book 1, Chapter 5, Lesson 3 - Vocabulary
+						</label>
+						<br/>
+						<label for="bk1_ch5_l4">
+							<input type="checkbox" id="bk1_ch5_l4" onClick="setLists();"/>
+							Book 1, Chapter 5, Lesson 4 - Vocabulary
+						</label>
+						<br/>
+						<label for="bk1_ch5_l5">
+							<input type="checkbox" id="bk1_ch5_l5" onClick="setLists();"/>
+							Book 1, Chapter 5, Lesson 5 - Vocabulary
+						</label>
+					</div>
+					<button class="smallBtn" id="bk1_ch15ExpandBtn" onclick="expand('bk1_ch15');">+</button> Chapter 15
+					<div class="expandable" id="bk1_ch15">
+						<label for="bk1_ch15">
+							<input type="checkbox" id="bk1_ch15" onClick="setLists();"/>
+							Book 1, Chapter 15 - Vocabulary
+						</label>
+					</div>
+				</div>
+				<button class="smallBtn" id="bk2ExpandBtn" onClick="expand('bk2');">+</button> Book 2
+				<div class="expandable" id="bk2">
+					<button class="smallBtn" id="bk2_ch1ExpandBtn" onclick="expand('bk2_ch1');">+</button> Chapter 1
+					<div class="expandable" id="bk2_ch1">
+						<label for="bk2_ch1_l2">
+							<input type="checkbox" id="bk2_ch1_l2" onClick="setLists();"/>
+							Book 2, Chapter 1, Lesson 2 - Vocabulary (Geography of Japan)
+						</label>
+					</div>
+					<button class="smallBtn" id="bk2_ch2ExpandBtn" onclick="expand('bk2_ch2');">+</button> Chapter 2
+					<div class="expandable" id="bk2_ch2">
+						<label for="bk2_ch2_l1">
+							<input type="checkbox" id="bk2_ch2_l1" onClick="setLists();"/>
+							Book 2, Chapter 2, Lesson 1 - Vocabulary
+						</label>
+						<br/>
+						<label for="bk2_ch2_l2">
+							<input type="checkbox" id="bk2_ch2_l2" onClick="setLists();"/>
+							Book 2, Chapter 2, Lesson 2 - Vocabulary (Prepositions)
+						</label>
+						<br/>
+						<label for="bk2_ch2_l3">
+							<input type="checkbox" id="bk2_ch2_l3" onClick="setLists();"/>
+							Book 2, Chapter 2, Lesson 3 - Vocabulary
+						</label>
+					</div>
+					<button class="smallBtn" id="bk2_ch3ExpandBtn" onclick="expand('bk2_ch3');">+</button> Chapter 3
+					<div class="expandable" id="bk2_ch3">
+						<label for="bk2_ch3_l1">
+							<input type="checkbox" id="bk2_ch3_l1" onClick="setLists();"/>
+							Book 2, Chapter 3, Lesson 1 - Vocabulary (Clothing)
+						</label>
+						<br/>
+						<label for="clothes_ext">
+							<input type="checkbox" id="clothes_ext" onClick="setLists();"/>
+							Clothing, extended
+						</label>
+						<br/>
+						<label for="bk2_ch3_l3">
+							<input type="checkbox" id="bk2_ch3_l3" onClick="setLists();"/>
+							Book 2, Chapter 3, Lesson 3 - Vocabulary
+						</label>
+					</div>
+					<button class="smallBtn" id="bk2_ch4ExpandBtn" onclick="expand('bk2_ch4');">+</button> Chapter 4
+					<div class="expandable" id="bk2_ch4">
+						<label for="bk2_ch4_l1">
+							<input type="checkbox" id="bk2_ch4_l1" onClick="setLists();"/>
+							Book 2, Chapter 4, Lesson 1 - Vocabulary
+						</label>
+						<br/>
+						<label for="bk2_ch4_l2">
+							<input type="checkbox" id="bk2_ch4_l2" onClick="setLists();"/>
+							Book 2, Chapter 4, Lesson 2 - Vocabulary
+						</label>
+						<br/>
+						<label for="bk2_ch4_l3">
+							<input type="checkbox" id="bk2_ch4_l3" onClick="setLists();"/>
+							Book 2, Chapter 4, Lesson 3 - Vocabulary
+						</label>
+						<br/>
+						<label for="bk2_ch4_l4">
+							<input type="checkbox" id="bk2_ch4_l4" onClick="setLists();"/>
+							Book 2, Chapter 4, Lesson 4 - Vocabulary
+						</label>
+					</div>
+					<button class="smallBtn" id="bk2_ch5ExpandBtn" onclick="expand('bk2_ch5');">+</button> Chapter 5
+					<div class="expandable" id="bk2_ch5">
+						<label for="bk2_ch5_l1">
+							<input type="checkbox" id="bk2_ch5_l1" onClick="setLists();"/>
+							Book 2, Chapter 5, Lesson 1 - Vocabulary
+						</label>
+						<br/>
+						<label for="bk2_ch5_l2">
+							<input type="checkbox" id="bk2_ch5_l2" onClick="setLists();"/>
+							Book 2, Chapter 5, Lesson 2 - Vocabulary
+						</label>
+						<br/>
+						<label for="bk2_ch5_l3">
+							<input type="checkbox" id="bk2_ch5_l3" onClick="setLists();"/>
+							Book 2, Chapter 5, Lesson 3 - Vocabulary
+						</label>
+						<br/>
+						<label for="bk2_ch5_l4">
+							<input type="checkbox" id="bk2_ch5_l4" onClick="setLists();"/>
+							Book 2, Chapter 5, Lesson 4 - Vocabulary
+						</label>
+					</div>
+					<button class="smallBtn" id="bk2_ch6ExpandBtn" onclick="expand('bk2_ch6');">+</button> Chapter 6
+					<div class="expandable" id="bk2_ch6">
+						<label for="bk2_ch6_l1">
+							<input type="checkbox" id="bk2_ch6_l1" onClick="setLists();"/>
+							Book 2, Chapter 6, Lesson 1 - Vocabulary
+						</label>
+						<br/>
+						<label for="bk2_ch6_l2">
+							<input type="checkbox" id="bk2_ch6_l2" onClick="setLists();"/>
+							Book 2, Chapter 6, Lesson 2 - Vocabulary
+						</label>
+						<br/>
+						<label for="bk2_ch6_l3">
+							<input type="checkbox" id="bk2_ch6_l3" onClick="setLists();"/>
+							Book 2, Chapter 6, Lesson 3 - Vocabulary
+						</label>
+						<br/>
+						<label for="bk2_ch6_l4">
+							<input type="checkbox" id="bk2_ch6_l4" onClick="setLists();"/>
+							Book 2, Chapter 6, Lesson 4 - Vocabulary
+						</label>
+					</div>
+					<button class="smallBtn" id="bk2_ch7ExpandBtn" onclick="expand('bk2_ch7');">+</button> Chapter 7
+					<div class="expandable" id="bk2_ch7">
+						<label for="bk2_ch7_l1">
+							<input type="checkbox" id="bk2_ch7_l1" onClick="setLists();"/>
+							Book 2, Chapter 7, Lesson 1 - Vocabulary
+						</label>
+						<br/>
+						<label for="bk2_ch7_l1_extra">
+							<input type="checkbox" id="bk2_ch7_l1_extra" onClick="setLists();"/>
+							Book 2, Chapter 7, Lesson 1 - Additional Words
+						</label>
+						<br/>
+						<label for="bk2_ch7_l1_cultural">
+							<input type="checkbox" id="bk2_ch7_l1_cultural" onClick="setLists();"/>
+							Book 2, Chapter 7, Lesson 1 - Cultural Words (Zodiac &amp; New Year's)
+						</label>
+						<br/>
+						<label for="bk2_ch7_l2">
+							<input type="checkbox" id="bk2_ch7_l2" onClick="setLists();"/>
+							Book 2, Chapter 7, Lesson 2 - Vocabulary
+						</label>
+						<br/>
+						<label for="bk2_ch7_l3">
+							<input type="checkbox" id="bk2_ch7_l3" onClick="setLists();"/>
+							Book 2, Chapter 7, Lesson 3 - Vocabulary
+						</label>
+						<br/>
+						<label for="bk2_ch7_l3_extra">
+							<input type="checkbox" id="bk2_ch7_l3_extra" onClick="setLists();"/>
+							Book 2, Chapter 7, Lesson 3 - Additional Words
+						</label>
+						<br/>
+						<label for="bk2_ch7_l4">
+							<input type="checkbox" id="bk2_ch7_l4" onClick="setLists();"/>
+							Book 2, Chapter 7, Lesson 4 - Vocabulary
+						</label>
+					</div>
+					<button class="smallBtn" id="bk2_ch9ExpandBtn" onclick="expand('bk2_ch9');">+</button> Chapter 9
+					<div class="expandable" id="bk2_ch9">
+						<label for="bk2_ch9_l1">
+							<input type="checkbox" id="bk2_ch9_l1" onClick="setLists();"/>
+							Book 2, Chapter 9, Lesson 1 - Vocabulary
+						</label>
+						<br/>
+						<label for="bk2_ch9_l1_sents">
+							<input type="checkbox" id="bk2_ch9_l1_sents" onClick="setLists();"/>
+							Book 2, Chapter 9, Lesson 1 - Sample Sentences
+						</label>
+						<br/>
+						<label for="bk2_ch9_l2">
+							<input type="checkbox" id="bk2_ch9_l2" onClick="setLists();"/>
+							Book 2, Chapter 9, Lesson 2 - Vocabulary
+						</label>
+						<br/>
+						<label for="bk2_ch9_l3">
+							<input type="checkbox" id="bk2_ch9_l3" onClick="setLists();"/>
+							Book 2, Chapter 9, Lesson 3 - Vocabulary
+						</label>
+						<br/>
+						<label for="bk2_ch9_l4">
+							<input type="checkbox" id="bk2_ch9_l4" onClick="setLists();"/>
+							Book 2, Chapter 9, Lesson 4 - Vocabulary
+						</label>
+						<br/>
+						<label for="bk2_ch9_kanjis">
+							<input type="checkbox" id="bk2_ch9_kanjis" onClick="setLists();"/>
+							Book 2, Chapter 9 - Kanjis
+						</label>
+					</div>
+					<button class="smallBtn" id="bk2_ch10ExpandBtn" onclick="expand('bk2_ch10');">+</button> Chapter 10
+					<div class="expandable" id="bk2_ch10">
+						<label for="bk2_ch10_l1">
+							<input type="checkbox" id="bk2_ch10_l1" onClick="setLists();"/>
+							Book 2, Chapter 10, Lesson 1 - Vocabulary
+						</label>
+						<br/>
+						<label for="bk2_ch10_l2">
+							<input type="checkbox" id="bk2_ch10_l2" onClick="setLists();"/>
+							Book 2, Chapter 10, Lesson 2 - Vocabulary
+						</label>
+						<br/>
+						<label for="bk2_ch10_l3">
+							<input type="checkbox" id="bk2_ch10_l3" onClick="setLists();"/>
+							Book 2, Chapter 10, Lesson 3 - Vocabulary
+						</label>
+					</div>
+	<!--				<button class="smallBtn" id="bk2_ch11ExpandBtn" onclick="expand('bk2_ch11');">+</button> Chapter 11
+					<div class="expandable" id="bk2_ch11">
+						<label for="bk2_ch11">
+							<input type="checkbox" id="bk2_ch11" onClick="setLists();"/>
+							Book 2, Chapter 11 - Vocabulary (folk tales)
+						</label>
+					</div>-->
+					<button class="smallBtn" id="bk2_ch13ExpandBtn" onclick="expand('bk2_ch13');">+</button> Chapter 13
+					<div class="expandable" id="bk2_ch13">
+						<label for="bk2_ch13_l1">
+							<input type="checkbox" id="bk2_ch13_l1" onClick="setLists();">
+							Book 2, Chapter 13, Lesson 1 - Vocabulary
+						</label>
+						<br/>
+						<label for="bk2_ch13_l2">
+							<input type="checkbox" id="bk2_ch13_l2" onClick="setLists();">
+							Book 2, Chapter 13, Lesson 2 - Vocabulary
+						</label>
+						<br/>
+						<label for="bk2_ch13_l3">
+							<input type="checkbox" id="bk2_ch13_l3" onClick="setLists();"/>
+							Book 2, Chapter 13, Lesson 3 - Vocabulary
+						</label>
+						<br/>
+						<label for="bk2_ch13_l4">
+							<input type="checkbox" id="bk2_ch13_l4" onClick="setLists();"/>
+							Book 2, Chapter 13, Lesson 4 - Vocabulary
+						</label>
+						<br/>
+						<label for="bk2_ch13_kanjis">
+							<input type="checkbox" id="bk2_ch13_kanjis" onClick="setLists();"/>
+							Book 2, Chapter 13 - Kanjis
+						</label>
+					</div>
+					<button class="smallBtn" id="bk2_ch14ExpandBtn" onclick="expand('bk2_ch14');">+</button> Chapter 14
+					<div class="expandable" id="bk2_ch14">
+						<label for="bk2_ch14_l1">
+							<input type="checkbox" id="bk2_ch14_l1" onClick="setLists();"/>
+							Book 2, Chapter 14, Lesson 1 - Vocabulary
+						</label>
+					</div>
+				</div>
+				<label for="eco_kanjis">
+					<input type="checkbox" id="eco_kanjis" onClick="setLists();"/>
+					Eco Kanjis
+				</label>
+				<br/>
+				<label for="eco_words">
+					<input type="checkbox" id="eco_words" onClick="setLists();"/>
+					Eco Words
+				</label>
+				<br/>
+	<!--				<input type="checkbox" id="ext" value="ext"/>
+					<label for="ext">
+						Enter URL of external XML file:
+						<input type="text" id="extLoc"/>
+					</label> -->
+			</div>
+			<hr/>
+			Send questions and feedback to <a href="mailto:zmyaro@gmail.com">zmyaro@gmail.com</a> or <a href="http://wave.google.com/wave/wavethis?p=zmyaro@googlewave.com" target="_blank">zmyaro@googlewave.com</a>.  Put "KanjiTest feedback" (or something similar) in the subject line.
+			<hr/>
+			You are free to use the code however you like as long as you give me credit (but don't get crazy).
+			<br/>
+		</div>
+	</body>
+</h

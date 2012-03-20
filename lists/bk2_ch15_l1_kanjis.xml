@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 15, Lesson Kanjis</name>
+	<listItem>
+		<kanji>絵を描く</kanji>
+		<kana>えをかく</kana>
+		<english>to draw a picture</english>
+	</listItem>
+	<listItem>
+		<kanji>笑う</kanji>
+		<kana>わらう</kana>
+		<english>to laugh</english>
+	</listItem>
+	<listItem>
+		<kanji>泣く</kanji>
+		<kana>なく</kana>
+		<english>to cry</english>
+	</listItem>
+	<listItem>
+		<kanji>金</kanji>
+		<kana>きん</kana>
+		<english>gold</english>
+	</listItem>
+	<listItem>
+		<kanji>銀</kanji>
+		<kana>ぎん</kana>
+		<english>silver</english>
+	</listItem>
+	<listItem>
+		<kanji>姉</kanji>
+		<kana>あね</kana>
+		<english>older sister</english>
+	</listItem>
+	<listItem>
+		<kanji>黒い</kanji>
+		<kana>くろい</kana>
+		<english>black</english>
+	</listItem>
+	<listItem>
+		<kanji>着る</kanji>
+		<kana>きる</kana>
+		<english>to wear</english>
+	</listItem>
+	<listItem>
+		<kanji>友達</kanji>
+		<kana>ともだち</kana>
+		<english>friend</english>
+	</listItem>
+	<listItem>
+		<kanji>家族</kanji>
+		<kana>かぞく</kana>
+		<english>family</english>
+	</listItem>
+	<listItem>
+		<kanji>趣味</kanji>
+		<kana>しゅみ</kana>
+		<english>hobby</english>
+	</listItem>
+	<listItem>
+		<kanji>散歩</kanji>
+		<kana>さんぽ</kana>
+		<english>walk</english>
+	</listItem>
+	<listItem>
+		<kanji>怒る</kanji>
+		<kana>おこる</kana>
+		<english>to become angry</english>
+	</listItem>
+	<listItem>
+		<kanji>離婚</kanji>
+		<kana>りこん</kana>
+		<english>divorce</english>
+	</listItem>
+	<listItem>
+		<kanji>別居</kanji>
+		<kana>べっきょ</kana>
+		<english>separation</english>
+	</listItem>
+	<listItem>
+		<kanji>難しい</kanji>
+		<kana>むずかしい</kana>
+		<english>difficult</english>
+	</listItem>
+	<listItem>
+		<kanji>靴</kanji>
+		<kana>くつ</kana>
+		<english>shoes</english>
+	</listItem>
+	<listItem>
+		<kanji>帽子</kanji>
+		<kana>ぼうし</kana>
+		<english>hat</english>
+	</listItem>
+	<listItem>
+		<kanji>眼鏡</kanji>
+		<kana>めがね</kana>
+		<english>glasses</english>
+	</listItem>
+</kanjiList>

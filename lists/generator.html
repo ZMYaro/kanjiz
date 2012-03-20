@@ -1,0 +1,34 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		
+		<script type="text/javascript">
+			function createXML() {
+				var kanji = document.getElementById("kanji").value;
+				var kana = document.getElementById("kana").value;
+				var eng = document.getElementById("eng").value;
+				
+				var out = "<listItem>\n";
+				out += "\t<kanji>" + kanji + "</kanji>\n";
+				out += "\t<kana>" + kana + "</kana>\n";
+				out += "\t<english>" + eng + "</english>\n";
+				out += "</listitem>";
+				
+				document.getElementById("output").value = out;
+			}
+		</script>
+	</head>
+	<body>
+		Kanji:
+		<input type="text" id="kanji" onKeyUp="createXML();"/>
+		<br/>
+		Kana:
+		<input type="text" id="kana" onKeyUp="createXML();"/>
+		<br/>
+		English:
+		<input type="text" id="eng" onKeyUp="createXML();"/>
+		<br/>
+		<br/>
+		<textarea disabled id="output" style="height:14ex; width:80%;"></textarea>
+	</body>
+</html>

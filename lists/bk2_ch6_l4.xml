@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 6, Lesson 4 Vocabulary</name>
+	
+	<listItem>
+		<kanji>一日に 三度</kanji>
+		<kana>いちにちに さんど</kana>
+		<english>three times per day</english>
+	</listItem>
+	<listItem>
+		<kanji>〜も &lt;small&gt;(counter)&lt;/small&gt;</kanji>
+		<kana>〜も &lt;small&gt;(counter)&lt;/small&gt;</kana>
+		<english>as many/long as ~</english>
+	</listItem>
+	<listItem>
+		<kanji>どのぐらい</kanji>
+		<kana>どのぐらい</kana>
+		<english>about how long/far/often?</english>
+	</listItem>
+	<listItem>
+		<kanji>〜ど &lt;small&gt;(counter)&lt;/small&gt;</kanji>
+		<kana>〜ど &lt;small&gt;(counter)&lt;/small&gt;</kana>
+		<english>~ degree(s), time(s)</english>
+	</listItem>
+	<listItem>
+		<kanji>〜分(間) &lt;small&gt;(counter)&lt;/small&gt;</kanji>
+		<kana>〜ぶん(かん) &lt;small&gt;(counter)&lt;/small&gt;</kana>
+		<english>~ minute(s)</english>
+	</listItem>
+	<listItem>
+		<kanji>〜時間 &lt;small&gt;(counter)&lt;/small&gt;</kanji>
+		<kana>〜じかん &lt;small&gt;(counter)&lt;/small&gt;</kana>
+		<english>~ hour(s)</english>
+	</listItem>
+	<listItem>
+		<kanji>〜日(間) &lt;small&gt;(counter)&lt;/small&gt;</kanji>
+		<kana>〜日(かん) &lt;small&gt;(counter)&lt;/small&gt;</kana>
+		<english>~ day(s)</english>
+	</listItem>
+	<listItem>
+		<kanji>〜週間 &lt;small&gt;(counter)&lt;/small&gt;</kanji>
+		<kana>〜しゅうかん &lt;small&gt;(counter)&lt;/small&gt;</kana>
+		<english>~ week(s)</english>
+	</listItem>
+	<listItem>
+		<kanji>〜か月 &lt;small&gt;(counter)&lt;/small&gt;</kanji>
+		<kana>〜かげつ &lt;small&gt;(counter)&lt;/small&gt;</kana>
+		<english>~ month(s)</english>
+	</listItem>
+	<listItem>
+		<kanji>〜年(間) &lt;small&gt;(counter)&lt;/small&gt;</kanji>
+		<kana>〜ねん(かん) &lt;small&gt;(counter)&lt;/small&gt;</kana>
+		<english>~ year(s)</english>
+	</listItem>
+	<listItem>
+		<kanji>〜秒 &lt;small&gt;(counter)&lt;/small&gt;</kanji>
+		<kana>〜びょう &lt;small&gt;(counter)&lt;/small&gt;</kana>
+		<english>~ second(s)</english>
+	</listItem>
+	<listItem>
+		<kanji>世紀</kanji>
+		<kana>せいき</kana>
+		<english>century</english>
+	</listItem>
+</kanjiList>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 6, Lesson 2 Vocabulary</name>
+	
+	<listItem>
+		<kanji>もしもし</kanji>
+		<kana>もしもし</kana>
+		<english>Hello&lt;small&gt; (used when answering the telephone)&lt;/small&gt;</english>
+	</listItem>
+	<listItem>
+		<kanji>お宅</kanji>
+		<kana>おたく</kana>
+		<english>(someone's) house &lt;small&gt;(polite form of うち)&lt;/small&gt;</english>
+	</listItem>
+	<listItem>
+		<kanji>留守です</kanji>
+		<kana>るすです</kana>
+		<english>is not at home</english>
+	</listItem>
+	<listItem>
+		<kanji>話し中です</kanji>
+		<kana>はなしちゅうです</kana>
+		<english>line is busy</english>
+	</listItem>
+	<listItem>
+		<kanji>電話を かけます</kanji>
+		<kana>でんわを かけます</kana>
+		<english>make a phone call</english>
+	</listItem>
+	<listItem>
+		<kanji>電話を かける</kanji>
+		<kana>でんわを かける</kana>
+		<english>to make a phone call</english>
+	</listItem>
+	<listItem>
+		<kanji>いらっしゃいます</kanji>
+		<kana>いらっしゃいます</kana>
+		<english>exist, be (animate) &lt;small&gt;(polite form of います)&lt;/small&gt;</english>
+	</listItem>
+	<listItem>
+		<kanji>まちがえました</kanji>
+		<kana>まちがえました</kana>
+		<english>made a mistake</english>
+	</listItem>
+	<listItem>
+		<kanji>かわりました</kanji>
+		<kana>かわりました</kana>
+		<english>it is me</english>
+	</listItem>
+	<listItem>
+		<kanji>残念ですが...</kanji>
+		<kana>ざんねんですが...</kana>
+		<english>sorry, but...&lt;small&gt;used to decline invitations&lt;/small&gt;</english>
+	</listItem>
+	<listItem>
+		<kanji>何度も</kanji>
+		<kana>なんども</kana>
+		<english>many times</english>
+	</listItem>
+</kanjiList>

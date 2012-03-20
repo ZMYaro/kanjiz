@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 3, Lesson 1 Vocabulary</name>
+	<description>Clothing</description>
+	
+	<listItem>
+		<kanji>きて　います</kanji>
+		<kana>きて　います</kana>
+		<english>is wearing [above the waist]</english>
+	</listItem>
+	<listItem>
+		<kanji>きる</kanji>
+		<kana>きる</kana>
+		<english>wear [above the waist]</english>
+	</listItem>
+	<listItem>
+		<kanji>きます</kanji>
+		<kana>きます</kana>
+		<english>to wear [above the waist]</english>
+	</listItem>
+	<listItem>
+		<kanji>はいて　います</kanji>
+		<kana>はいて　います</kana>
+		<english>is wearing [below the waist]</english>
+	</listItem>
+	<listItem>
+		<kanji>はく</kanji>
+		<kana>はく</kana>
+		<english>wear [below the waist]</english>
+	</listItem>
+	<listItem>
+		<kanji>はきます</kanji>
+		<kana>はきます</kana>
+		<english>to wear [below the waist]</english>
+	</listItem>
+	<listItem>
+		<kanji>して　います</kanji>
+		<kana>して　います</kana>
+		<english>is wearing [accessories]</english>
+	</listItem>
+	<listItem>
+		<kanji>する</kanji>
+		<kana>する</kana>
+		<english>wear [accessories]</english>
+	</listItem>
+	<listItem>
+		<kanji>します</kanji>
+		<kana>します</kana>
+		<english>to wear [accessories]</english>
+	</listItem>
+	<listItem>
+		<kanji>かぶって　います</kanji>
+		<kana>かぶって　います</kana>
+		<english>is wearing [on the head]</english>
+	</listItem>
+	<listItem>
+		<kanji>かぶる</kanji>
+		<kana>かぶる</kana>
+		<english>wear [on the head]</english>
+	</listItem>
+	<listItem>
+		<kanji>かぶります</kanji>
+		<kana>かぶります</kana>
+		<english>to wear [on the head]</english>
+	</listItem>
+	<listItem>
+		<kanji>かけて　います</kanji>
+		<kana>かけて　います</kana>
+		<english>is wearing [glasses]</english>
+	</listItem>
+	<listItem>
+		<kanji>かける</kanji>
+		<kana>かける</kana>
+		<english>wear [glasses]</english>
+	</listItem>
+	<listItem>
+		<kanji>かけます</kanji>
+		<kana>かけます</kana>
+		<english>to wear [glasses]</english>
+	</listItem>
+	<listItem>
+		<kanji>服</kanji>
+		<kana>ふく</kana>
+		<english>clothing</english>
+	</listItem>
+	<listItem>
+		<kanji>ティー　シャツ</kanji>
+		<kana>ティー　シャツ</kana>
+		<english>T-shirt</english>
+	</listItem>
+	<listItem>
+		<kanji>ズボン</kanji>
+		<kana>ズボン</kana>
+		<english>pants (used by older generation)</english>
+	</listItem>
+	<listItem>
+		<kanji>パンツ</kanji>
+		<kana>パンツ</kana>
+		<english>pants (used by younger generation)</english>
+	</listItem>
+	<listItem>
+		<kanji>ショートパンツ/ショーツ</kanji>
+		<kana>ショートパンツ/ショーツ</kana>
+		<english>shorts</english>
+	</listItem>
+	<listItem>
+		<kanji>セーター</kanji>
+		<kana>セーター</kana>
+		<english>sweater</english>
+	</listItem>
+	<listItem>
+		<kanji>ワンピース</kanji>
+		<kana>ワンピース</kana>
+		<english>dress</english>
+	</listItem>
+	<listItem>
+		<kanji>スカート</kanji>
+		<kana>スカート</kana>
+		<english>skirt</english>
+	</listItem>
+	<listItem>
+		<kanji>せいふん</kanji>
+		<kana>せいふん</kana>
+		<english>uniform</english>
+	</listItem>
+	<listItem>
+		<kanji>くつ下/ソックツ</kanji>
+		<kana>くつした/ソックツ</kana>
+		<english>socks</english>
+	</listItem>
+	<listItem>
+		<kanji>ゆびわ</kanji>
+		<kana>ゆびわ</kana>
+		<english>ring</english>
+	</listItem>
+	<listItem>
+		<kanji>めがね</kanji>
+		<kana>めがね</kana>
+		<english>eyeglasses</english>
+	</listItem>
+	<listItem>
+		<kanji>サングラス</kanji>
+		<kana>サングラス</kana>
+		<english>sunglasses</english>
+	</listItem>
+	<listItem>
+		<kanji>ネックレス</kanji>
+		<kana>ネックレス</kana>
+		<english>necklace</english>
+	</listItem>
+	<listItem>
+		<kanji>イヤリング</kanji>
+		<kana>イヤリング</kana>
+		<english>earrings</english>
+	</listItem>
+	<listItem>
+		<kanji>ピアス</kanji>
+		<kana>ピアス</kana>
+		<english>lierced (earrings)</english>
+	</listItem>
+	<listItem>
+		<kanji>水着</kanji>
+		<kana>みずぎ</kana>
+		<english>bathing suit</english>
+	</listItem>
+	<listItem>
+		<kanji>アクセサリー</kanji>
+		<kana>アクセサリー</kana>
+		<english>accessories; jewlery</english>
+	</listItem>
+	<listItem>
+		<kanji>ブレスレット</kanji>
+		<kana>ブレスレット</kana>
+		<english>bracelet</english>
+	</listItem>
+	<listItem>
+		<kanji>ユニホーム</kanji>
+		<kana>ユニホーム</kana>
+		<english>sports uniform</english>
+	</listItem>
+	<listItem>
+		<kanji>ストッキング</kanji>
+		<kana>ストッキング</kana>
+		<english>stockings</english>
+	</listItem>
+	<listItem>
+		<kanji>サンダル</kanji>
+		<kana>サンダル</kana>
+		<english>sandals</english>
+	</listItem>
+	<listItem>
+		<kanji>ぞうり</kanji>
+		<kana>ぞうり</kana>
+		<english>slippers; flip flops</english>
+	</listItem>
+	<listItem>
+		<kanji>ジャケット</kanji>
+		<kana>ジャケット</kana>
+		<english>jacket</english>
+	</listItem>
+</kanjiList>

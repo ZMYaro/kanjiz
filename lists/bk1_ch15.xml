@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 1, Chapter 15 Vocabulary</name>
+	
+	<listItem>
+		<kanji>遊ぶ</kanji>
+		<kana>あそぶ</kana>
+		<english>to play</english>
+	</listItem>
+	<listItem>
+		<kanji>住所</kanji>
+		<kana>じゅうしょ</kana>
+		<english>address</english>
+	</listItem>
+	<listItem>
+		<kanji>勉強</kanji>
+		<kana>べんきょう</kana>
+		<english>to study</english>
+	</listItem>
+	<listItem>
+		<kanji>新聞</kanji>
+		<kana>しんぶん</kana>
+		<english>newspaper</english>
+	</listItem>
+	<listItem>
+		<kanji>図書館</kanji>
+		<kana>としょかん</kana>
+		<english>library</english>
+	</listItem>
+	<listItem>
+		<kanji>差し上げます</kanji>
+		<kana>さしあげます</kana>
+		<english>to give [to someone of higher status]</english>
+	</listItem>
+	<!-- not in book -->
+	<listItem>
+		<kanji>いただきます</kanji>
+		<kana>いただきます</kana>
+		<english>to receive [from someone of higher status]</english>
+	</listItem>
+	<listItem>
+		<kanji>歌う</kanji>
+		<kana>うたう</kana>
+		<english>to sing</english>
+	</listItem>
+	<listItem>
+		<kanji>友達</kanji>
+		<kana>ともだち</kana>
+		<english>friend</english>
+	</listItem>
+	<listItem>
+		<kanji>誰</kanji>
+		<kana>だれ</kana>
+		<english>who</english>
+	</listItem>
+	<listItem>
+		<kanji>作る</kanji>
+		<kana>つくる</kana>
+		<english>make</english>
+	</listItem>
+	<listItem>
+		<kanji>泳ぐ</kanji>
+		<kana>およぐ</kana>
+		<english>to swim</english>
+	</listItem>
+	<listItem>
+		<kanji>写真</kanji>
+		<kana>しゃしん</kana>
+		<english>picture</english>
+	</listItem>
+	<listItem>
+		<kanji>毎年</kanji>
+		<kana>まいとし</kana>
+		<english>every year</english>
+	</listItem>
+	<listItem>
+		<kanji>来年</kanji>
+		<kana>らいねん</kana>
+		<english>next year</english>
+	</listItem>
+	<listItem>
+		<kanji>今年</kanji>
+		<kana>ことし</kana>
+		<english>this year</english>
+	</listItem>
+	<listItem>
+		<kanji>去年</kanji>
+		<kana>きょねん</kana>
+		<english>last year</english>
+	</listItem>
+	<listItem>
+		<kanji>番号</kanji>
+		<kana>ばんごう</kana>
+		<english>number</english>
+	</listItem>
+	<listItem>
+		<kanji>電話</kanji>
+		<kana>でんわ</kana>
+		<english>telephone</english>
+	</listItem>
+	<listItem>
+		<kanji>楽しみ</kanji>
+		<kana>たのしみ</kana>
+		<english>looking forward to</english>
+	</listItem>
+	<listItem>
+		<kanji>(~を)楽しみに しています</kanji>
+		<kana>(~を)たのしみに しています</kana>
+		<english>looking forward to ~</english>
+	</listItem>
+	<listItem>
+		<kanji>時</kanji>
+		<kana>とき</kana>
+		<english>when</english>
+	</listItem>
+	<listItem>
+		<kanji>今月</kanji>
+		<kana>こんげつ</kana>
+		<english>this month</english>
+	</listItem>
+	<listItem>
+		<kanji>今朝</kanji>
+		<kana>けさ</kana>
+		<english>this morning</english>
+	</listItem>
+	<listItem>
+		<kanji>家</kanji>
+		<kana>うち/いえ</kana>
+		<english>house</english>
+	</listItem>
+	<listItem>
+		<kanji>夕べ</kanji>
+		<kana>ゆうべ</kana>
+		<english>evening</english>
+	</listItem>
+	<listItem>
+		<kanji>東京</kanji>
+		<kana>とうきょう</kana>
+		<english>Tokyo</english>
+	</listItem>
+	<listItem>
+		<kanji>先月</kanji>
+		<kana>せんげつ</kana>
+		<english>last month</english>
+	</listItem>
+	<listItem>
+		<kanji>妹</kanji>
+		<kana>いもうと</kana>
+		<english>younger sister</english>
+	</listItem>
+	<listItem>
+		<kanji>読む</kanji>
+		<kana>よむ</kana>
+		<english>to read</english>
+	</listItem>
+	<listItem>
+		<kanji>毎日</kanji>
+		<kana>まいにち</kana>
+		<english>every day</english>
+	</listItem>
+	<listItem>
+		<kanji>花</kanji>
+		<kana>はな</kana>
+		<english>flower</english>
+	</listItem>
+	<listItem>
+		<kanji>何</kanji>
+		<kana>なに</kana>
+		<english>what</english>
+	</listItem>
+	<listItem>
+		<kanji>風船</kanji>
+		<kana>ふうせん</kana>
+		<english>balloon</english>
+	</listItem>
+</kanjiList>

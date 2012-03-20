@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 9, Lesson 4 Vocabulary</name>
+	<listItem>
+		<kanji>(お)みやげ</kanji>
+		<kana>(お)みやげ</kana>
+		<english>souvenir gift</english>
+	</listItem>
+	<listItem>
+		<kanji>はこ</kanji>
+		<kana>はこ</kana>
+		<english>box</english>
+	</listItem>
+	<listItem>
+		<kanji>ふくる</kanji>
+		<kana>ふくる</kana>
+		<english>paper bag</english>
+	</listItem>
+	<listItem>
+		<kanji>〜に 入れる</kanji>
+		<kana>〜に いれる</kana>
+		<english>put in ~</english>
+	</listItem>
+	<listItem>
+		<kanji>〜に 入れます</kanji>
+		<kana>〜に いれます</kana>
+		<english>to put in ~</english>
+	</listItem>
+	<listItem>
+		<kanji>税金</kanji>
+		<kana>ぜいきん</kana>
+		<english>tax</english>
+	</listItem>
+	<listItem>
+		<kanji>おつり</kanji>
+		<kana>おつり</kana>
+		<english>change [from a larger unit of money]</english>
+	</listItem>
+	<listItem>
+		<kanji>トラベラーズ チェック</kanji>
+		<kana>トラベラーズ チェック</kana>
+		<english>traveler's check</english>
+	</listItem>
+	<listItem>
+		<kanji>クレジット カード</kanji>
+		<kana>クレジット カード</kana>
+		<english>credit card</english>
+	</listItem>
+	<listItem>
+		<kanji>地下</kanji>
+		<kana>ちか</kana>
+		<english>basement</english>
+	</listItem>
+	<listItem>
+		<kanji>かかる</kanji>
+		<kana>かかる</kana>
+		<english>require [tax]; take [time]</english>
+	</listItem>
+	<listItem>
+		<kanji>かかります</kanji>
+		<kana>かかります</kana>
+		<english>to require [tax]; to take [time]</english>
+	</listItem>
+	<listItem>
+		<kanji>売って います</kanji>
+		<kana>うって います</kana>
+		<english>are selling</english>
+	</listItem>
+	<listItem>
+		<kanji>また どうぞ。</kanji>
+		<kana>また どうぞ。</kana>
+		<english>Please come again.</english>
+	</listItem>
+	<listItem>
+		<kanji>#かい</kanji>
+		<kana>#かい</kana>
+		<english>[#] floor</english>
+	</listItem>
+	<listItem>
+		<kanji>ちか#かい</kanji>
+		<kana>ちか#かい</kana>
+		<english>basement [#] floor</english>
+	</listItem>
+	<listItem>
+		<kanji>レシート</kanji>
+		<kana>レシート</kana>
+		<english>receipt</english>
+	</listItem>
+	<listItem>
+		<kanji>しょうひぜい</kanji>
+		<kana>しょうひぜい</kana>
+		<english>sales tax</english>
+	</listItem>
+	<listItem>
+		<kanji>現金</kanji>
+		<kana>げんきん</kana>
+		<english>cash</english>
+	</listItem>
+	<listItem>
+		<kanji>小切手</kanji>
+		<kana>こぎって</kana>
+		<english>a check</english>
+	</listItem>
+</kanjiList>

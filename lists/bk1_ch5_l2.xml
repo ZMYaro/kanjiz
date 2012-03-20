@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 1, Chapter 5, Lesson 2 Vocabulary</name>
+	<listItem>
+		<kanji>好き</kanji>
+		<kana>すき</kana>
+		<english>like</english>
+	</listItem>
+	<listItem>
+		<kanji>大好き</kanji>
+		<kana>だいすき</kana>
+		<english>like very much, love</english>
+	</listItem>
+	<listItem>
+		<kanji>嫌い</kanji>
+		<kana>きらい</kana>
+		<english>dislike</english>
+	</listItem>
+	<listItem>
+		<kanji>大嫌い</kanji>
+		<kana>だいきらい</kana>
+		<english>dislike a lot, hate</english>
+	</listItem>
+	<listItem>
+		<kanji>どんな～</kanji>
+		<kana>どんな～</kana>
+		<english>what kind of ~?</english>
+	</listItem>
+	<listItem>
+		<kanji>物</kanji>
+		<kana>もの</kana>
+		<english>tangible things</english>
+	</listItem>
+	<listItem>
+		<kanji>食べ物</kanji>
+		<kana>たべもの</kana>
+		<english>food</english>
+	</listItem>
+	<listItem>
+		<kanji>飲み物</kanji>
+		<kana>のみもの</kana>
+		<english>drink</english>
+	</listItem>
+	<listItem>
+		<kanji>（お）寿司</kanji>
+		<kana>（お）すし</kana>
+		<english>&lt;i&gt;sushi&lt;/i&gt;</english>
+	</listItem>
+	<listItem>
+		<kanji>さしみ</kanji>
+		<kana>さしみ</kana>
+		<english>raw fish</english>
+	</listItem>
+	<listItem>
+		<kanji>てんぷら</kanji>
+		<kana>てんぷら</kana>
+		<english>tempura</english>
+	</listItem>
+	<listItem>
+		<kanji>野菜</kanji>
+		<kana>やさい</kana>
+		<english>vegetable</english>
+	</listItem>
+	<listItem>
+		<kanji>果物</kanji>
+		<kana>くだもの</kana>
+		<english>fruit</english>
+	</listItem>
+	<listItem>
+		<kanji>トマト</kanji>
+		<kana>トマト</kana>
+		<english>tomato</english>
+	</listItem>
+	<listItem>
+		<kanji>ほうれんそう</kanji>
+		<kana>ほうれんそう</kana>
+		<english>spinach</english>
+	</listItem>
+	<listItem>
+		<kanji>にんじん</kanji>
+		<kana>にんじん</kana>
+		<english>carrot</english>
+	</listItem>
+	<listItem>
+		<kanji>りんご</kanji>
+		<kana>りんご</kana>
+		<english>apple</english>
+	</listItem>
+	<listItem>
+		<kanji>オレンジ</kanji>
+		<kana>オレンジ</kana>
+		<english>orange</english>
+	</listItem>
+	<listItem>
+		<kanji>苺</kanji>
+		<kana>いちご</kana>
+		<english>strawberry</english>
+	</listItem>
+	<listItem>
+		<kanji>すいか</kanji>
+		<kana>すいか</kana>
+		<english>watermelon</english>
+	</listItem>
+	<listItem>
+		<kanji>メロン</kanji>
+		<kana>メロン</kana>
+		<english>melon</english>
+	</listItem>
+	<listItem>
+		<kanji>アイスクリーム</kanji>
+		<kana>アイスクリーム</kana>
+		<english>ice cream</english>
+	</listItem>
+	<listItem>
+		<kanji>ケーキ</kanji>
+		<kana>ケーキ</kana>
+		<english>cake</english>
+	</listItem>
+	<listItem>
+		<kanji>ロック</kanji>
+		<kana>ロック</kana>
+		<english>rock [music]</english>
+	</listItem>
+	<listItem>
+		<kanji>ジャズ</kanji>
+		<kana>ジャズ</kana>
+		<english>jazz [music]</english>
+	</listItem>
+	<listItem>
+		<kanji>クラシック</kanji>
+		<kana>クラシック</kana>
+		<english>classical [music]</english>
+	</listItem>
+</kanjiList>

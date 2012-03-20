@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 15, Lesson 3 Vocabulary</name>
+	<listItem>
+		<kanji>自分</kanji>
+		<kana>じぶん</kana>
+		<english>oneself</english>
+	</listItem>
+	<listItem>
+		<kanji>何か</kanji>
+		<kana>なにか</kana>
+		<english>something</english>
+	</listItem>
+	<listItem>
+		<kanji>助ける/助けます</kanji>
+		<kana>たすける/たすけます</kana>
+		<english>to rescue; help</english>
+	</listItem>
+	<listItem>
+		<kanji>相談（を）　する</kanji>
+		<kana>そうだん（を）　する</kana>
+		<english>to consult</english>
+	</listItem>
+</kanjiList>

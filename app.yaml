@@ -1,0 +1,85 @@
+application: kanji-z
+version: 3
+runtime: python
+api_version: 1
+
+handlers:
+
+- url: /imgs
+  static_dir: imgs
+
+- url: /lists
+  static_dir: lists
+
+
+- url: /kanjitest
+  script: test.py
+
+- url: /kanjitest/
+  script: test.py
+
+- url: /kanjitest/index\.html
+  script: test.py
+
+- url: /test/
+  static_dir: test
+
+
+- url: /uberlist
+  script: uberlist.py
+
+- url: /uberlist/
+  script: uberlist.py
+
+- url: /uberlist/index\.html
+  script: uberlist.py
+
+- url: /kanjilist
+  script: uberlist.py
+
+- url: /kanjilist/
+  script: uberlist.py
+
+- url: /kanjilist/index\.html
+  script: uberlist.py
+
+- url: /uberlist/
+  static_dir: uberlist
+
+
+- url: /kanjiwarp
+  script: warp.py
+  login: admin
+
+- url: /kanjiwarp/
+  script: warp.py
+  login: admin
+
+- url: /kanjiwarp/index\.html
+  script: warp.py
+  login: admin
+
+- url: /warp/
+  static_dir: warp
+  login: admin
+
+- url: /kanjiquiz
+  script: quiz.py
+
+- url: /kanjiquiz/
+  script: quiz.py
+
+- url: /kanjiquiz/index\.html
+  script: quiz.py
+
+- url: /quiz/
+  static_dir: quiz
+
+- url: /kanjiflip/?.*
+  script: flip.py
+
+- url: /flip/
+  static_dir: flip
+
+- url: /.*
+  script: main.py

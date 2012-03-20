@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 7, Lesson 3 Vocabulary</name>
+	<listItem>
+		<kanji>そうじ(を)する</kanji>
+		<kana>そうじ(を)する</kana>
+		<english>to clean up</english>
+	</listItem>
+	<listItem>
+		<kanji>せんたく(を)する</kanji>
+		<kana>せんたく(を)する</kana>
+		<english>to do laundry</english>
+	</listItem>
+	<listItem>
+		<kanji>りょうり(を)する</kanji>
+		<kana>りょうり(を)する</kana>
+		<english>to cook</english>
+	</listItem>
+	<listItem>
+		<kanji>(さらを)あらう</kanji>
+		<kana>(さらを)あらう</kana>
+		<english>to wash (dishes)</english>
+	</listItem>
+	<listItem>
+		<kanji>(さらを)あらいます</kanji>
+		<kana>(さらを)あらいます</kana>
+		<english>wash (dishes)</english>
+	</listItem>
+	<listItem>
+		<kanji>手伝う</kanji>
+		<kana>てつだう</kana>
+		<english>to help</english>
+	</listItem>
+	<listItem>
+		<kanji>手伝います</kanji>
+		<kana>てつだいます</kana>
+		<english>help</english>
+	</listItem>
+	<listItem>
+		<kanji>(ごみを)出す</kanji>
+		<kana>(ごみを)だす</kana>
+		<english>to take out (the garbage)</english>
+	</listItem>
+	<listItem>
+		<kanji>家事</kanji>
+		<kana>かじ</kana>
+		<english>housework; chores</english>
+	</listItem>
+	<listItem>
+		<kanji>庭仕事</kanji>
+		<kana>にわしごと</kana>
+		<english>yard work</english>
+	</listItem>
+	<listItem>
+		<kanji>ごちそう</kanji>
+		<kana>ごちそう</kana>
+		<english>a big meal; feast</english>
+	</listItem>
+</kanjiList>

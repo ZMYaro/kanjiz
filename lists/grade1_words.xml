@@ -1,0 +1,31 @@
+﻿﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Grade 1 - Words (incomplete)</name>
+	
+	<listItem>
+		<kanji>男の子</kanji>
+		<kana>おとこのこ</kana>
+		<english>boy</english>
+	</listItem>
+	<listItem>
+		<kanji>女の子</kanji>
+		<kana>おんなのこ</kana>
+		<english>girl</english>
+	</listItem>
+	<listItem>
+		<kanji>学校</kanji>
+		<kana>がっこう</kana>
+		<english>school</english>
+	</listItem>
+	<listItem>
+		<kanji>先生</kanji>
+		<kana>せんせい</kana>
+		<english>teacher</english>
+	</listItem>
+	<listItem>
+		<kanji>見ます</kanji>
+		<kana>みます</kana>
+		<english>to see</english>
+	</listItem>
+</kanjiList>

@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 1, Chapter 1, Lesson 6 Vocabulary</name>
+	<listItem>
+		<kanji>十一</kanji>
+		<kana>じゅういち</kana>
+		<english>eleven (11)</english>
+	</listItem>
+	<listItem>
+		<kanji>十二</kanji>
+		<kana>じゅうに</kana>
+		<english>twelve (12)</english>
+	</listItem>
+	<listItem>
+		<kanji>十三</kanji>
+		<kana>じゅうさん</kana>
+		<english>thirteen (13)</english>
+	</listItem>
+	<listItem>
+		<kanji>十四</kanji>
+		<kana>じゅうし/じゅうよん</kana>
+		<english>fourteen (14)</english>
+	</listItem>
+	<listItem>
+		<kanji>十五</kanji>
+		<kana>じゅうご</kana>
+		<english>fifteen (15)</english>
+	</listItem>
+	<listItem>
+		<kanji>十六</kanji>
+		<kana>じゅうろく</kana>
+		<english>sixteen (16)</english>
+	</listItem>
+	<listItem>
+		<kanji>十七</kanji>
+		<kana>じゅうしち/じゅうなな</kana>
+		<english>seventeen (17)</english>
+	</listItem>
+	<listItem>
+		<kanji>十八</kanji>
+		<kana>じゅうはち</kana>
+		<english>eighteen (18)</english>
+	</listItem>
+	<listItem>
+		<kanji>十九</kanji>
+		<kana>じゅうきゅう/じゅうく</kana>
+		<english>nineteen (19)</english>
+	</listItem>
+	<listItem>
+		<kanji>二十</kanji>
+		<kana>にじゅう</kana>
+		<english>twenty (20)</english>
+	</listItem>
+	<listItem>
+		<kanji>三十</kanji>
+		<kana>さんじゅう</kana>
+		<english>thirty (30)</english>
+	</listItem>
+	<listItem>
+		<kanji>四十</kanji>
+		<kana>よんじゅう</kana>
+		<english>forty (40)</english>
+	</listItem>
+	<listItem>
+		<kanji>五十</kanji>
+		<kana>ごじゅう</kana>
+		<english>fifty (50)</english>
+	</listItem>
+	<listItem>
+		<kanji>六十</kanji>
+		<kana>ろくじゅう</kana>
+		<english>sixty (60)</english>
+	</listItem>
+	<listItem>
+		<kanji>七十</kanji>
+		<kana>しちじゅう/ななじゅう</kana>
+		<english>seventy (70)</english>
+	</listItem>
+	<listItem>
+		<kanji>八十</kanji>
+		<kana>はちじゅう</kana>
+		<english>eighty (80)</english>
+	</listItem>
+	<listItem>
+		<kanji>九十</kanji>
+		<kana>きゅうじゅう</kana>
+		<english>ninety (90)</english>
+	</listItem>
+	<listItem>
+		<kanji>百</kanji>
+		<kana>ひゃく</kana>
+		<english>one hundred (100)</english>
+	</listItem>
+	<listItem>
+		<kanji>これ</kanji>
+		<kana>これ</kana>
+		<english>this one (near the speaker)</english>
+	</listItem>
+	<listItem>
+		<kanji>それ</kanji>
+		<kana>それ</kana>
+		<english>that one (near the listener)</english>
+	</listItem>
+	<listItem>
+		<kanji>あれ</kanji>
+		<kana>あれ</kana>
+		<english>that one over there (away from the speaker and listener)</english>
+	</listItem>
+	<listItem>
+		<kanji>はい</kanji>
+		<kana>はい</kana>
+		<english>yes</english>
+	</listItem>
+	<listItem>
+		<kanji>ええ</kanji>
+		<kana>ええ</kana>
+		<english>yes (informal)</english>
+	</listItem>
+	<listItem>
+		<kanji>いいえ</kanji>
+		<kana>いいえ</kana>
+		<english>no</english>
+	</listItem>
+	<listItem>
+		<kanji>はい、そうです</kanji>
+		<kana>はい、そうです</kana>
+		<english>yes, it is</english>
+	</listItem>
+	<listItem>
+		<kanji>いいえ、そうでは　ありません</kanji>
+		<kana>いいえ、そうでは　ありません</kana>
+		<english>no, it is not</english>
+	</listItem>
+	<listItem>
+		<kanji>いいえ、そうじゃ　ありません</kanji>
+		<kana>いいえ、そうじゃ　ありません</kana>
+		<english>no, it is not (less formal)</english>
+	</listItem>
+	<listItem>
+		<kanji>~ページ</kanji>
+		<kana>～ページ</kana>
+		<english>page ~</english>
+	</listItem>
+	<listItem>
+		<kanji>何ページ</kanji>
+		<kana>なんページ</kana>
+		<english>what page?</english>
+	</listItem>
+</kanjiList>

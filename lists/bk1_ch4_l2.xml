@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 1, Chapter 4, Lesson 2 Vocabulary</name>
+	<listItem>
+		<kanji>食べます/食べる</kanji>
+		<kana>たべます/たべる</kana>
+		<english>to eat</english>
+	</listItem>
+	<listItem>
+		<kanji>飲みます/飲む</kanji>
+		<kana>のみます/のむ</kana>
+		<english>to drink</english>
+	</listItem>
+	<listItem>
+		<kanji>ご飯</kanji>
+		<kana>ごはん</kana>
+		<english>cooked rice</english>
+	</listItem>
+	<listItem>
+		<kanji>パン</kanji>
+		<kana>パン</kana>
+		<english>bread</english>
+	</listItem>
+	<listItem>
+		<kanji>（お）水</kanji>
+		<kana>（お）みず</kana>
+		<english>water</english>
+	</listItem>
+	<listItem>
+		<kanji>ジュース</kanji>
+		<kana>ジュース</kana>
+		<english>juice</english>
+	</listItem>
+	<listItem>
+		<kanji>牛乳/ミルク</kanji>
+		<kana>ぎゅうにゅう/ミルク</kana>
+		<english>[cow's] milk</english>
+	</listItem>
+	<listItem>
+		<kanji>コーラ</kanji>
+		<kana>コーラ</kana>
+		<english>cola</english>
+	</listItem>
+	<listItem>
+		<kanji>お茶</kanji>
+		<kana>おちゃ</kana>
+		<english>tea</english>
+	</listItem>
+	<listItem>
+		<kanji>コーヒー</kanji>
+		<kana>コーヒー</kana>
+		<english>coffee</english>
+	</listItem>
+	<listItem>
+		<kanji>毎日</kanji>
+		<kana>まいにち</kana>
+		<english>everyday</english>
+	</listItem>
+	<listItem>
+		<kanji>時々</kanji>
+		<kana>ときどき</kana>
+		<english>sometimes</english>
+	</listItem>
+	<listItem>
+		<kanji>大抵</kanji>
+		<kana>たいてい</kana>
+		<english>usually</english>
+	</listItem>
+	<listItem>
+		<kanji>いつも</kanji>
+		<kana>いつも</kana>
+		<english>always</english>
+	</listItem>
+	<listItem>
+		<kanji>トースト</kanji>
+		<kana>トースト</kana>
+		<english>toast</english>
+	</listItem>
+	<listItem>
+		<kanji>シリアル</kanji>
+		<kana>シリアル</kana>
+		<english>cereal</english>
+	</listItem>
+	<listItem>
+		<kanji>ホット ケーキ</kanji>
+		<kana>ホット ケーキ</kana>
+		<english>pancakes</english>
+	</listItem>
+	<listItem>
+		<kanji>卵</kanji>
+		<kana>たまご</kana>
+		<english>egg</english>
+	</listItem>
+	<listItem>
+		<kanji>ベーコン</kanji>
+		<kana>ベーコン</kana>
+		<english>bacon</english>
+	</listItem>
+	<listItem>
+		<kanji>サラダ</kanji>
+		<kana>サラダ</kana>
+		<english>salad</english>
+	</listItem>
+	<listItem>
+		<kanji>果物/フルーツ</kanji>
+		<kana>くだもの/フルーツ</kana>
+		<english>fruit</english>
+	</listItem>
+	<listItem>
+		<kanji>紅茶</kanji>
+		<kana>こうちゃ</kana>
+		<english>black tea</english>
+	</listItem>
+	<listItem>
+		<kanji>けっして + [neg.]</kanji>
+		<kana>けっして + [neg.]</kana>
+		<english>never</english>
+	</listItem>
+</kanjiList>

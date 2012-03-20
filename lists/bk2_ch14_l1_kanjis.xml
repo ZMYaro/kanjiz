@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 14, Lesson 1 Kanjis</name>
+	<listItem>
+		<kanji>作り方</kanji>
+		<kana>つくりかた</kana>
+		<english>how to make</english>
+	</listItem>
+	<listItem>
+		<kanji>知っている</kanji>
+		<kana>しっている</kana>
+		<english>know</english>
+	</listItem>
+	<listItem>
+		<kanji>教える</kanji>
+		<kana>おしえる</kana>
+		<english></english>
+	</listItem>
+	<listItem>
+		<kanji>習う</kanji>
+		<kana>ならう</kana>
+		<english></english>
+	</listItem>
+	<listItem>
+		<kanji>肉</kanji>
+		<kana>にく</kana>
+		<english>meat</english>
+	</listItem>
+	<listItem>
+		<kanji>鳥</kanji>
+		<kana>とり</kana>
+		<english>bird</english>
+	</listItem>
+	<listItem>
+		<kanji>台所</kanji>
+		<kana>どいどころ</kana>
+		<english></english>
+	</listItem>
+	<listItem>
+		<kanji>二分の一</kanji>
+		<kana>にぶんのいち</kana>
+		<english>one half (&#189;)</english>
+	</listItem>
+	<listItem>
+		<kanji>牛肉</kanji>
+		<kana>ぎゅうにく</kana>
+		<english>beef</english>
+	</listItem>
+	<listItem>
+		<kanji>すき焼き</kanji>
+		<kana>すきやき</kana>
+		<english>&lt;i&gt;sukiyaki&lt;/i&gt;</english>
+	</listItem>
+	<listItem>
+		<kanji>豚肉</kanji>
+		<kana>ぶたにく</kana>
+		<english>pork</english>
+	</listItem>
+	<listItem>
+		<kanji>卵</kanji>
+		<kana>たまご</kana>
+		<english>egg</english>
+	</listItem>
+	<listItem>
+		<kanji>野菜</kanji>
+		<kana>やさい</kana>
+		<english>vegetable</english>
+	</listItem>
+	<listItem>
+		<kanji>果物</kanji>
+		<kana>くだもの</kana>
+		<english>fruit</english>
+	</listItem>
+	<listItem>
+		<kanji>材料</kanji>
+		<kana>ざいりょう</kana>
+		<english>ingredients</english>
+	</listItem>
+	<listItem>
+		<kanji>料理</kanji>
+		<kana>りょうり</kana>
+		<english>cooking</english>
+	</listItem>
+</kanjiList>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 1, Chapter 5, Lesson 4 Vocabulary</name>
+	<listItem>
+		<kanji>とても + affirmative</kanji>
+		<kana>とても + affirmative</kana>
+		<english>very ~</english>
+	</listItem>
+	<listItem>
+		<kanji>まあまあ + affirmative</kanji>
+		<kana>まあまあ + affirmative</kana>
+		<english>so,so ~</english>
+	</listItem>
+	<listItem>
+		<kanji>少し/ちょっと ~</kanji>
+		<kana>すこし/ちょっと ~</kana>
+		<english>a little ~</english>
+	</listItem>
+	<listItem>
+		<kanji>あまり + negative</kanji>
+		<kana>あまり + negative</kana>
+		<english>not very ~</english>
+	</listItem>
+	<listItem>
+		<kanji>全然 + negative</kanji>
+		<kana>ぜんぜん + negative</kana>
+		<english>not ~ at all</english>
+	</listItem>
+	<listItem>
+		<kanji>とんでもないです。</kanji>
+		<kana>とんでもないです。</kana>
+		<english>Far from it!</english>
+	</listItem>
+</kanjiList>

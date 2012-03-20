@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 14, Lesson 4 Kanjis</name>
+	<listItem>
+		<kanji>気持ちが　悪い</kanji>
+		<kana>きもちが　わるい</kana>
+		<english>unpleasant; uncomfortable</english>
+	</listItem>
+	<listItem>
+		<kanji>ご飯が　出来る</kanji>
+		<kana>ごはんが　できる</kana>
+		<english>the rice is done</english>
+	</listItem>
+	<listItem>
+		<kanji>飲み過ぎる</kanji>
+		<kana>のみすぎる</kana>
+		<english>drank too much</english>
+	</listItem>
+	<listItem>
+		<kanji>料理</kanji>
+		<kana>りょうり</kana>
+		<english>cooking</english>
+	</listItem>
+	<listItem>
+		<kanji>晩ご飯</kanji>
+		<kana>ばんごはん</kana>
+		<english>dinner</english>
+	</listItem>
+	<listItem>
+		<kanji>時々</kanji>
+		<kana>ときどき</kana>
+		<english>sometimes</english>
+	</listItem>
+	<listItem>
+		<kanji>お皿</kanji>
+		<kana>おさら</kana>
+		<english>plate</english>
+	</listItem>
+	<listItem>
+		<kanji>家族</kanji>
+		<kana>かぞく</kana>
+		<english>family</english>
+	</listItem>
+	<listItem>
+		<kanji>手伝う</kanji>
+		<kana>てつだう</kana>
+		<english>help</english>
+	</listItem>
+	<listItem>
+		<kanji>醤油</kanji>
+		<kana>しょうゆ</kana>
+		<english>soy sauce</english>
+	</listItem>
+	<listItem>
+		<kanji>生卵</kanji>
+		<kana>なまたまご</kana>
+		<english>raw egg</english>
+	</listItem>
+	<listItem>
+		<kanji>片付ける</kanji>
+		<kana>かたづける</kana>
+		<english>to clean up; to put away</english>
+	</listItem>
+</kanjiList>

@@ -1,0 +1,61 @@
+<html>
+	<head>
+		<link rel="apple-touch-icon-precomposed" href="/uberlist/apple-touch-icon-precomposed.png"/>
+		
+		<link rel="shortcut icon" type="image/x-icon" href="/imgs/favicon.ico"/>
+		
+		<script type="text/javascript" src="/lists/loadList.js"></script>
+		<script type="text/javascript" src="/uberlist/uberlist.js"></script>
+		</script>
+		<style type="text/css">
+			input[type=number] {
+				border-width:1px;
+			}
+			
+			#controls {
+				margin-top:2px;
+				margin-bottom:4px;
+				padding:0px;
+			}
+			
+			#vocabTable {
+				width:100%;
+				margin-left:0%;
+				margit-right:0%;
+			}
+			th {
+				border-top-style:solid;
+				border-top-width:1px;
+				border-top-color:black;
+				
+				text-align:center;
+			}
+			td {
+				border-top-style:dotted;
+				border-top-width:1px;
+				border-top-color:#B0B0B0;
+				
+				text-align:center;
+			}
+		</style>
+	</head>
+	<body onload="init();">
+		<div id="controls">
+			Book
+			<input type="number" maxlength="1" min="1" max="2" style="width:3em;" id="bk"/>
+			Chapter
+			<input type="number" maxlength="2" min="1" max="16" style="width:3em;" id="ch"/>
+			Lesson
+			<input type="number" maxlength="1" min="1" max="5" style="width:3em;" id="l"/>
+			<button onclick="loadSpecificList();">
+				Load list
+			</button>
+			|
+			<button onclick="location.hash = ''; location.reload();">
+				Load all lists
+			</button>
+		</div>
+		<table id="vocabTable" cellspacing="0">
+		</table>
+	</body>
+</html>

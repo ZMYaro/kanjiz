@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 3, Lesson 3 Vocabulary</name>
+	
+	<listItem>
+		<kanji>借ります</kanji>
+		<kana>かります</kana>
+		<english>to borrow/rent (from)</english>
+	</listItem>
+	<listItem>
+		<kanji>借りる</kanji>
+		<kana>かりる</kana>
+		<english>borrow/rent (from)</english>
+	</listItem>
+	<listItem>
+		<kanji>借りて</kanji>
+		<kana>かりて</kana>
+		<english>borrow/rent (te-form)</english>
+	</listItem>
+	<listItem>
+		<kanji>気を　つけて</kanji>
+		<kana>きを　つけて</kana>
+		<english>be careful</english>
+	</listItem>
+	<listItem>
+		<kanji>気を　つける</kanji>
+		<kana>きを　つける</kana>
+		<english>be careful</english>
+	</listItem>
+	<listItem>
+		<kanji>気を　つけます</kanji>
+		<kana>きを　つけます</kana>
+		<english>to be careful</english>
+	</listItem>
+	<listItem>
+		<kanji>映画館</kanji>
+		<kana>えいがかん</kana>
+		<english>movie theater</english>
+	</listItem>
+	<listItem>
+		<kanji>証明書</kanji>
+		<kana>しょうめいしょ</kana>
+		<english>I.D.</english>
+	</listItem>
+	<listItem>
+		<kanji>運転免許</kanji>
+		<kana>うんてんめんきょ</kana>
+		<english>driver's license</english>
+	</listItem>
+	<listItem>
+		<kanji>パスポート</kanji>
+		<kana>パスポート</kana>
+		<english>passport</english>
+	</listItem>
+	<listItem>
+		<kanji>ところで</kanji>
+		<kana>ところで</kana>
+		<english>by the way</english>
+	</listItem>
+	<listItem>
+		<kanji>お金を　出します</kanji>
+		<kana>おかねを　だします</kana>
+		<english>to withdraw money</english>
+	</listItem>
+	<listItem>
+		<kanji>ゆうびんきょく</kanji>
+		<kana>ゆうびんきょく</kana>
+		<english>post office</english>
+	</listItem>
+	<listItem>
+		<kanji>ゆうびんを　出します</kanji>
+		<kana>ゆうびんを　だします</kana>
+		<english>to mail</english>
+	</listItem>
+	<listItem>
+		<kanji>きって</kanji>
+		<kana>きって</kana>
+		<english>postage stamp</english>
+	</listItem>
+	<listItem>
+		<kanji>教会</kanji>
+		<kana>きょうかい</kana>
+		<english>church</english>
+	</listItem>
+	<listItem>
+		<kanji>おいのりを　します</kanji>
+		<kana>おいのりを　します</kana>
+		<english>to pray</english>
+	</listItem>
+	<listItem>
+		<kanji>どうぶつえん</kanji>
+		<kana>どうぶつえん</kana>
+		<english>zoo</english>
+	</listItem>
+	<listItem>
+		<kanji>どうぶつ</kanji>
+		<kana>どうぶつ</kana>
+		<english>animal</english>
+	</listItem>
+</kanjiList>

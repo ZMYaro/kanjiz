@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 14, Lesson 2 Kanjis</name>
+	<listItem>
+		<kanji>初めに</kanji>
+		<kana>はじめに</kana>
+		<english>at the beginning</english>
+	</listItem>
+	<listItem>
+		<kanji>次に</kanji>
+		<kana>つぎに</kana>
+		<english>next</english>
+	</listItem>
+	<listItem>
+		<kanji>終わりに</kanji>
+		<kana>おわりに</kana>
+		<english>at the end</english>
+	</listItem>
+	<listItem>
+		<kanji>半分</kanji>
+		<kana>はんぶん</kana>
+		<english>half</english>
+	</listItem>
+	<listItem>
+		<kanji>入れる</kanji>
+		<kana>いれる</kana>
+		<english></english>
+	</listItem>
+	<listItem>
+		<kanji>洗う</kanji>
+		<kana>あらう</kana>
+		<english>to wash</english>
+	</listItem>
+	<listItem>
+		<kanji>油</kanji>
+		<kana>あぶら</kana>
+		<english>oil</english>
+	</listItem>
+	<listItem>
+		<kanji>魚</kanji>
+		<kana>さかな</kana>
+		<english>fish</english>
+	</listItem>
+	<listItem>
+		<kanji>少し</kanji>
+		<kana>すこし</kana>
+		<english>a little bit</english>
+	</listItem>
+	<listItem>
+		<kanji>切る</kanji>
+		<kana>きる</kana>
+		<english></english>
+	</listItem>
+	<listItem>
+		<kanji>小さい</kanji>
+		<kana>ちいさい</kana>
+		<english>small</english>
+	</listItem>
+	<listItem>
+		<kanji>食べる</kanji>
+		<kana>たべる</kana>
+		<english>to eat</english>
+	</listItem>
+	<listItem>
+		<kanji>熱い</kanji>
+		<kana>あつい</kana>
+		<english></english>
+	</listItem>
+	<listItem>
+		<kanji>焼肉</kanji>
+		<kana>やきにく</kana>
+		<english>grilled meat</english>
+	</listItem>
+	<listItem>
+		<kanji>薄い</kanji>
+		<kana>うすい</kana>
+		<english>thin(?)</english>
+	</listItem>
+</kanjiList>

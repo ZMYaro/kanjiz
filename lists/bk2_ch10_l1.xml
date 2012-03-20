@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 10, Lesson 1 Vocabulary</name>
+	<listItem>
+		<kanji>時間</kanji>
+		<kana>じかん</kana>
+		<english>time</english>
+	</listItem>
+	<listItem>
+		<kanji>場所</kanji>
+		<kana>ばしょ</kana>
+		<english>location, place</english>
+	</listItem>
+	<listItem>
+		<kanji>体育館</kanji>
+		<kana>たいいくかん</kana>
+		<english>gym</english>
+	</listItem>
+	<listItem>
+		<kanji>運動場</kanji>
+		<kana>うんどうじょう</kana>
+		<english>athletic field</english>
+	</listItem>
+	<listItem>
+		<kanji>運動</kanji>
+		<kana>うんどう</kana>
+		<english>sports</english>
+	</listItem>
+	<listItem>
+		<kanji>ユニフォーム</kanji>
+		<kana>ユニフォーム</kana>
+		<english>uniform</english>
+	</listItem>
+	<listItem>
+		<kanji>選手</kanji>
+		<kana>せんしゅ</kana>
+		<english>[sports] player</english>
+	</listItem>
+	<listItem>
+		<kanji>試合に 出る</kanji>
+		<kana>しあいに でる</kana>
+		<english>to participate in a [sports] game</english>
+	</listItem>
+	<listItem>
+		<kanji>応援 (を) する</kanji>
+		<kana>おうえん (を) する</kana>
+		<english>to cheer</english>
+	</listItem>
+	<listItem>
+		<kanji>〜が 始まる</kanji>
+		<kana>〜が はじまる</kana>
+		<english>~ begins, starts</english>
+	</listItem>
+	<listItem>
+		<kanji>〜が 終わる</kanji>
+		<kana>〜が おわる</kana>
+		<english>~ finishes, ends</english>
+	</listItem>
+	<listItem>
+		<kanji>陸上</kanji>
+		<kana>りくじょう</kana>
+		<english>track</english>
+	</listItem>
+	<listItem>
+		<kanji>チヤーリーダー</kanji>
+		<kana>チヤーリーダー</kana>
+		<english>cheerleader</english>
+	</listItem>
+	<listItem>
+		<kanji>プロ</kanji>
+		<kana>プロ</kana>
+		<english>professional</english>
+	</listItem>
+	<listItem>
+		<kanji>アマ(チア)</kanji>
+		<kana>アマ(チア)</kana>
+		<english>amateur</english>
+	</listItem>
+	<listItem>
+		<kanji>スタジアム</kanji>
+		<kana>スタジアム</kana>
+		<english>stadium</english>
+	</listItem>
+	<listItem>
+		<kanji>ドーム</kanji>
+		<kana>ドーム</kana>
+		<english>dorm</english>
+	</listItem>
+	<listItem>
+		<kanji>きょうぎじょう</kanji>
+		<kana>きょうぎじょう</kana>
+		<english>track field</english>
+	</listItem>
+	<listItem>
+		<kanji>トーナメント</kanji>
+		<kana>トーナメント</kana>
+		<english>tournament</english>
+	</listItem>
+</kanjiList>

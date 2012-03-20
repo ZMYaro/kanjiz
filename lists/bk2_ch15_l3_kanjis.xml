@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 15, Lesson Kanjis</name>
+	<listItem>
+		<kanji>仕事</kanji>
+		<kana>しごと</kana>
+		<english>job</english>
+	</listItem>
+	<listItem>
+		<kanji>医者</kanji>
+		<kana>いしゃ</kana>
+		<english>doctor</english>
+	</listItem>
+	<listItem>
+		<kanji>自分</kanji>
+		<kana>じぶん</kana>
+		<english>myself</english>
+	</listItem>
+	<listItem>
+		<kanji>助ける</kanji>
+		<kana>たすける</kana>
+		<english>to rescue; help</english>
+	</listItem>
+	<listItem>
+		<kanji>早い</kanji>
+		<kana>はやい</kana>
+		<english>early</english>
+	</listItem>
+	<listItem>
+		<kanji>借りる</kanji>
+		<kana>かりる</kana>
+		<english>to borrow/rent</english>
+	</listItem>
+	<listItem>
+		<kanji>返す</kanji>
+		<kana>かえす</kana>
+		<english>to return (an item)</english>
+	</listItem>
+	<listItem>
+		<kanji>長い</kanji>
+		<kana>ながい</kana>
+		<english>long</english>
+	</listItem>
+	<listItem>
+		<kanji>服</kanji>
+		<kana>ふく</kana>
+		<english>clothes</english>
+	</listItem>
+	<listItem>
+		<kanji>結婚</kanji>
+		<kana>けっこん</kana>
+		<english>marry</english>
+	</listItem>
+	<listItem>
+		<kanji>家族</kanji>
+		<kana>かぞく</kana>
+		<english>family</english>
+	</listItem>
+</kanjiList>

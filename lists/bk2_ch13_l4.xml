@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 13, Lesson 4 Vocabulary</name>
+	<listItem>
+		<kanji>混んで います</kanji>
+		<kana>こんで います</kana>
+		<english>is crowded</english>
+	</listItem>
+	<listItem>
+		<kanji>込む/込みます</kanji>
+		<kana>こむ/こみます</kana>
+		<english>to become crowded</english>
+	</listItem>
+	<listItem>
+		<kanji>すいて います </kanji>
+		<kana>すいて  います</kana>
+		<english>is empty, is not crowded</english>
+	</listItem>
+	<listItem>
+		<kanji>すく/すきます</kanji>
+		<kana>すく/すきます</kana>
+		<english>to become empty</english>
+	</listItem>
+	<listItem>
+		<kanji>ラッシュアワー</kanji>
+		<kana>ラッシュアワー</kana>
+		<english>rush hour</english>
+	</listItem>
+	<listItem>
+		<kanji>フリーウェイ</kanji>
+		<kana>フリーウェイ</kana>
+		<english>freeway</english>
+	</listItem>
+	<listItem>
+		<kanji>ハイウェイ</kanji>
+		<kana>ハイウェイ</kana>
+		<english>highway</english>
+	</listItem>
+</kanjiList>

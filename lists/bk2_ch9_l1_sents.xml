@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 9, Lesson 1 Sample Sentences</name>
+	<listItem>
+		<kanji>Aと Bで</kanji>
+		<kana>Aと Bで</kana>
+		<english>between A and B</english>
+	</listItem>
+	<listItem>
+		<kanji>どちらの シャツが 好きですか。</kanji>
+		<kana>どちらの シャツが すきですか。</kana>
+		<english>Which shirt do you like? (formal)</english>
+	</listItem>
+	<listItem>
+		<kanji>青の方が 好きです。</kanji>
+		<kana>あおほうが すきです。</kana>
+		<english>I prefer blue.</english>
+	</listItem>
+	<listItem>
+		<kanji>Aは Bより 綺麗です。</kanji>
+		<kana>Aは Bより きれいです。</kana>
+		<english>A is prettier than B.</english>
+	</listItem>
+	<listItem>
+		<kanji>Aは Bより たかいです。</kanji>
+		<kana>Aは Bより たかいです。</kana>
+		<english>A is more expensive than B.</english>
+	</listItem>
+	<listItem>
+		<kanji>もっと たかいです。</kanji>
+		<kana>もっと たかいです。</kana>
+		<english>It is more expensive.</english>
+	</listItem>
+	<listItem>
+		<kanji>ずっと たかいです。</kanji>
+		<kana>ずっと たかいです。</kana>
+		<english>It is far more expensive.</english>
+	</listItem>
+	<listItem>
+		<kanji>両方 欲しいです。</kanji>
+		<kana>りょうほう ほしいです。</kana>
+		<english>I want both.</english>
+	</listItem>
+	<listItem>
+		<kanji>どちらも 好きではありません。</kanji>
+		<kana>どちらも すきではありません。</kana>
+		<english>I do not like either.</english>
+	</listItem>
+	<listItem>
+		<kanji>先生に プレゼントを さしあげました。</kanji>
+		<kana>せんせいに プレゼント さしあげました。</kana>
+		<english>I gave a present to my teacher.</english>
+	</listItem>
+	<listItem>
+		<kanji>何を さしあげましょうか。</kanji>
+		<kana>なにを さしあげましょうか。</kana>
+		<english>May I help you?</english>
+	</listItem>
+</kanjiList>

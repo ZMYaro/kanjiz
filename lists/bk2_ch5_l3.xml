@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 5, Lesson 3 Vocabulary</name>
+	<listItem>
+		<kanji>さいふ</kanji>
+		<kana>さいふ</kana>
+		<english>wallet</english>
+	</listItem>
+	<listItem>
+		<kanji>（～て）みます</kanji>
+		<kana>（～て）みます</kana>
+		<english>will try (~)</english>
+	</listItem>
+	<listItem>
+		<kanji>ごちそう（を）する</kanji>
+		<kana>ごちそう（を）する</kana>
+		<english>to treat (someone) to a meal</english>
+	</listItem>
+	<listItem>
+		<kanji>返す/返します</kanji>
+		<kana>かえす/かえします</kana>
+		<english>to return (something)</english>
+	</listItem>
+	<listItem>
+		<kanji>＃こ</kanji>
+		<kana>＃こ</kana>
+		<english>general counter (conversational)</english>
+	</listItem>
+	<listItem>
+		<kanji>わりかんに しましょう</kanji>
+		<kana>わりかんに しましょう</kana>
+		<english>let us split the cost</english>
+	</listItem>
+	<listItem>
+		<kanji>えんりょしないで 下さい</kanji>
+		<kana>えんりょしないで ください</kana>
+		<english>please make yourself at home</english>
+	</listItem>
+</kanjiList>

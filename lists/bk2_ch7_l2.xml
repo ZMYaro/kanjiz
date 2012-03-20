@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 7, Lesson 2 Vocabulary</name>
+	<listItem>
+		<kanji>(お)天気</kanji>
+		<kana>(お)てんき</kana>
+		<english>weather</english>
+	</listItem>
+	<listItem>
+		<kanji>雨</kanji>
+		<kana>あめ</kana>
+		<english>rain</english>
+	</listItem>
+	<listItem>
+		<kanji>雪</kanji>
+		<kana>ゆき</kana>
+		<english>snow</english>
+	</listItem>
+	<listItem>
+		<kanji>降る</kanji>
+		<kana>ふる</kana>
+		<english>(rain, snow) to fall</english>
+	</listItem>
+	<listItem>
+		<kanji>降ります</kanji>
+		<kana>ふります</kana>
+		<english>(rain, snow) fall</english>
+	</listItem>
+	<listItem>
+		<kanji>曇り</kanji>
+		<kana>くもり</kana>
+		<english>cloudy</english>
+	</listItem>
+	<listItem>
+		<kanji>晴れ</kanji>
+		<kana>はれ</kana>
+		<english>clear [weather]</english>
+	</listItem>
+	<listItem>
+		<kanji>風</kanji>
+		<kana>かぜ</kana>
+		<english>wind</english>
+	</listItem>
+	<listItem>
+		<kanji>温度</kanji>
+		<kana>おんど</kana>
+		<english>temperature (of an object or room)</english>
+	</listItem>
+	<listItem>
+		<kanji>〜でじょう&#8600;</kanji>
+		<kana>〜でじょう&#8600;</kana>
+		<english>probably ~</english>
+	</listItem>
+	<listItem>
+		<kanji>〜でじょう&#8599;</kanji>
+		<kana>〜でじょう&#8599;</kana>
+		<english>is it not ~?</english>
+	</listItem>
+	<listItem>
+		<kanji>たぶん</kanji>
+		<kana>たぶん</kana>
+		<english>probably</english>
+	</listItem>
+	<listItem>
+		<kanji>曇</kanji>
+		<kana>くも</kana>
+		<english>cloud</english>
+	</listItem>
+	<listItem>
+		<kanji>曇る</kanji>
+		<kana>くもる</kana>
+		<english>to become cloudy</english>
+	</listItem>
+	<listItem>
+		<kanji>曇ります</kanji>
+		<kana>くもります</kana>
+		<english>become cloudy</english>
+	</listItem>
+	<listItem>
+		<kanji>晴れる</kanji>
+		<kana>はれる</kana>
+		<english>to clear up [weather]</english>
+	</listItem>
+	<listItem>
+		<kanji>晴れります</kanji>
+		<kana>はれります</kana>
+		<english>clear up [weather]</english>
+	</listItem>
+	<listItem>
+		<kanji>吹く</kanji>
+		<kana>ふく</kana>
+		<english>to blow</english>
+	</listItem>
+	<listItem>
+		<kanji>吹きます</kanji>
+		<kana>ふきます</kana>
+		<english>blow</english>
+	</listItem>
+	<listItem>
+		<kanji>台風</kanji>
+		<kana>たいふう</kana>
+		<english>typhoon</english>
+	</listItem>
+	<listItem>
+		<kanji>地震</kanji>
+		<kana>じしん</kana>
+		<english>earthquake</english>
+	</listItem>
+	<listItem>
+		<kanji>ハリケーン</kanji>
+		<kana>ハリケーン</kana>
+		<english>hurricane</english>
+	</listItem>
+	<listItem>
+		<kanji>天気予報</kanji>
+		<kana>てんきよほう</kana>
+		<english>weather forecast</english>
+	</listItem>
+	<listItem>
+		<kanji>気温</kanji>
+		<kana>きおん</kana>
+		<english>atmospheric temperature</english>
+	</listItem>
+	<listItem>
+		<kanji>マイナス</kanji>
+		<kana>マイナス</kana>
+		<english>minus</english>
+	</listItem>
+	<listItem>
+		<kanji>後</kanji>
+		<kana>のち</kana>
+		<english>later</english>
+	</listItem>
+</kanjiList>

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 1, Chapter 4, Lesson 1 Vocabulary</name>
+	<listItem>
+		<kanji>話します/話す</kanji>
+		<kana>はなします/はなす</kana>
+		<english>speak, talk</english>
+	</listItem>
+	<listItem>
+		<kanji>日本語</kanji>
+		<kana>にほんご</kana>
+		<english>Japanese language</english>
+	</listItem>
+	<listItem>
+		<kanji>英語</kanji>
+		<kana>えいご</kana>
+		<english>English language</english>
+	</listItem>
+	<listItem>
+		<kanji>家</kanji>
+		<kana>うち</kana>
+		<english>house</english>
+	</listItem>
+	<listItem>
+		<kanji>友達</kanji>
+		<kana>ともだち</kana>
+		<english>friend</english>
+	</listItem>
+	<listItem>
+		<kanji>中国語</kanji>
+		<kana>ちゅうごくご</kana>
+		<english>Chinese language</english>
+	</listItem>
+	<listItem>
+		<kanji>韓国語</kanji>
+		<kana>かんこくご</kana>
+		<english>Korean language</english>
+	</listItem>
+	<listItem>
+		<kanji>スペイン語</kanji>
+		<kana>スペインご</kana>
+		<english>Spanish language</english>
+	</listItem>
+	<listItem>
+		<kanji>フランス語</kanji>
+		<kana>フランスご</kana>
+		<english>French language</english>
+	</listItem>
+	<listItem>
+		<kanji>ドイツ語</kanji>
+		<kana>ドイツご</kana>
+		<english>German language</english>
+	</listItem>
+	<listItem>
+		<kanji>何語</kanji>
+		<kana>なにご</kana>
+		<english>what language?</english>
+	</listItem>
+	<listItem>
+		<kanji>[place]で</kanji>
+		<kana>[place]で</kana>
+		<english>at/in [place]</english>
+	</listItem>
+	<listItem>
+		<kanji>よく</kanji>
+		<kana>よく</kana>
+		<english>well, often</english>
+	</listItem>
+	<listItem>
+		<kanji>少し</kanji>
+		<kana>すこし</kana>
+		<english>a little</english>
+	</listItem>
+	<listItem>
+		<kanji>ちょっと</kanji>
+		<kana>ちょっと</kana>
+		<english>a little [informal]</english>
+	</listItem>
+	<listItem>
+		<kanji>でも、</kanji>
+		<kana>でも、</kana>
+		<english>But,</english>
+	</listItem>
+	<listItem>
+		<kanji>ラテン語</kanji>
+		<kana>ラテンご</kana>
+		<english>Latin</english>
+	</listItem>
+	<listItem>
+		<kanji>ロシア語</kanji>
+		<kana>ロシアご</kana>
+		<english>Russian</english>
+	</listItem>
+</kanjiList>

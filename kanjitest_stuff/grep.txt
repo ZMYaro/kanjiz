@@ -1,0 +1,6 @@
+In KanjiTest_Z.
+- grep [str] [file]      (search for [str] within a specific list)
+- grep [str] *           (search for [str] in all lists)
+- grep -r [str] *        (search for [str] in all lists in all subfolders)
+- grep -A 2 [str] *      (search for [str] and list the Japanese in the 2 lines above)
+- grep -A 3 -B 1 [str] * (search for [str] and list the entire <listItem>)

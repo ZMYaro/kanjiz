@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Eco Kanjis</name>
+	
+	<listItem>
+		<kanji>環境</kanji>
+		<kana>かんきょう</kana>
+		<english>environment</english>
+	</listItem>
+	<listItem>
+		<kanji>地球</kanji>
+		<kana>ちきゅう</kana>
+		<english>Earth</english>
+	</listItem>
+	<listItem>
+		<kanji>自然</kanji>
+		<kana>しぜん</kana>
+		<english>nature</english>
+	</listItem>
+	<listItem>
+		<kanji>資源</kanji>
+		<kana>しげん</kana>
+		<english>resource</english>
+	</listItem>
+	<listItem>
+		<kanji>生活</kanji>
+		<kana>せいかつ</kana>
+		<english>life/living</english>
+	</listItem>
+	<listItem>
+		<kanji>大切</kanji>
+		<kana>たいせつ</kana>
+		<english>important</english>
+	</listItem>
+	<listItem>
+		<kanji>節約します</kanji>
+		<kana>せつやくします</kana>
+		<english>to save</english>
+	</listItem>
+	<listItem>
+		<kanji>守ります</kanji>
+		<kana>まもります</kana>
+		<english>to protect</english>
+	</listItem>
+	<listItem>
+		<kanji>使います</kanji>
+		<kana>つかいます</kana>
+		<english>to use</english>
+	</listItem>
+	<listItem>
+		<kanji>便利</kanji>
+		<kana>べんり</kana>
+		<english>convenient</english>
+	</listItem>
+	<listItem>
+		<kanji>捨てます</kanji>
+		<kana>すてます</kana>
+		<english>to throw away</english>
+	</listItem>
+	<listItem>
+		<kanji>消します</kanji>
+		<kana>けします</kana>
+		<english>to turn off</english>
+	</listItem>
+	<listItem>
+		<kanji>止めます</kanji>
+		<kana>とめます</kana>
+		<english>to stop</english>
+	</listItem>
+	<listItem>
+		<kanji>電球</kanji>
+		<kana>でんきゅう</kana>
+		<english>light bulbs</english>
+	</listItem>
+	<listItem>
+		<kanji>水道</kanji>
+		<kana>すいどう</kana>
+		<english>water supply</english>
+	</listItem>
+</kanjiList>

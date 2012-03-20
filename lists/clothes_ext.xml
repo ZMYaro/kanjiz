@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 3, Lesson 1 Additional Words</name>
+	
+	<listItem>
+		<kanji>ストライプ(の～）</kanji>
+		<kana>ストライプ(の～）</kana>
+		<english>striped </english>
+	</listItem>
+	<listItem>
+		<kanji>水玉（の～）</kanji>
+		<kana>みずたま（の～）</kana>
+		<english>polka dotted</english>
+	</listItem>
+	<listItem>
+		<kanji>たて</kanji>
+		<kana>たて</kana>
+		<english>vertical</english>
+	</listItem>
+	<listItem>
+		<kanji>よこ</kanji>
+		<kana>よこ</kana>
+		<english>side</english>
+	</listItem>
+	<listItem>
+		<kanji>パーム</kanji>
+		<kana>パーム</kana>
+		<english>perm</english>
+	</listItem>
+	<listItem>
+		<kanji>パームを　かけて　います</kanji>
+		<kana>パームを　かけて　います</kana>
+		<english>has a perm</english>
+	</listItem>
+</kanjiList>

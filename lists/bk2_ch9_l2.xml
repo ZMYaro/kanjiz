@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 9, Lesson 2 Vocabulary</name>
+	<listItem>
+		<kanji>〜ほど + [neg.]</kanji>
+		<kana>〜ほど + [neg.]</kana>
+		<english>[not] as ~ as</english>
+	</listItem>
+	<listItem>
+		<kanji>(お)ねだん</kanji>
+		<kana>(お)ねだん</kana>
+		<english>price</english>
+	</listItem>
+	<listItem>
+		<kanji>デザイン</kanji>
+		<kana>デザイン</kana>
+		<english>design</english>
+	</listItem>
+	<listItem>
+		<kanji>セール(中)</kanji>
+		<kana>セール(ちゅう)</kana>
+		<english>on sale</english>
+	</listItem>
+	<listItem>
+		<kanji>いろいろ</kanji>
+		<kana>いろいろ</kana>
+		<english>various</english>
+	</listItem>
+	<listItem>
+		<kanji>ほか</kanji>
+		<kana>ほか</kana>
+		<english>other</english>
+	</listItem>
+	<listItem>
+		<kanji>くらべる</kanji>
+		<kana>くらべる</kana>
+		<english>to compare</english>
+	</listItem>
+	<listItem>
+		<kanji>同じ</kanji>
+		<kana>おなじ</kana>
+		<english>same</english>
+	</listItem>
+	<listItem>
+		<kanji>ちがう</kanji>
+		<kana>ちがう</kana>
+		<english>is different/is wrong</english>
+	</listItem>
+</kanjiList>

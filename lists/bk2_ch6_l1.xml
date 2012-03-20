@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 6, Lesson 1 Vocabulary</name>
+	<listItem>
+		<kanji>具合が 悪いです</kanji>
+		<kana>ぐあいが わるいです</kana>
+		<english>condition is bad; feel sick</english>
+	</listItem>
+	<listItem>
+		<kanji>風邪を ひきました</kanji>
+		<kana>かぜを ひきました</kana>
+		<english>caught a cold</english>
+	</listItem>
+	<listItem>
+		<kanji>(お)気の毒に</kanji>
+		<kana>(お)きのどくに</kana>
+		<english>I am sorry (sympathy)</english>
+	</listItem>
+	<listItem>
+		<kanji>ストレス</kanji>
+		<kana>ストレス</kana>
+		<english>stress</english>
+	</listItem>
+	<listItem>
+		<kanji>ストレスが いっぱいです</kanji>
+		<kana>ストレスが いっぱいです</kana>
+		<english>is very stressed</english>
+	</listItem>
+	<listItem>
+		<kanji>問題</kanji>
+		<kana>もんだい</kana>
+		<english>problem</english>
+	</listItem>
+	<listItem>
+		<kanji>変</kanji>
+		<kana>へん</kana>
+		<english>strange, weird, unusual</english>
+	</listItem>
+	<listItem>
+		<kanji>弾きます</kanji>
+		<kana>ひきます</kana>
+		<english>play [a string instrument]</english>
+	</listItem>
+	<listItem>
+		<kanji>弾く</kanji>
+		<kana>ひく</kana>
+		<english>to play [a string instrument]</english>
+	</listItem>
+	<listItem>
+		<kanji>〜が 出来ます</kanji>
+		<kana>〜が できます</kana>
+		<english>be able to do ~</english>
+	</listItem>
+	<listItem>
+		<kanji>〜が 出来る</kanji>
+		<kana>〜が できる</kana>
+		<english>be able to do ~</english>
+	</listItem>
+	<listItem>
+		<kanji>A けど、B</kanji>
+		<kana>A けど、B</kana>
+		<english>although A, B</english>
+	</listItem>
+</kanjiList>

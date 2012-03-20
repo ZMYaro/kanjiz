@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 15, Lesson Kanjis</name>
+	<listItem>
+		<kanji>言葉</kanji>
+		<kana>ことば</kana>
+		<english>words; language</english>
+	</listItem>
+	<listItem>
+		<kanji>家事</kanji>
+		<kana>かじ</kana>
+		<english>housework</english>
+	</listItem>
+	<listItem>
+		<kanji>庭仕事</kanji>
+		<kana>にわしごと</kana>
+		<english>yard work</english>
+	</listItem>
+	<listItem>
+		<kanji>部屋</kanji>
+		<kana>へや</kana>
+		<english>room</english>
+	</listItem>
+	<listItem>
+		<kanji>食べ物</kanji>
+		<kana>たべもの</kana>
+		<english>&lt;abbr title="nomz!"&gt;food&lt;/abbr&gt;</english>
+	</listItem>
+	<listItem>
+		<kanji>毎日</kanji>
+		<kana>まいにち</kana>
+		<english>every day</english>
+	</listItem>
+	<listItem>
+		<kanji>読む</kanji>
+		<kana>よむ</kana>
+		<english>to read</english>
+	</listItem>
+	<listItem>
+		<kanji>妹</kanji>
+		<kana>いもうと</kana>
+		<english>younger sister</english>
+	</listItem>
+	<listItem>
+		<kanji>連れて行く</kanji>
+		<kana>つれていく</kana>
+		<english>to take (someone)</english>
+	</listItem>
+	<listItem>
+		<kanji>迎えに行く</kanji>
+		<kana>むかえにいく</kana>
+		<english>to go and pick up (someone)</english>
+	</listItem>
+	<listItem>
+		<kanji>貸す</kanji>
+		<kana>かす</kana>
+		<english>to lend</english>
+	</listItem>
+	<listItem>
+		<kanji>手伝う</kanji>
+		<kana>てつだう</kana>
+		<english>to help</english>
+	</listItem>
+	<listItem>
+		<kanji>洗う</kanji>
+		<kana>あらう</kana>
+		<english>to wash</english>
+	</listItem>
+	<listItem>
+		<kanji>晩御飯</kanji>
+		<kana>ばんごはん</kana>
+		<english>dinner</english>
+	</listItem>
+	<listItem>
+		<kanji>僕</kanji>
+		<kana>ぼく</kana>
+		<english>I/me</english>
+	</listItem>
+</kanjiList>

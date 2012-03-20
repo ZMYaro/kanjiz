@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 1, Chapter 5, Lesson 1 Vocabulary</name>
+	<listItem>
+		<kanji>趣味</kanji>
+		<kana>しゅみ</kana>
+		<english>hobby</english>
+	</listItem>
+	<listItem>
+		<kanji>スポーツ</kanji>
+		<kana>スポーツ</kana>
+		<english>sports</english>
+	</listItem>
+	<listItem>
+		<kanji>音楽</kanji>
+		<kana>おんがく</kana>
+		<english>music</english>
+	</listItem>
+	<listItem>
+		<kanji>ダンス</kanji>
+		<kana>ダンス</kana>
+		<english>dance, dancing</english>
+	</listItem>
+	<listItem>
+		<kanji>歌</kanji>
+		<kana>うた</kana>
+		<english>song, singing</english>
+	</listItem>
+	<listItem>
+		<kanji>映画</kanji>
+		<kana>えいが</kana>
+		<english>movie</english>
+	</listItem>
+	<listItem>
+		<kanji>テレビ ゲーム</kanji>
+		<kana>テレビ ゲーム</kana>
+		<english>video game</english>
+	</listItem>
+	<listItem>
+		<kanji>トランプ</kanji>
+		<kana>トランプ</kana>
+		<english>[playing] cards</english>
+	</listItem>
+	<listItem>
+		<kanji>ピアノ</kanji>
+		<kana>ピアノ</kana>
+		<english>piano</english>
+	</listItem>
+	<listItem>
+		<kanji>ギター</kanji>
+		<kana>ギター</kana>
+		<english>guitar</english>
+	</listItem>
+	<listItem>
+		<kanji>読書</kanji>
+		<kana>どくしょ</kana>
+		<english>reading</english>
+	</listItem>
+	<listItem>
+		<kanji>絵</kanji>
+		<kana>え</kana>
+		<english>painting, drawing</english>
+	</listItem>
+	<listItem>
+		<kanji>ジョギング</kanji>
+		<kana>ジョギング</kana>
+		<english>jogging</english>
+	</listItem>
+	<listItem>
+		<kanji>水泳</kanji>
+		<kana>すいえい</kana>
+		<english>[competitive] swimming</english>
+	</listItem>
+	<listItem>
+		<kanji>そうですねえ...</kanji>
+		<kana>そうですねえ...</kana>
+		<english>Let me see...</english>
+	</listItem>
+	<listItem>
+		<kanji>バイオリン</kanji>
+		<kana>バイオリン</kana>
+		<english>violin</english>
+	</listItem>
+	<listItem>
+		<kanji>さいほう</kanji>
+		<kana>さいほう</kana>
+		<english>sewing</english>
+	</listItem>
+	<listItem>
+		<kanji>あみもの</kanji>
+		<kana>あみもの</kana>
+		<english>knitting, crocheting</english>
+	</listItem>
+	<listItem>
+		<kanji>おしゃべり</kanji>
+		<kana>おしゃべり</kana>
+		<english>chatting, talking</english>
+	</listItem>
+	<listItem>
+		<kanji>買い物</kanji>
+		<kana>かいもの</kana>
+		<english>shopping</english>
+	</listItem>
+	<listItem>
+		<kanji>旅行</kanji>
+		<kana>りょこう</kana>
+		<english>traveling</english>
+	</listItem>
+	<listItem>
+		<kanji>つり</kanji>
+		<kana>つり</kana>
+		<english>fishing</english>
+	</listItem>
+	<listItem>
+		<kanji>サーフィン</kanji>
+		<kana>サーフィン</kana>
+		<english>surfing</english>
+	</listItem>
+	<listItem>
+		<kanji>スケートボード</kanji>
+		<kana>スケートボード</kana>
+		<english>skateboarding</english>
+	</listItem>
+	<listItem>
+		<kanji>料理</kanji>
+		<kana>りょうり</kana>
+		<english>cooking</english>
+	</listItem>
+</kanjiList>

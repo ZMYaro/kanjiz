@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 5, Lesson 1 Vocabulary</name>
+	
+	<listItem>
+		<kanji>う～ん</kanji>
+		<kana>う～ん</kana>
+		<english>Yummm...</english>
+	</listItem>
+	<listItem>
+		<kanji>～そうです</kanji>
+		<kana>～そうです</kana>
+		<english>looks ~</english>
+	</listItem>
+	<listItem>
+		<kanji>～に します</kanji>
+		<kana>～に します</kana>
+		<english>decide on ~</english>
+	</listItem>
+	<listItem>
+		<kanji>～に ～</kanji>
+		<kana>～に ～</kana>
+		<english>~ and ~ (as a set)</english>
+	</listItem>
+	<listItem>
+		<kanji>メニュー</kanji>
+		<kana>メニュー</kana>
+		<english>menu</english>
+	</listItem>
+	<listItem>
+		<kanji>うどん</kanji>
+		<kana>うどん</kana>
+		<english>thick white noodles in broth</english>
+	</listItem>
+	<listItem>
+		<kanji>肉うどん</kanji>
+		<kana>にくうどん</kana>
+		<english>うどん with beef</english>
+	</listItem>
+	<listItem>
+		<kanji>ざるそば</kanji>
+		<kana>ざるそば</kana>
+		<english>buckwheat noodles</english>
+	</listItem>
+	<listItem>
+		<kanji>ラーメン</kanji>
+		<kana>ラーメン</kana>
+		<english>Chinese noodle soup</english>
+	</listItem>
+	<listItem>
+		<kanji>親子どんぶり</kanji>
+		<kana>おやこどんぶり</kana>
+		<english>chicken and egg over steamed rice</english>
+	</listItem>
+	<listItem>
+		<kanji>とんかつ</kanji>
+		<kana>とんかつ</kana>
+		<english>pork cutlet</english>
+	</listItem>
+	<listItem>
+		<kanji>カレーライス/ライスカレー/カレー</kanji>
+		<kana>カレーライス/ライスカレー/カレー</kana>
+		<english>curry rice</english>
+	</listItem>
+	<listItem>
+		<kanji>（お）みそしる</kanji>
+		<kana>（お）みそしる</kana>
+		<english>&lt;i&gt;miso soup&lt;/i&gt;</english>
+	</listItem>
+	<listItem>
+		<kanji>焼き肉</kanji>
+		<kana>やきにく</kana>
+		<english>meat grilled over a fire</english>
+	</listItem>
+	<listItem>
+		<kanji>焼き鳥</kanji>
+		<kana>やきとり</kana>
+		<english>grilled skewered chicken</english>
+	</listItem>
+	<listItem>
+		<kanji>にぎりずし</kanji>
+		<kana>にぎりずし</kana>
+		<english>&lt;i&gt;sushi&lt;/i&gt; rice shaped in bite-sided rectangles topped with fish, roe, shellfish, vegetables, or egg</english>
+	</listItem>
+	<listItem>
+		<kanji>ぎょうざ</kanji>
+		<kana>ぎょうざ</kana>
+		<english>Japanese pot stickers</english>
+	</listItem>
+	<listItem>
+		<kanji>焼きそば</kanji>
+		<kana>やきそば</kana>
+		<english>fried noodles</english>
+	</listItem>
+	<listItem>
+		<kanji>そうめん</kanji>
+		<kana>そうめん</kana>
+		<english>thin white noodles served cold</english>
+	</listItem>
+</kanjiList>

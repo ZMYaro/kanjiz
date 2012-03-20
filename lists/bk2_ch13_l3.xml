@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 13, Lesson 3 Vocabulary</name>
+	<listItem>
+		<kanji>Aから　Bまで　どのぐらい　かかりますか。</kanji>
+		<kana>Aから　Bまで　かかりますか。</kana>
+		<english>How much time does it take from A to B?</english>
+	</listItem>
+	<listItem>
+		<kanji>Aから　Bまで　どのぐらい　ありますか。</kanji>
+		<kana>Aから　Bまで　どのぐらい　ありますか。</kana>
+		<english>How far is it from A to B?</english>
+	</listItem>
+	<listItem>
+		<kanji>マイル</kanji>
+		<kana>マイル</kana>
+		<english>mile(s)</english>
+	</listItem>
+	<listItem>
+		<kanji>キロ</kanji>
+		<kana>キロ</kana>
+		<english>kilometer(s)</english>
+	</listItem>
+	<listItem>
+		<kanji>メートル</kanji>
+		<kana>メートル</kana>
+		<english>meter(s)</english>
+	</listItem>
+	<listItem>
+		<kanji>センチ（メートル）</kanji>
+		<kana>センチ（メートル）</kana>
+		<english>centimeter(s)</english>
+	</listItem>
+	<listItem>
+		<kanji>ミリ（メートル）</kanji>
+		<kana>ミリ（メートル）</kana>
+		<english>millimeter(s)</english>
+	</listItem>
+</kanjiList>

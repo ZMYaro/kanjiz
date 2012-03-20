@@ -1,0 +1,207 @@
+<html>
+	<head>
+		<title>Kanji_Z. - Japanese apps by Gamer_Z.</title>
+		<meta name="language" content="en"/>
+		<meta name="description" content="Kanji_Z. - Japanese apps by Gamer_Z."/>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		
+		<!-- Google Chrome Frame -->
+		<meta http-equiv="X-UA-Compatible" content="chrome=1"/>
+		
+		<!-- Google Developer Tools -->
+		<meta name="google-site-verification" content="d3ybsnHC8JEU3Zco1A3J2YVmWymGAa4PbKqVrVCe8-Y"/>
+		
+		<link rel="shortcut icon" type="image/x-icon" href="/main/favicon.ico"/>
+		<link rel="apple-touch-icon-precomposed" href="/main/apple-touch-icon-precomposed.png"/>
+		
+		<style type="text/css">
+			body {
+				font-family:Arial, Helvetica, Tahoma, "Roboto", "Droid Sans", Verdana, sans-serif;
+			}
+			a {
+				text-decoration:none;
+				color:blue;
+			}
+			a:visited {
+				color:blue;
+			}
+			
+			h2 {
+				margin-left:24px;
+			}
+			header h2 {
+				color:white;
+				text-shadow:0px 0px 2px white;
+			}
+			
+			#main {
+				position:absolute;
+				left:0px;
+				right:0px;
+				top:0px;
+				bottom:0px;
+				
+				
+/*				background-image:-moz-linear-gradient(top, white, lightGray);
+				background-image:-webkit-linear-gradient(white, lightGray);
+				background-image:-webkit-gradient(linear, left top, left bottom, from(white), to(lightGray));
+				    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='white', endColorstr='lightGray');
+				-ms-filter:"progid:DXImageTransform.Microsoft.gradient(startColorstr='white', endColorstr='lightGray')";
+*/
+				
+				background-image:-webkit-gradient(linear, 0% 0%, 100% 100%, color-stop(0%, #01243A), color-stop(20%, #025081), color-stop(40%, #02436D), color-stop(65%, #015287), color-stop(100%, #000519));
+				background-image:-webkit-linear-gradient(-30deg, #01243A 0%, #025081 20%, #02436D 40%, #015287 65%, #000519 100%);
+				background-image:   -moz-linear-gradient(-30deg, #01243A 0%, #025081 20%, #02436D 40%, #015287 65%, #000519 100%);
+				background-image:    -ms-linear-gradient(-30deg, #01243A 0%, #025081 20%, #02436D 40%, #015287 65%, #000519 100%);
+				background-image:     -o-linear-gradient(-30deg, #01243A 0%, #025081 20%, #02436D 40%, #015287 65%, #000519 100%);
+				background-image:        linear-gradient(-30deg, #01243A 0%, #025081 20%, #02436D 40%, #015287 65%, #000519 100%);
+				    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#01243A', endColorstr='#000519');
+				-ms-filter:"progid:DXImageTransform.Microsoft.gradient(startColorstr='#01243A', endColorstr='#000519')";
+			}
+			
+			#user {
+				display:inline;
+				display:inline-block;
+				float:right;
+				text-align:right;
+				color:white;
+				text-shadow:0px 0px 2px rgba(255,255,255,0.2);
+				padding-right:8px;
+			}
+			#user a, #user a:visited {
+				color:#7777FF;
+			}
+			
+			#zLink {
+				position:absolute;
+				left:4px;
+				bottom:2px;
+				text-decoration:none;
+				vertical-align:top;
+				
+				color:darkBlue;
+				text-shadow:0px 0px 6px white;
+			}
+			#zLink:link {
+				text-decoration:none;
+				
+			}
+			#zLink img {
+				margin-right:4px;
+				vertical-align:top;
+			}
+			#zLink:hover span {
+				text-decoration:underline;
+			}
+			#zLink:hover span {
+				color:black;
+			}
+			
+			#apps {
+				padding:0px;
+				width:95%;
+				margin-left:auto;
+				margin-right:auto;
+				text-align:center;
+				vertical-align:top;
+				
+				background-color:white;
+				-webkit-border-radius:10px;
+				   -moz-border-radius:10px;
+				        border-radius:10px;
+				-webkit-box-shadow:0px 0px 10px 5px white;
+				   -moz-box-shadow:0px 0px 10px 5px white;
+				        box-shadow:0px 0px 10px 5px white;
+			}
+			#apps td {
+				width:33%;
+				vertical-align:top;
+			}
+			#apps td a.app {
+				display:block;
+				padding:48px 10%;
+				width:80%;
+				height:100%;
+				border-radius:12px;
+				
+				color:black;
+				text-decoration:none;
+			}
+			#apps td a.app:hover {
+				background-color:#F5F7F9;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="main">
+			<header>
+				<div id="user">
+					{% if userEmail %}
+						{{ userEmail }} - <a href="{{ logoutURL }}">Sign out</a>
+					{% else %}
+						<a href="{{ loginURL }}" title="Sign into Kanji_Z. with your Google account"><img src="/imgs/google_icon.png" alt="" /> Sign in</a>
+					{% endif %}
+				</div>
+				<h2>
+					Kanji_Z. - Japanese apps by Gamer_Z.
+				</h2>
+			</header>
+			<table id="apps">
+				<tr>
+					<td>
+						<a href="/kanjitest" class="app">
+							<img src="/test/icon_128.png" alt="icon"/>
+							<br/>
+							<br/>
+							<big style="color:blue; text-decoration:underline;">KanjiTest_Z.</big>
+							<br/>
+							<br/>
+							Choose one or more vocabulary lists and test yourself on them in a random order.
+						</a>
+					</td>
+					<td>
+						<a href="/kanjilist" class="app">
+							<img src="/uberlist/icon_128.png" alt="icon"/>
+							<br/>
+							<br/>
+							<big style="color:blue; text-decoration:underline;">KanjiList_Z.</big>
+							<br/>
+							<br/>
+							View any or all vocabulary lists.
+						</a>
+					</td>
+					<td>
+						<a href="#" class="app">
+							<img src="/flip/icon_128.png" alt="icon"/>
+							<br/>
+							<br/>
+							<big>KanjiFlip_Z.</big>
+							<br/>
+							<br/>
+							Coming soon!
+						</a>
+					</td>
+				</tr>
+				<tr style="font-size:10pt;">
+					<td>
+						Get KanjiTest_Z. from the
+						<a href="https://chrome.google.com/webstore/detail/jkjdlakkjfhninaekjeceoaloadjeced" style="text-decoration:underline;" target="_blank">Chrome Web Store</a>
+					</td>
+					<td>
+						Get KanjiList_Z. from the
+						<a href="https://chrome.google.com/webstore/detail/cgjfhkeogegcbofbieidlendinecjlld" style="text-decoration:underline;" target="_blank">Chrome Web Store</a>
+					</td>
+					<td>
+						Beta testers, click <a href="/kanjiflip" style="text-decoration:underline;">here</a>
+					</td>
+				</tr>
+			</table>
+			<a href="http://mysite.verizon.net/zmyaro" target="_blank">
+				<div id="zLink">
+					<img src="/imgs/z_icon_32.png"/>
+					<span>Visit my website</span>
+				</div>
+			</a>
+		</div>
+	</body>
+</html>

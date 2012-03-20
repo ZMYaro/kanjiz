@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kanjiList>
+	<name>Book 2, Chapter 5, Lesson 2 Vocabulary</name>
+	<listItem>
+		<kanji>チップ</kanji>
+		<kana>チップ</kana>
+		<english>tip</english>
+	</listItem>
+	<listItem>
+		<kanji>テーブル</kanji>
+		<kana>テーブル</kana>
+		<english>table</english>
+	</listItem>
+	<listItem>
+		<kanji>（お）かんじょう</kanji>
+		<kana>（お）かんじょう</kana>
+		<english>a check; bill</english>
+	</listItem>
+	<listItem>
+		<kanji>＃パーセント</kanji>
+		<kana>＃パーセント</kana>
+		<english># percent</english>
+	</listItem>
+	<listItem>
+		<kanji>レジ</kanji>
+		<kana>レジ</kana>
+		<english>cash register</english>
+	</listItem>
+	<listItem>
+		<kanji>だいたい</kanji>
+		<kana>だいたい</kana>
+		<english>generally, approximately</english>
+	</listItem>
+	<listItem>
+		<kanji>なりません</kanji>
+		<kana>なりません</kana>
+		<english>(it) will not do</english>
+	</listItem>
+	<listItem>
+		<kanji>～なければ なりません</kanji>
+		<kana>～なければ なりません</kana>
+		<english>have to/should ~</english>
+	</listItem>
+	<listItem>
+		<kanji>～なくても いいです</kanji>
+		<kana>～なくても いいです</kana>
+		<english>do not have to/no need to ~</english>
+	</listItem>
+	<listItem>
+		<kanji>予約（を）する</kanji>
+		<kana>よやく（を）する</kana>
+		<english>to make a reservation</english>
+	</listItem>
+	<listItem>
+		<kanji>注文（を）する</kanji>
+		<kana>ちゅうもん（を）する</kana>
+		<english>to order</english>
+	</listItem>
+	<listItem>
+		<kanji>置きます/置く</kanji>
+		<kana>おきます/おく</kana>
+		<english>to put, leave</english>
+	</listItem>
+	<listItem>
+		<kanji>払います/払う</kanji>
+		<kana>はらいます/はらう</kana>
+		<english>to pay</english>
+	</listItem>
+	<listItem>
+		<kanji>とりけします/とりけす</kanji>
+		<kana>とりけします/とりけす</kana>
+		<english>to cancel</english>
+	</listItem>
+</kanjiList>

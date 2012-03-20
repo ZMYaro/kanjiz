@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 14, Lesson 3 Kanjis</name>
+	<listItem>
+		<kanji>お酒</kanji>
+		<kana>おさけ</kana>
+		<english>rice wine; liquor</english>
+	</listItem>
+	<listItem>
+		<kanji>味</kanji>
+		<kana>あじ</kana>
+		<english>taste; flavor</english>
+	</listItem>
+	<listItem>
+		<kanji>甘い</kanji>
+		<kana>あまい</kana>
+		<english>is sweet</english>
+	</listItem>
+	<listItem>
+		<kanji>辛い</kanji>
+		<kana>からい</kana>
+		<english>is salty; is spicy</english>
+	</listItem>
+	<listItem>
+		<kanji>苦い</kanji>
+		<kana>にがい</kana>
+		<english>is bitter</english>
+	</listItem>
+	<listItem>
+		<kanji>調味料</kanji>
+		<kana>ちょうみりょう</kana>
+		<english>seasonings</english>
+	</listItem>
+	<listItem>
+		<kanji>砂糖</kanji>
+		<kana>さとう</kana>
+		<english>sugar</english>
+	</listItem>
+	<listItem>
+		<kanji>塩</kanji>
+		<kana>しお</kana>
+		<english>salt</english>
+	</listItem>
+	<listItem>
+		<kanji>酢</kanji>
+		<kana>す</kana>
+		<english>vinegar</english>
+	</listItem>
+	<listItem>
+		<kanji>塩辛い</kanji>
+		<kana>しおからい</kana>
+		<english>is salty</english>
+	</listItem>
+	<listItem>
+		<kanji>酸っぱい</kanji>
+		<kana>すっぱい</kana>
+		<english>is sour</english>
+	</listItem>
+</kanjiList>

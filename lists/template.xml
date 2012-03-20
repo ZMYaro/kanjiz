@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name></name>
+	<listItem>
+		<kanji></kanji>
+		<kana></kana>
+		<english></english>
+	</listItem>
+	<listItem>
+		<kanji></kanji>
+		<kana></kana>
+		<english></english>
+	</listItem>
+</kanjiList>

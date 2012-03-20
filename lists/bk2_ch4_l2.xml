@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 4, Lesson 2 Vocabulary</name>
+	
+	<listItem>
+		<kanji>道</kanji>
+		<kana>みち</kana>
+		<english>road</english>
+	</listItem>
+	<listItem>
+		<kanji>角</kanji>
+		<kana>かど</kana>
+		<english>corner</english>
+	</listItem>
+	<listItem>
+		<kanji>速く</kanji>
+		<kana>はやく</kana>
+		<english>fast, quickly</english>
+	</listItem>
+	<listItem>
+		<kanji>早く</kanji>
+		<kana>はやく</kana>
+		<english>early</english>
+	</listItem>
+	<listItem>
+		<kanji>急</kanji>
+		<kana>きゅう</kana>
+		<english>suddenly</english>
+	</listItem>
+	<listItem>
+		<kanji>を</kanji>
+		<kana>を</kana>
+		<english>through, along</english>
+	</listItem>
+	<listItem>
+		<kanji>けっして+neg.</kanji>
+		<kana>けっして+neg.</kana>
+		<english>never</english>
+	</listItem>
+	<listItem>
+		<kanji>（～に/で）止まる</kanji>
+		<kana>（～に/で）とまる</kana>
+		<english>stop (at ~)</english>
+	</listItem>
+	<listItem>
+		<kanji>（placeに/で）止まります</kanji>
+		<kana>（placeに/で）とまります</kana>
+		<english>to stop (at place)</english>
+	</listItem>
+	<listItem>
+		<kanji>（placeで/を）曲がる</kanji>
+		<kana>（placeで/を）まがる</kana>
+		<english>turn at/along (place)</english>
+	</listItem>
+	<listItem>
+		<kanji>（placeで/を）曲がります</kanji>
+		<kana>（placeで/を）まがります</kana>
+		<english>turn at/along (place)</english>
+	</listItem>
+	<listItem>
+		<kanji>スピードを　出す</kanji>
+		<kana>スピードを　だす</kana>
+		<english>speed&lt;small&gt; (v.)&lt;/small&gt;</english>
+	</listItem>
+	<listItem>
+		<kanji>スピードを　出します</kanji>
+		<kana>スピードを　だします</kana>
+		<english>to speed</english>
+	</listItem>
+	<listItem>
+		<kanji>心配（を）　する</kanji>
+		<kana>しんぱい（を）　する</kana>
+		<english>worry</english>
+	</listItem>
+	<listItem>
+		<kanji>心配（を）　します</kanji>
+		<kana>しんぱい（を）　します</kana>
+		<english>to worry</english>
+	</listItem>
+	<listItem>
+		<kanji>鍵</kanji>
+		<kana>かぎ</kana>
+		<english>key</english>
+	</listItem>
+	<listItem>
+		<kanji>歩行者</kanji>
+		<kana>ほこうしゃ</kana>
+		<english>pedestrian</english>
+	</listItem>
+	<listItem>
+		<kanji>こうさてん</kanji>
+		<kana>こうさてん</kana>
+		<english>intersection</english>
+	</listItem>
+	<listItem>
+		<kanji>アルコール/さけ</kanji>
+		<kana>アルコール/さけ</kana>
+		<english>alcohol</english>
+	</listItem>
+	<listItem>
+		<kanji>ビール</kanji>
+		<kana>ビール</kana>
+		<english>beer</english>
+	</listItem>
+	<listItem>
+		<kanji>まやく</kanji>
+		<kana>まやく</kana>
+		<english>drugs</english>
+	</listItem>
+	<listItem>
+		<kanji>ちゅうしゃ（を）　します</kanji>
+		<kana>ちゅうしゃ（を）　します</kana>
+		<english>to inject</english>
+	</listItem>
+</kanjiList>

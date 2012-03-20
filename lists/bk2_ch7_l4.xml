@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 7, Lesson 4 Vocabulary</name>
+	<listItem>
+		<kanji>〜を 持って 行く</kanji>
+		<kana>〜を もって いく</kana>
+		<english>to take [inanimate]</english>
+	</listItem>
+	<listItem>
+		<kanji>〜を 持って 来る</kanji>
+		<kana>〜を もって くる</kana>
+		<english>to bring [inanimate]</english>
+	</listItem>
+	<listItem>
+		<kanji>〜を 持って 帰る</kanji>
+		<kana>〜を もって かえる</kana>
+		<english>to take [home] [inanimate]</english>
+	</listItem>
+	<listItem>
+		<kanji>〜を 連れて 行く</kanji>
+		<kana>〜を つれて いく</kana>
+		<english>to take [animate]</english>
+	</listItem>
+	<listItem>
+		<kanji>〜を 連れて 来る</kanji>
+		<kana>〜を つれて くる</kana>
+		<english>to bring [animate]</english>
+	</listItem>
+	<listItem>
+		<kanji>〜を 連れて 帰る</kanji>
+		<kana>〜を つれて かえる</kana>
+		<english>to take [home] [animate]</english>
+	</listItem>
+	<listItem>
+		<kanji>明けまして おめでとう (ございます)</kanji>
+		<kana>あけまして おめでとう (ございます)</kana>
+		<english>New Year's greeting</english>
+	</listItem>
+	<listItem>
+		<kanji>におい</kanji>
+		<kana>におい</kana>
+		<english>smell, fragrance</english>
+	</listItem>
+	<listItem>
+		<kanji>ぜひ</kanji>
+		<kana>ぜひ</kana>
+		<english>by all means, definitely</english>
+	</listItem>
+</kanjiList>

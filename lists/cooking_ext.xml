@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Cooking extended vocabulary</name>
+	<listItem>
+		<kanji>みじん</kanji>
+		<kana>みじん</kana>
+		<english>in pieces</english>
+	</listItem>
+	<listItem>
+		<kanji>みじんぎりにします</kanji>
+		<kana>みじんぎりにします</kana>
+		<english>to mince</english>
+	</listItem>
+	<listItem>
+		<kanji>ねります</kanji>
+		<kana>ねります</kana>
+		<english>to mash/knead</english>
+	</listItem>
+	<listItem>
+		<kanji>かけます</kanji>
+		<kana>かけます</kana>
+		<english>to pour</english>
+	</listItem>
+	<listItem>
+		<kanji>フライがえし</kanji>
+		<kana>フライがえし</kana>
+		<english>spatula</english>
+	</listItem>
+	<listItem>
+		<kanji>煮ます</kanji>
+		<kana>にます</kana>
+		<english>to simmer</english>
+	</listItem>
+</kanjiList>

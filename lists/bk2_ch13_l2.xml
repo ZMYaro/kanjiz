@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 13, Lesson 2 Vocabulary</name>
+	<listItem>
+		<kanji>通り</kanji>
+		<kana>とおり</kana>
+		<english>street, avenue</english>
+	</listItem>
+	<listItem>
+		<kanji>交差点</kanji>
+		<kana>こうさてん</kana>
+		<english>intersection</english>
+	</listItem>
+	<listItem>
+		<kanji>入口</kanji>
+		<kana>いりぐち</kana>
+		<english>entrance</english>
+	</listItem>
+	<listItem>
+		<kanji>出口</kanji>
+		<kana>でぐち</kana>
+		<english>exit</english>
+	</listItem>
+	<listItem>
+		<kanji>橋</kanji>
+		<kana>はし</kana>
+		<english>bridge</english>
+	</listItem>
+	<listItem>
+		<kanji>向こう</kanji>
+		<kana>むこう</kana>
+		<english>other side, beyond</english>
+	</listItem>
+	<listItem>
+		<kanji>まっすぐ</kanji>
+		<kana>まっすぐ</kana>
+		<english>straight</english>
+	</listItem>
+	<listItem>
+		<kanji>〜を 渡る</kanji>
+		<kana>〜を わたる</kana>
+		<english>to cross, go over ~</english>
+	</listItem>
+	<listItem>
+		<kanji>二番目</kanji>
+		<kana>にばんめ</kana>
+		<english>second (in order)</english>
+	</listItem>
+	<listItem>
+		<kanji>〜側</kanji>
+		<kana>〜がわ</kana>
+		<english>~side</english>
+	</listItem>
+	<listItem>
+		<kanji>すると、</kanji>
+		<kana>すると、</kana>
+		<english>thereupon</english>
+	</listItem>
+</kanjiList>

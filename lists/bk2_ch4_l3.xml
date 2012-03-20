@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 4, Lesson 3 Vocabulary</name>
+	
+	<listItem>
+		<kanji>あぶない</kanji>
+		<kana>あぶない</kana>
+		<english>is dangerous</english>
+	</listItem>
+	<listItem>
+		<kanji>あんぜん</kanji>
+		<kana>あんぜん</kana>
+		<english>is safe</english>
+	</listItem>
+	<listItem>
+		<kanji>こわい</kanji>
+		<kana>こわい</kana>
+		<english>is scary</english>
+	</listItem>
+	<listItem>
+		<kanji>こうつうじこ</kanji>
+		<kana>こうつうじこ</kana>
+		<english>traffic accident</english>
+	</listItem>
+	<listItem>
+		<kanji>[vehicle]に　乗る</kanji>
+		<kana>[vehicle]に　のる</kana>
+		<english>ride [vehicle]</english>
+	</listItem>
+	<listItem>
+		<kanji>[vehicle]に　乗ります</kanji>
+		<kana>[vehicle]に　のります</kana>
+		<english>no ride [vehicle]</english>
+	</listItem>
+	<listItem>
+		<kanji>[vehicle]から/を　おりる</kanji>
+		<kana>[vehicle]から/を　おりる</kana>
+		<english>get off/get out [vehicle]</english>
+	</listItem>
+	<listItem>
+		<kanji>[vehicle]から/を　おります</kanji>
+		<kana>[vehicle]から/を　おります</kana>
+		<english>to get off/get out [vehicle]</english>
+	</listItem>
+	<listItem>
+		<kanji>シートベルトを　する</kanji>
+		<kana>シートベルトを　する</kana>
+		<english>wear a seat belt</english>
+	</listItem>
+	<listItem>
+		<kanji>シートベルトを　します</kanji>
+		<kana>シートベルトを　します</kana>
+		<english>to wear a seat belt</english>
+	</listItem>
+	<listItem>
+		<kanji>[place]から　出かける</kanji>
+		<kana>[place]から　でかける</kana>
+		<english>go out</english>
+	</listItem>
+	<listItem>
+		<kanji>[place]から　出かけます</kanji>
+		<kana>[place]から　でかけます</kana>
+		<english>to go out</english>
+	</listItem>
+	<listItem>
+		<kanji>[place]を/から　出る</kanji>
+		<kana>[place]を/から　でる</kana>
+		<english>leave [place]</english>
+	</listItem>
+	<listItem>
+		<kanji>[place]を/から　出ます</kanji>
+		<kana>[place]を/から　でます</kana>
+		<english>leave [place]</english>
+	</listItem>
+	<listItem>
+		<kanji>（[place]に）着く</kanji>
+		<kana>（[place]に）つく</kana>
+		<english>arrive (at [place]{</english>
+	</listItem>
+	<listItem>
+		<kanji>（[place]に）着きます</kanji>
+		<kana>（[place]に）つきます</kana>
+		<english>to arrive (at [place])</english>
+	</listItem>
+	<listItem>
+		<kanji>じこを　おこす</kanji>
+		<kana>じこを　おこす</kana>
+		<english>cause an accident</english>
+	</listItem>
+	<listItem>
+		<kanji>ドア</kanji>
+		<kana>ドア</kana>
+		<english>door</english>
+	</listItem>
+	<listItem>
+		<kanji>うんてんしゅ/ドライバー</kanji>
+		<kana>うんてんしゅ/ドライバー</kana>
+		<english>driver</english>
+	</listItem>
+</kanjiList>

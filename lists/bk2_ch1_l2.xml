@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 1, Lesson 2 Vocabulary</name>
+	<description>Geography of Japan</description>
+	
+	<listItem>
+		<kanji>日本</kanji>
+		<kana>にほん/にっぽん</kana>
+		<english>Japan</english>
+	</listItem>
+	<listItem>
+		<kanji>北</kanji>
+		<kana>きた</kana>
+		<english>north</english>
+	</listItem>
+	<listItem>
+		<kanji>西</kanji>
+		<kana>にし</kana>
+		<english>west</english>
+	</listItem>
+	<listItem>
+		<kanji>東</kanji>
+		<kana>ひがし</kana>
+		<english>east</english>
+	</listItem>
+	<listItem>
+		<kanji>南</kanji>
+		<kana>みなみ</kana>
+		<english>south</english>
+	</listItem>
+	<listItem>
+		<kanji>北海道</kanji>
+		<kana>ほっかいどう</kana>
+		<english>Hokkaido (island of Japan) &lt;img src="/kanjitest/hokkaido.gif" style="vertical-align:middle;"/&gt;</english>
+	</listItem>
+	<listItem>
+		<kanji>本州</kanji>
+		<kana>ほんしゅう</kana>
+		<english>Honshu  (island of Japan) &lt;img src="/kanjitest/honshu.gif" style="vertical-align:middle;"/&gt;</english>
+	</listItem>
+	<listItem>
+		<kanji>四国</kanji>
+		<kana>しこく</kana>
+		<english>Shikoku (island of Japan) &lt;img src="/kanjitest/shikoku.gif" style="vertical-align:middle;"/&gt;</english>
+	</listItem>
+	<listItem>
+		<kanji>九州</kanji>
+		<kana>きゅうしゅう</kana>
+		<english>Kyushu (island of Japan) &lt;img src="/kanjitest/kyushu.gif" style="vertical-align:middle;"/&gt;</english>
+	</listItem>
+	<listItem>
+		<kanji>沖縄</kanji>
+		<kana>おきなわ</kana>
+		<english>Okinawa (island of Japan)</english>
+	</listItem>
+	<listItem>
+		<kanji>札幌</kanji>
+		<kana>さっぽろ</kana>
+		<english>Sapporo</english>
+	</listItem>
+	<listItem>
+		<kanji>仙台</kanji>
+		<kana>せんだい</kana>
+		<english>Sendai</english>
+	</listItem>
+	<listItem>
+		<kanji>東京</kanji>
+		<kana>とうきょう</kana>
+		<english>Tokyō</english>
+	</listItem>
+	<listItem>
+		<kanji>名古屋</kanji>
+		<kana>なごや</kana>
+		<english>Nagoya</english>
+	</listItem>
+	<listItem>
+		<kanji>京都</kanji>
+		<kana>きょうと</kana>
+		<english>Kyoto</english>
+	</listItem>
+	<listItem>
+		<kanji>奈良</kanji>
+		<kana>なら</kana>
+		<english>Nara</english>
+	</listItem>
+	<listItem>
+		<kanji>大阪</kanji>
+		<kana>おおさか</kana>
+		<english>osaka</english>
+	</listItem>
+	<listItem>
+		<kanji>神戸</kanji>
+		<kana>こうべ</kana>
+		<english>Kobe</english>
+	</listItem>
+	<listItem>
+		<kanji>広島</kanji>
+		<kana>ひろしま</kana>
+		<english>Hiroshima</english>
+	</listItem>
+	<listItem>
+		<kanji>福岡</kanji>
+		<kana>ふくおか</kana>
+		<english>Fukuoka</english>
+	</listItem>
+	<listItem>
+		<kanji>那覇</kanji>
+		<kana>なは</kana>
+		<english>Naha</english>
+	</listItem>
+</kanjiList>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 9, Lesson 3 Vocabulary</name>
+	<listItem>
+		<kanji>どれ</kanji>
+		<kana>どれ</kana>
+		<english>which one (of three or more)</english>
+	</listItem>
+	<listItem>
+		<kanji>(〜の中)で</kanji>
+		<kana>(〜の?)で</kana>
+		<english>among ~</english>
+	</listItem>
+	<listItem>
+		<kanji>この中で</kanji>
+		<kana>この?で</kana>
+		<english>among these</english>
+	</listItem>
+	<listItem>
+		<kanji>一番</kanji>
+		<kana>いちばん</kana>
+		<english>the most</english>
+	</listItem>
+	<listItem>
+		<kanji>世界</kanji>
+		<kana>せかい</kana>
+		<english>world</english>
+	</listItem>
+	<listItem>
+		<kanji>国</kanji>
+		<kana>くに</kana>
+		<english>country, nation</english>
+	</listItem>
+	<listItem>
+		<kanji>州</kanji>
+		<kana>しゅう</kana>
+		<english>state</english>
+	</listItem>
+	<listItem>
+		<kanji>市</kanji>
+		<kana>し</kana>
+		<english>city</english>
+	</listItem>
+	<listItem>
+		<kanji>島</kanji>
+		<kana>しま</kana>
+		<english>island</english>
+	</listItem>
+	<listItem>
+		<kanji>さあ...</kanji>
+		<kana>さあ...</kana>
+		<english>well... (used when unsure of the answer)</english>
+	</listItem>
+	<listItem>
+		<kanji>もっとも</kanji>
+		<kana>もっとも</kana>
+		<english>the most</english>
+	</listItem>
+	<listItem>
+		<kanji>町</kanji>
+		<kana>まち</kana>
+		<english>town</english>
+	</listItem>
+	<listItem>
+		<kanji>村</kanji>
+		<kana>むら</kana>
+		<english>village</english>
+	</listItem>
+</kanjiList>

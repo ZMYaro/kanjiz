@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 7, Lesson 1 Additional Words</name>
+	<description>Other religions</description>
+	
+	<listItem>
+		<kanji>イスラム教</kanji>
+		<kana>イスラムきょう</kana>
+		<english>Islam</english>
+	</listItem>
+	<listItem>
+		<kanji>ユダヤ教</kanji>
+		<kana>ユダヤきょう</kana>
+		<english>Judaism</english>
+	</listItem>
+</kanjiList>

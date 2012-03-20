@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 15, Lesson 1 Vocabulary</name>
+	<listItem>
+		<kanji>散歩（を）する</kanji>
+		<kana>さんぽ（を）する</kana>
+		<english>to take a walk</english>
+	</listItem>
+	<listItem>
+		<kanji>絵を　描く</kanji>
+		<kana>えを　かく</kana>
+		<english>to draw/paint a picture</english>
+	</listItem>
+	<listItem>
+		<kanji>ニコニコ</kanji>
+		<kana>ニコニコ</kana>
+		<english>smilingly</english>
+	</listItem>
+	<listItem>
+		<kanji>笑う/笑います</kanji>
+		<kana>わらう/わらいます</kana>
+		<english>to smile; to laugh</english>
+	</listItem>
+	<listItem>
+		<kanji>泣く/泣きます</kanji>
+		<kana>なく/なきます</kana>
+		<english>to cry</english>
+	</listItem>
+	<listItem>
+		<kanji>怒る/怒ります</kanji>
+		<kana>おこる/おこります</kana>
+		<english>to become angry</english>
+	</listItem>
+	<listItem>
+		<kanji>怒って　います</kanji>
+		<kana>おこって　います</kana>
+		<english>is angry</english>
+	</listItem>
+	<listItem>
+		<kanji>叱る/叱ります</kanji>
+		<kana>しかる/しかります</kana>
+		<english>to scold</english>
+	</listItem>
+	<listItem>
+		<kanji>離婚（を）する</kanji>
+		<kana>りこん（を）する</kana>
+		<english>to divorce</english>
+	</listItem>
+	<listItem>
+		<kanji>金</kanji>
+		<kana>きん</kana>
+		<english>gold</english>
+	</listItem>
+	<listItem>
+		<kanji>銀</kanji>
+		<kana>ぎん</kana>
+		<english>silver</english>
+	</listItem>
+	<listItem>
+		<kanji>ずっと</kanji>
+		<kana>ずっと</kana>
+		<english>throughout; all the time</english>
+	</listItem>
+	<listItem>
+		<kanji>たまに</kanji>
+		<kana>たまに</kana>
+		<english>occasionally; once in a while</english>
+	</listItem>
+	<listItem>
+		<kanji>別居（を）する</kanji>
+		<kana>べっきょ（を）する</kana>
+		<english>to be separated; to live separately</english>
+	</listItem>
+</kanjiList>

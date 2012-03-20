@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 2, Lesson 3 Vocabulary</name>
+	
+	<listItem>
+		<kanji>家</kanji>
+		<kana>いえ/うち</kana>
+		<english>house</english>
+	</listItem>
+	<listItem>
+		<kanji>銀行</kanji>
+		<kana>ぎんこう</kana>
+		<english>bank</english>
+	</listItem>
+	<listItem>
+		<kanji>公園</kanji>
+		<kana>こうえん</kana>
+		<english>park</english>
+	</listItem>
+	<listItem>
+		<kanji>寮</kanji>
+		<kana>りょう</kana>
+		<english>dormitory</english>
+	</listItem>
+	<listItem>
+		<kanji>赤ちゃん</kanji>
+		<kana>あかちゃん</kana>
+		<english>baby</english>
+	</listItem>
+	<listItem>
+		<kanji>まだ</kanji>
+		<kana>まだ</kana>
+		<english>still</english>
+	</listItem>
+	<listItem>
+		<kanji>まだ　いきて　います</kanji>
+		<kana>まだ　いきて　います</kana>
+		<english>still alive</english>
+	</listItem>
+	<listItem>
+		<kanji>もう&lt;small&gt; [neg.]&lt;/small&gt;</kanji>
+		<kana>もう&lt;small&gt; [neg.]&lt;/small&gt;</kana>
+		<english>[not] anymore</english>
+	</listItem>
+	<listItem>
+		<kanji>～について</kanji>
+		<kana>～について</kana>
+		<english>about ~</english>
+	</listItem>
+	<listItem>
+		<kanji>しょうかい（を）する</kanji>
+		<kana>しょうかい（を）する</kana>
+		<english>to introduce [someone else]</english>
+	</listItem>
+	<listItem>
+		<kanji>じこしょうかい（を）する</kanji>
+		<kana>じこしょうかい（を）する</kana>
+		<english>to do a self-introduction</english>
+	</listItem>
+	<listItem>
+		<kanji>アパート</kanji>
+		<kana>アパート</kana>
+		<english>apartment</english>
+	</listItem>
+	<listItem>
+		<kanji>マンション</kanji>
+		<kana>マンション</kana>
+		<english>condominium</english>
+	</listItem>
+	<listItem>
+		<kanji>郵便局</kanji>
+		<kana>ゆうびんきょく</kana>
+		<english>post office</english>
+	</listItem>
+	<listItem>
+		<kanji>ガソリンスタンド</kanji>
+		<kana>ガソリンスタンド</kana>
+		<english>gas station</english>
+	</listItem>
+	<listItem>
+		<kanji>教会</kanji>
+		<kana>きょうかい</kana>
+		<english>church</english>
+	</listItem>
+	<listItem>
+		<kanji>映画館</kanji>
+		<kana>えいがかん</kana>
+		<english>movie theater</english>
+	</listItem>
+	<listItem>
+		<kanji>ホテル</kanji>
+		<kana>ホテル</kana>
+		<english>hotel</english>
+	</listItem>
+	<listItem>
+		<kanji>パン屋</kanji>
+		<kana>パンや</kana>
+		<english>bakery&lt;small&gt; (lit. bread store)&lt;/small&gt;</english>
+	</listItem>
+</kanjiList>

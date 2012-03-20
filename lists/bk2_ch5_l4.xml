@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 5, Lesson 4 Vocabulary</name>
+	<listItem>
+		<kanji>ウェイター</kanji>
+		<kana>ウェイター</kana>
+		<english>waiter</english>
+	</listItem>
+	<listItem>
+		<kanji>ウェイトレス</kanji>
+		<kana>ウェイトレス</kana>
+		<english>waitress</english>
+	</listItem>
+	<listItem>
+		<kanji>こちら</kanji>
+		<kana>こちら</kana>
+		<english>here (polite)</english>
+	</listItem>
+	<listItem>
+		<kanji>そちら</kanji>
+		<kana>そちら</kana>
+		<english>there (polite)</english>
+	</listItem>
+	<listItem>
+		<kanji>あちら</kanji>
+		<kana>あちら</kana>
+		<english>over there (polite)</english>
+	</listItem>
+	<listItem>
+		<kanji>どちら</kanji>
+		<kana>どちら</kana>
+		<english>where? (polite)</english>
+	</listItem>
+	<listItem>
+		<kanji>いらっしゃいませ</kanji>
+		<kana>いらっしゃいませ</kana>
+		<english>welcome</english>
+	</listItem>
+	<listItem>
+		<kanji>どうぞ こちらへ。</kanji>
+		<kana>どうぞ こちらへ。</kana>
+		<english>This way, please.</english>
+	</listItem>
+	<listItem>
+		<kanji>ごちゅうもんは?</kanji>
+		<kana>ごちゅうもんは?</kana>
+		<english>May I take your order?</english>
+	</listItem>
+	<listItem>
+		<kanji>ほかに 何か?</kanji>
+		<kana>ほかに なにか?</kana>
+		<english>Anything else?</english>
+	</listItem>
+	<listItem>
+		<kanji>それだけです。</kanji>
+		<kana>それだけです。</kana>
+		<english>That is all.</english>
+	</listItem>
+	<listItem>
+		<kanji>すみません。</kanji>
+		<kana>すみません。</kana>
+		<english>Excuse me.&lt;small&gt; [to get someone's attention]&lt;/small&gt;</english>
+	</listItem>
+</kanjiList>

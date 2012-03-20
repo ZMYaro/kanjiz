@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 15, Lesson 4 Vocabulary</name>
+	<listItem>
+		<kanji>感謝（を）　する</kanji>
+		<kana>かんしゃ（を）　する</kana>
+		<english>to appreciate; thank</english>
+	</listItem>
+	<listItem>
+		<kanji>感謝</kanji>
+		<kana>かんしゃ</kana>
+		<english>appreciation</english>
+	</listItem>
+	<listItem>
+		<kanji>愛して　います</kanji>
+		<kana>あいして　います</kana>
+		<english>to be in love</english>
+	</listItem>
+	<listItem>
+		<kanji>愛します</kanji>
+		<kana>あいします</kana>
+		<english>to love</english>
+	</listItem>
+	<listItem>
+		<kanji>言葉</kanji>
+		<kana>ことば</kana>
+		<english>words, language</english>
+	</listItem>
+	<listItem>
+		<kanji>家事</kanji>
+		<kana>かじ</kana>
+		<english>chores; housework</english>
+	</listItem>
+	<listItem>
+		<kanji>庭仕事</kanji>
+		<kana>にわしごと</kana>
+		<english>yard work</english>
+	</listItem>
+</kanjiList>

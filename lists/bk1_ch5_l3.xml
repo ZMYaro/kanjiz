@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 1, Chapter 5, Lesson 3 Vocabulary</name>
+	<listItem>
+		<kanji>上手</kanji>
+		<kana>じょうず</kana>
+		<english>skillful, be good at &lt;small&gt;referring to someone else&lt;/small&gt;</english>
+	</listItem>
+	<listItem>
+		<kanji>下手</kanji>
+		<kana>へた</kana>
+		<english>unskillful, be poor at</english>
+	</listItem>
+	<listItem>
+		<kanji>得意</kanji>
+		<kana>とくい</kana>
+		<english>be strong in, can do well</english>
+	</listItem>
+	<listItem>
+		<kanji>苦手</kanji>
+		<kana>にがて</kana>
+		<english>be weak in</english>
+	</listItem>
+	<listItem>
+		<kanji>事</kanji>
+		<kana>こと</kana>
+		<english>intangible thing</english>
+	</listItem>
+	<listItem>
+		<kanji>フットボール</kanji>
+		<kana>フットボール</kana>
+		<english>football</english>
+	</listItem>
+	<listItem>
+		<kanji>野球</kanji>
+		<kana>やきゅう</kana>
+		<english>baseball</english>
+	</listItem>
+	<listItem>
+		<kanji>バスケット（ボール）</kanji>
+		<kana>バスケット（ボール）</kana>
+		<english>basketball</english>
+	</listItem>
+	<listItem>
+		<kanji>バレー（ボール）</kanji>
+		<kana>バレー（ボール）</kana>
+		<english>volleyball</english>
+	</listItem>
+	<listItem>
+		<kanji>サッカー</kanji>
+		<kana>サッカー</kana>
+		<english>soccer</english>
+	</listItem>
+	<listItem>
+		<kanji>テニス</kanji>
+		<kana>テニス</kana>
+		<english>tennis</english>
+	</listItem>
+	<listItem>
+		<kanji>ゴルフ</kanji>
+		<kana>ゴルフ</kana>
+		<english>golf</english>
+	</listItem>
+	<listItem>
+		<kanji>Aが、B。</kanji>
+		<kana>Aが、B。</kana>
+		<english>A, but B.</english>
+	</listItem>
+	<listItem>
+		<kanji>A。でも、B。</kanji>
+		<kana>A。でも、B。</kana>
+		<english>A.  But B.</english>
+	</listItem>
+	<listItem>
+		<kanji>ボーリング</kanji>
+		<kana>ボーリング</kana>
+		<english>bowling</english>
+	</listItem>
+	<listItem>
+		<kanji>スキー</kanji>
+		<kana>スキー</kana>
+		<english>skiing</english>
+	</listItem>
+	<listItem>
+		<kanji>スケート</kanji>
+		<kana>スケート</kana>
+		<english>skating</english>
+	</listItem>
+	<listItem>
+		<kanji>りくじょう</kanji>
+		<kana>りくじょう</kana>
+		<english>track</english>
+	</listItem>
+	<listItem>
+		<kanji>きかいたいそう</kanji>
+		<kana>きかいたいそう</kana>
+		<english>gymnastics</english>
+	</listItem>
+</kanjiList>

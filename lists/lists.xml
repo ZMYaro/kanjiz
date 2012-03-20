@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lists>
+	<folder name="Book 1">
+		<list>
+			<id>bk1_ch1_l1</id>
+			<name>Chapter 1, Lesson 1, Vocabulary</name>
+		</list>
+		<list>
+			<id>bk1_ch1_l3</id>
+			<name>Chapter 1, Lesson 3, Vocabulary</name>
+		</list>
+		<list>
+			<id>bk1_ch1_l4</id>
+			<name>Chapter 1, Lesson 4, Vocabulary</name>
+		</list>
+		<list>
+			<id>bk1_ch1_l5</id>
+			<name>Chapter 1, Lesson 5, Vocabulary</name>
+		</list>
+		<list>
+			<id>bk1_ch1_l6</id>
+			<name>Chapter 1, Lesson 6, Vocabulary</name>
+		</list>
+		<list>
+			<id>bk1_ch4_l1</id>
+			<name>Chapter 4, Lesson 1 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk1_ch4_l2</id>
+			<name>Chapter 4, Lesson 2 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk1_ch4_l3</id>
+			<name>Chapter 4, Lesson 3 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk1_ch4_l4</id>
+			<name>Chapter 4, Lesson 4 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk1_ch4_l5</id>
+			<name>Chapter 4, Lesson 5 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk1_ch5_l1</id>
+			<name>Chapter 5, Lesson 1 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk1_ch5_l2</id>
+			<name>Chapter 5, Lesson 2 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk1_ch5_l3</id>
+			<name>Chapter 5, Lesson 3 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk1_ch5_l4</id>
+			<name>Chapter 5, Lesson 4 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk1_ch5_l5</id>
+			<name>Chapter 5, Lesson 5 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk1_ch15</id>
+			<name>Chapter 15</name>
+		</list>
+	</folder>
+	<folder name="Book 2">
+		<list>
+			<id>bk2_ch1_l2</id>
+			<name>Chapter 1, Lesson 2 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch2_l1</id>
+			<name>Chapter 2, Lesson 1 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch2_l2</id>
+			<name>Chapter 2, Lesson 2 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch2_l3</id>
+			<name>Chapter 2, Lesson 3 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch3_l1</id>
+			<name>Chapter 3, Lesson 1 Vocabulary</name>
+		</list>
+		<list>
+			<id>clothes_ext</id>
+			<name>Additional Clothing Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch3_l3</id>
+			<name>Chapter 3, Lesson 3 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch4_l1</id>
+			<name>Chapter 4, Lesson 1 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch4_l2</id>
+			<name>Chapter 4, Lesson 2 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch4_l3</id>
+			<name>Chapter 4, Lesson 3 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch4_l4</id>
+			<name>Chapter 4, Lesson 4 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch5_l1</id>
+			<name>Chapter 5, Lesson 1 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch5_l2</id>
+			<name>Chapter 5, Lesson 2 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch5_l3</id>
+			<name>Chapter 5, Lesson 3 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch5_l4</id>
+			<name>Chapter 5, Lesson 4 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch6_l1</id>
+			<name>Chapter 6, Lesson 1 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch6_l2</id>
+			<name>Chapter 6, Lesson 2 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch6_l3</id>
+			<name>Chapter 6, Lesson 3 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch6_l4</id>
+			<name>Chapter 6, Lesson 4 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch7_l1</id>
+			<name>Chapter 7, Lesson 1 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch7_l1_cultural</id>
+			<name>Chapter 7, Lesson 1 Cultural Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch7_l1_extra</id>
+			<name>Chapter 7, Lesson 1 Additional Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch7_l2</id>
+			<name>Chapter 7, Lesson 2 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch7_l2_extra</id>
+			<name>Chapter 7, Lesson 2 Additonal Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch7_l3</id>
+			<name>Chapter 7, Lesson 3 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch7_l4</id>
+			<name>Chapter 7, Lesson 4 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch9_l1</id>
+			<name>Chapter 9, Lesson 1 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch9_l1_sents</id>
+			<name>Chapter 9, Lesson 1 Sample Sentences</name>
+		</list>
+		<list>
+			<id>bk2_ch9_l2</id>
+			<name>Chapter 9, Lesson 2 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch9_l3</id>
+			<name>Chapter 9, Lesson 3 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch9_l4</id>
+			<name>Chapter 9, Lesson 4 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch9_kanjis</id>
+			<name>Chapter 9 Kanjis</name>
+		</list>
+		<list>
+			<id>bk2_ch10_l1</id>
+			<name>Chapter 10, Lesson 1 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch10_l2</id>
+			<name>Chapter 10, Lesson 2 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch10_l3</id>
+			<name>Chapter 10, Lesson 3 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch10_l4</id>
+			<name>Chapter 10, Lesson 4 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch11</id>
+			<name>Chapter 11 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch13_l1</id>
+			<name>Chapter 13, Lesson 1 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch13_l2</id>
+			<name>Chapter 13, Lesson 2 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch13_l3</id>
+			<name>Chapter 13, Lesson 3 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch13_l4</id>
+			<name>Chapter 13, Lesson 4 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch13_kanjis</id>
+			<name>Chapter 13 Kanjis</name>
+		</list>
+		<list>
+			<id>bk2_ch14_l1</id>
+			<name>Chapter 14, Lesson 1 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch14_l2</id>
+			<name>Chapter 14, Lesson 2 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch14_l3</id>
+			<name>Chapter 14, Lesson 3 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch14_l4</id>
+			<name>Chapter 14, Lesson 4 Vocabulary</name>
+		</list>
+		<list>
+			<id>cooking_ext</id>
+			<name>Additional Cooking Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch14_l1_kanjis</id>
+			<name>Chapter 14, Lesson 1 Kanjis</name>
+		</list>
+		<list>
+			<id>bk2_ch14_l2_kanjis</id>
+			<name>Chapter 14, Lesson 2 Kanjis</name>
+		</list>
+		<list>
+			<id>bk2_ch14_l3_kanjis</id>
+			<name>Chapter 14, Lesson 3 Kanjis</name>
+		</list>
+		<list>
+			<id>bk2_ch14_l4_kanjis</id>
+			<name>Chapter 14, Lesson 4 Kanjis</name>
+		</list>
+		<list>
+			<id>bk2_ch15_l1</id>
+			<name>Chapter 15, Lesson 1 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch15_l2</id>
+			<name>Chapter 15, Lesson 2 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch15_l3</id>
+			<name>Chapter 15, Lesson 3 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch15_l4</id>
+			<name>Chapter 15, Lesson 4 Vocabulary</name>
+		</list>
+		<list>
+			<id>bk2_ch15_l1_kanjis</id>
+			<name>Chapter 15, Lesson 1 Kanjis</name>
+		</list>
+		<list>
+			<id>bk2_ch15_l2_kanjis</id>
+			<name>Chapter 15, Lesson 2 Kanjis</name>
+		</list>
+		<list>
+			<id>bk2_ch15_l3_kanjis</id>
+			<name>Chapter 15, Lesson 3 Kanjis</name>
+		</list>
+		<list>
+			<id>bk2_ch15_l4_kanjis</id>
+			<name>Chapter 15, Lesson 4 Kanjis</name>
+		</list>
+	</folder>
+	<folder name="Eco">
+		<list>
+			<id>eco_kanjis</id>
+			<name>Eco Kanjis</name>
+		</list>
+		<list>
+			<id>eco_words</id>
+			<name>Eco Words</name>
+		</list>
+	</folder>
+	<folder name="Kanjis">
+		<list>
+			<id>grade1_kanjis</id>
+			<name>Grade 1 Kanjis</name>
+		</list>
+	</folder>
+</lists>

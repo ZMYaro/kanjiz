@@ -1,0 +1,93 @@
+<html>
+	<head>
+		<title>Please sign in - Kanji_Z.</title>
+		<meta name="language" content="en"/>
+		<meta name="description" content="Kanji_Z. - Japanese apps by Gamer_Z."/>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		
+		<!-- Google Chrome Frame -->
+		<meta http-equiv="X-UA-Compatible" content="chrome=1"/>
+		
+		<link rel="shortcut icon" type="image/x-icon" href="/main/favicon.ico"/>
+		<link rel="apple-touch-icon-precomposed" href="/main/apple-touch-icon-precomposed.png"/>
+		
+		<style type="text/css">
+			body {
+				font-family:Arial, Helvetica, Tahoma, "Roboto", "Droid Sans", Verdana, sans-serif;
+			}
+			a {
+				text-decoration:none;
+				color:blue;
+			}
+			a:visited {
+				color:blue;
+			}
+			
+			h2 {
+				/*margin-left:24px;*/
+				text-align:center;
+			}
+			header h2 {
+				color:white;
+				text-shadow:0px 0px 2px white;
+			}
+			
+			#main {
+				position:absolute;
+				left:0px;
+				right:0px;
+				top:0px;
+				bottom:0px;
+				
+				
+/*				background-image:-moz-linear-gradient(top, white, lightGray);
+				background-image:-webkit-gradient(linear, left top, left bottom, from(white), to(lightGray));
+				background-image:-webkit-linear-gradient(white, lightGray);
+				    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='white', endColorstr='lightGray');
+				-ms-filter:"progid:DXImageTransform.Microsoft.gradient(startColorstr='white', endColorstr='lightGray')";
+*/
+				
+				background-image:-webkit-gradient(linear, 0% 0%, 100% 100%, color-stop(0%, #01243A), color-stop(20%, #025081), color-stop(40%, #02436D), color-stop(65%, #015287), color-stop(100%, #000519));
+				background-image:-webkit-linear-gradient(-30deg, #01243A 0%, #025081 20%, #02436D 40%, #015287 65%, #000519 100%);
+				background-image:   -moz-linear-gradient(-30deg, #01243A 0%, #025081 20%, #02436D 40%, #015287 65%, #000519 100%);
+				background-image:    -ms-linear-gradient(-30deg, #01243A 0%, #025081 20%, #02436D 40%, #015287 65%, #000519 100%);
+				background-image:     -o-linear-gradient(-30deg, #01243A 0%, #025081 20%, #02436D 40%, #015287 65%, #000519 100%);
+				background-image:        linear-gradient(-30deg, #01243A 0%, #025081 20%, #02436D 40%, #015287 65%, #000519 100%);
+				    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#01243A', endColorstr='#000519');
+				-ms-filter:"progid:DXImageTransform.Microsoft.gradient(startColorstr='#01243A', endColorstr='#000519')";
+			}
+			
+			#textbox {
+				padding:0px;
+				width:620px;
+				margin-left:auto;
+				margin-right:auto;
+				text-align:center;
+				vertical-align:top;
+				
+				padding:24px;
+				
+				background-color:white;
+				-webkit-border-radius:10px;
+				   -moz-border-radius:10px;
+				        border-radius:10px;
+				-webkit-box-shadow:0px 0px 10px 5px white;
+				   -moz-box-shadow:0px 0px 10px 5px white;
+				        box-shadow:0px 0px 10px 5px white;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="main">
+			<header>
+				<h2>
+					Forbidden
+				</h2>
+			</header>
+			<div id="textbox">
+				<p>You are not allowed to access {% if app %}kanji-z.appspot.com/{{ app }}{% else %}the requested page{% endif %} because you have not purchased the app from the Chrome Web Store or you are not in the beta tester group.</p>
+				<p>Please <a href="/">click here</a> to return to the Kanji_Z. main page.</p>
+			</div>
+		</div>
+	</body>
+</html>

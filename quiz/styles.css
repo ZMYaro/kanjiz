@@ -1,0 +1,32 @@
+#quiz {
+	position:absolute;
+	left:0px;
+	right:0px;
+	top:0px;
+	
+	padding-bottom:32px;
+	
+	overflow-y:scroll;
+}
+#answers {
+	position:fixed;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	
+	text-align:center;
+	
+	font-family:Arial, sans-serif;
+	font-size:11pt;
+}
+
+
+
+.kanji {
+	text-decoration:underline;
+	cursor:pointer;
+}
+.ans {
+	border-width:1px;
+	border-color:darkGray;
+}

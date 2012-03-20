@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 14, Lesson 4</name>
+	<listItem>
+		<kanji>デザート</kanji>
+		<kana>デザート</kana>
+		<english>dessert</english>
+	</listItem>
+	<listItem>
+		<kanji>生卵</kanji>
+		<kana>なまたまご</kana>
+		<english>raw egg</english>
+	</listItem>
+	<listItem>
+		<kanji>気持ちが　悪い</kanji>
+		<kana>きもちが　わるい</kana>
+		<english>unpleasant; uncomfortable</english>
+	</listItem>
+	<listItem>
+		<kanji>気持ちが　いい</kanji>
+		<kana>きもちが　いい</kana>
+		<english>pleasant; comfortable</english>
+	</listItem>
+	<listItem>
+		<kanji>食べ過ぎます</kanji>
+		<kana>たべすぎます</kana>
+		<english>eat too much</english>
+	</listItem>
+	<listItem>
+		<kanji>高過ぎます</kanji>
+		<kana>たかすぎます</kana>
+		<english>is too expensive</english>
+	</listItem>
+	<listItem>
+		<kanji>静か過ぎます</kanji>
+		<kana>しずかすぎます</kana>
+		<english>is too quiet</english>
+	</listItem>
+	<listItem>
+		<kanji>～が　出来ました</kanji>
+		<kana>～が　できました</kana>
+		<english>~is ready; ~is done</english>
+	</listItem>
+	<listItem>
+		<kanji>つける/つけます</kanji>
+		<kana>つける/つけます</kana>
+		<english>to dip</english>
+	</listItem>
+	<listItem>
+		<kanji>Aを　Bに　つける</kanji>
+		<kana>Aを　Bに　つける</kana>
+		<english>to dip A in B</english>
+	</listItem>
+	<listItem>
+		<kanji>（～を）　片付ける/片付けます</kanji>
+		<kana>（～を）　かたづける/かたづけます</kana>
+		<english>to clean up; to put away</english>
+	</listItem>
+	<listItem>
+		<kanji>アイスクリーム</kanji>
+		<kana>アイスクリーム</kana>
+		<english>ice cream</english>
+	</listItem>
+	<listItem>
+		<kanji>シャーベット</kanji>
+		<kana>シャーベット</kana>
+		<english>sherbet</english>
+	</listItem>
+	<listItem>
+		<kanji>パイ</kanji>
+		<kana>パイ</kana>
+		<english>pie</english>
+	</listItem>
+	<listItem>
+		<kanji>クッキー</kanji>
+		<kana>クッキー</kana>
+		<english>cookie</english>
+	</listItem>
+	<listItem>
+		<kanji>饅頭</kanji>
+		<kana>まんじゅう</kana>
+		<english>buns filled with sweetened red beans</english>
+	</listItem>
+</kanjiList>

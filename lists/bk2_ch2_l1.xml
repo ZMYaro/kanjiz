@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 2, Lesson 1 Vocabulary</name>
+	
+	<listItem>
+		<kanji>生まれました</kanji>
+		<kana>うまれました</kana>
+		<english>was born</english>
+	</listItem>
+	<listItem>
+		<kanji>生まれる</kanji>
+		<kana>うまれる</kana>
+		<english>to be born</english>
+	</listItem>
+	<listItem>
+		<kanji>住んで　います</kanji>
+		<kana>すんで　います</kana>
+		<english>to live/reside (in)</english>
+	</listItem>
+	<listItem>
+		<kanji>住む</kanji>
+		<kana>すむ</kana>
+		<english>to live/reside (in)</english>
+	</listItem>
+	<listItem>
+		<kanji>(〜に) 勤めて　います</kanji>
+		<kana>(〜に) つとめて　います</kana>
+		<english>is employed (at ~)</english>
+	</listItem>
+	<listItem>
+		<kanji>(〜で) 働いて　います</kanji>
+		<kana>(〜で) はたらいて　います</kana>
+		<english>is working (at ~)</english>
+	</listItem>
+	<listItem>
+		<kanji>働く</kanji>
+		<kana>はたらく</kana>
+		<english>to work (at)</english>
+	</listItem>
+	<listItem>
+		<kanji>働きます</kanji>
+		<kana>はたらきます</kana>
+		<english>to work (at)</english>
+	</listItem>
+	<listItem>
+		<kanji>(〜で)（アル）バイト（を）して　います</kanji>
+		<kana>(〜で)（アル）バイト（を）して　います</kana>
+		<english>is working part time (at ~)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～と）結婚（を）して　います</kanji>
+		<kana>（～と）けっこん（を）して　います</kana>
+		<english>is married (to ~)</english>
+	</listItem>
+	<listItem>
+		<kanji>持って　います</kanji>
+		<kana>もって　います</kana>
+		<english>have/posess/hold/carry</english>
+	</listItem>
+	<listItem>
+		<kanji>知って　います</kanji>
+		<kana>しって　います</kana>
+		<english>(to) know</english>
+	</listItem>
+	<listItem>
+		<kanji>知りません</kanji>
+		<kana>しりません</kana>
+		<english>do not know</english>
+	</listItem>
+	<listItem>
+		<kanji>知ります</kanji>
+		<kana>しります</kana>
+		<english>to get to know</english>
+	</listItem>
+	<listItem>
+		<kanji>習って　います</kanji>
+		<kana>ならって　います</kana>
+		<english>is learning</english>
+	</listItem>
+	<listItem>
+		<kanji></kanji>
+		<kana>ホームステイを　します</kana>
+		<english>will do a homestay</english>
+	</listItem>
+</kanjiList>

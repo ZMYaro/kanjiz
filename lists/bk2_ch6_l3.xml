@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 6, Lesson 3 Vocabulary</name>
+	
+	<listItem>
+		<kanji>行く つもりです</kanji>
+		<kana>いく つもりです</kana>
+		<english>plan to go</english>
+	</listItem>
+	<listItem>
+		<kanji>行かない つもりです</kanji>
+		<kana>いかない つもりです</kana>
+		<english>do not plan to go</english>
+	</listItem>
+	<listItem>
+		<kanji>行く はずです</kanji>
+		<kana>いく はずです</kana>
+		<english>I expect that he/she will go</english>
+	</listItem>
+	<listItem>
+		<kanji>行かない はずです</kanji>
+		<kana>いかない はずです</kana>
+		<english>I expect that he/she will not go</english>
+	</listItem>
+	<listItem>
+		<kanji>(クラスを) 取ります</kanji>
+		<kana>(クラスを) とります</kana>
+		<english>take (a class)</english>
+	</listItem>
+	<listItem>
+		<kanji>(クラスを) 取る</kanji>
+		<kana>(クラスを) とる</kana>
+		<english>to take (a class)</english>
+	</listItem>
+	<listItem>
+		<kanji>(運転免許を) 取る</kanji>
+		<kana>(うんてんめんきょを) とる</kana>
+		<english>to get (a driver's license)</english>
+	</listItem>
+	<listItem>
+		<kanji>覚えます</kanji>
+		<kana>おぼえます</kana>
+		<english>memorize</english>
+	</listItem>
+	<listItem>
+		<kanji>覚える</kanji>
+		<kana>おぼえる</kana>
+		<english>to memorize</english>
+	</listItem>
+	<listItem>
+		<kanji>仕方が ありません。</kanji>
+		<kana>しかたが ありません。</kana>
+		<english>It cannot be helped.</english>
+	</listItem>
+	<listItem>
+		<kanji>もちろん</kanji>
+		<kana>もちろん</kana>
+		<english>of course</english>
+	</listItem>
+	<listItem>
+		<kanji>[reason]で</kanji>
+		<kana>[reason]で</kana>
+		<english>because of [reason]</english>
+	</listItem>
+	<listItem>
+		<kanji>いじめ</kanji>
+		<kana>いじめ</kana>
+		<english>[the act of] bullying</english>
+	</listItem>
+</kanjiList>

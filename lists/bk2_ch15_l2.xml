@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 15, Lesson 2 Vocabulary</name>
+	<listItem>
+		<kanji>ひま</kanji>
+		<kana>ひま</kana>
+		<english>is free (time-wise)</english>
+	</listItem>
+	<listItem>
+		<kanji>ひまな　時</kanji>
+		<kana>ひまな　とき</kana>
+		<english>when [someone] is free</english>
+	</listItem>
+	<listItem>
+		<kanji>その　時</kanji>
+		<kana>その　とき</kana>
+		<english>at that time</english>
+	</listItem>
+	<listItem>
+		<kanji>コンクール</kanji>
+		<kana>コンクール</kana>
+		<english>[music] competition</english>
+	</listItem>
+	<listItem>
+		<kanji>コンクールに　出ます</kanji>
+		<kana>コンクールに　でます</kana>
+		<english>participate in a competition</english>
+	</listItem>
+	<listItem>
+		<kanji>～い</kanji>
+		<kana>～い</kana>
+		<english>rank ~ (counter)</english>
+	</listItem>
+	<listItem>
+		<kanji>一人っ子</kanji>
+		<kana>ひとりっこ</kana>
+		<english>only child</english>
+	</listItem>
+	<listItem>
+		<kanji>双子</kanji>
+		<kana>ふたご</kana>
+		<english>twin(s)</english>
+	</listItem>
+	<listItem>
+		<kanji>五年前</kanji>
+		<kana>ごねんまえ</kana>
+		<english>five years ago</english>
+	</listItem>
+	<listItem>
+		<kanji>A。しかし、B。</kanji>
+		<kana>A。しかし、B。</kana>
+		<english>A.  However, B. (formal)</english>
+	</listItem>
+	<listItem>
+		<kanji>賞</kanji>
+		<kana>しょう</kana>
+		<english>award; prize</english>
+	</listItem>
+	<listItem>
+		<kanji>性格</kanji>
+		<kana>せいかく</kana>
+		<english>personality</english>
+	</listItem>
+</kanjiList>

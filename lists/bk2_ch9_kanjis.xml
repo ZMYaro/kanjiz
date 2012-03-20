@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 9 Kanjis</name>
+	<listItem>
+		<kanji>両方</kanji>
+		<kana>りょうほう</kana>
+		<english>both</english>
+	</listItem>
+	<listItem>
+		<kanji>店員</kanji>
+		<kana>てんいん</kana>
+		<english>store clerk</english>
+	</listItem>
+	<listItem>
+		<kanji>同じ</kanji>
+		<kana>おなじ</kana>
+		<english>same</english>
+	</listItem>
+	<listItem>
+		<kanji>世界</kanji>
+		<kana>せかい</kana>
+		<english>world</english>
+	</listItem>
+	<listItem>
+		<kanji>国</kanji>
+		<kana>くに</kana>
+		<english>country, nation</english>
+	</listItem>
+	<listItem>
+		<kanji>州</kanji>
+		<kana>しゅう</kana>
+		<english>state</english>
+	</listItem>
+	<listItem>
+		<kanji>市</kanji>
+		<kana>し</kana>
+		<english>city</english>
+	</listItem>
+	<listItem>
+		<kanji>島</kanji>
+		<kana>しま</kana>
+		<english>island</english>
+	</listItem>
+	<listItem>
+		<kanji>町</kanji>
+		<kana>まち</kana>
+		<english>town</english>
+	</listItem>
+	<listItem>
+		<kanji>村</kanji>
+		<kana>むら</kana>
+		<english>village</english>
+	</listItem>
+	<listItem>
+		<kanji>〜に 入れる</kanji>
+		<kana>〜に いれる</kana>
+		<english>put in ~</english>
+	</listItem>
+	<listItem>
+		<kanji>税金</kanji>
+		<kana>ぜいきん</kana>
+		<english>tax</english>
+	</listItem>
+	<listItem>
+		<kanji>地下</kanji>
+		<kana>ちか</kana>
+		<english>basement</english>
+	</listItem>
+	<listItem>
+		<kanji>現金</kanji>
+		<kana>げんきん</kana>
+		<english>cash</english>
+	</listItem>
+	<listItem>
+		<kanji>小切手</kanji>
+		<kana>こぎって</kana>
+		<english>a check</english>
+	</listItem>
+</kanjiList>	

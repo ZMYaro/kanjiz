@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 1, Chapter 5, Lesson 5 Vocabulary</name>
+	<listItem>
+		<kanji>色</kanji>
+		<kana>いろ</kana>
+		<english>color</english>
+	</listItem>
+	<listItem>
+		<kanji>何色</kanji>
+		<kana>なにいろ</kana>
+		<english>what color?</english>
+	</listItem>
+	<listItem>
+		<kanji>赤</kanji>
+		<kana>あか</kana>
+		<english>red</english>
+	</listItem>
+	<listItem>
+		<kanji>白</kanji>
+		<kana>しろ</kana>
+		<english>white</english>
+	</listItem>
+	<listItem>
+		<kanji>黒</kanji>
+		<kana>くろ</kana>
+		<english>black</english>
+	</listItem>
+	<listItem>
+		<kanji>青</kanji>
+		<kana>あお</kana>
+		<english>blue</english>
+	</listItem>
+	<listItem>
+		<kanji>黄色</kanji>
+		<kana>きいろ</kana>
+		<english>yellow</english>
+	</listItem>
+	<listItem>
+		<kanji>茶色</kanji>
+		<kana>ちゃいろ</kana>
+		<english>brown</english>
+	</listItem>
+	<listItem>
+		<kanji>緑</kanji>
+		<kana>みどり</kana>
+		<english>green</english>
+	</listItem>
+	<listItem>
+		<kanji>紫</kanji>
+		<kana>むらさき</kana>
+		<english>purple</english>
+	</listItem>
+	<listItem>
+		<kanji>ピンク</kanji>
+		<kana>ピンク</kana>
+		<english>pink</english>
+	</listItem>
+	<listItem>
+		<kanji>オレンジ（色）</kanji>
+		<kana>オレンジ（いろ）</kana>
+		<english>orange</english>
+	</listItem>
+	<listItem>
+		<kanji>グレイ</kanji>
+		<kana>グレイ</kana>
+		<english>grey</english>
+	</listItem>
+	<listItem>
+		<kanji>金色</kanji>
+		<kana>きんいろ</kana>
+		<english>gold (color)</english>
+	</listItem>
+	<listItem>
+		<kanji>銀色</kanji>
+		<kana>ぎんいろ</kana>
+		<english>silver (color)</english>
+	</listItem>
+</kanjiList>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Welcome Message</name>
+	
+	<listItem>
+		<kanji>KanjiTest_Z.へ ようこそ。</kanji>
+		<kana>KanjiTest_Z.へ ようこそ。</kana>
+		<english>Welcome to KanjiTest_Z.</english>
+	</listItem>
+</kanjiList>

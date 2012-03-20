@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 15, Lesson Kanjis</name>
+	<listItem>
+		<kanji>聞く</kanji>
+		<kana>きく</kana>
+		<english>hear</english>
+	</listItem>
+	<listItem>
+		<kanji>音楽</kanji>
+		<kana>おんがく</kana>
+		<english>music</english>
+	</listItem>
+	<listItem>
+		<kanji>映画</kanji>
+		<kana>えいが</kana>
+		<english>movie</english>
+	</listItem>
+	<listItem>
+		<kanji>生徒</kanji>
+		<kana>せいと</kana>
+		<english>student</english>
+	</listItem>
+	<listItem>
+		<kanji>良い</kanji>
+		<kana>よい</kana>
+		<english>good</english>
+	</listItem>
+	<listItem>
+		<kanji>悪い</kanji>
+		<kana>わるい</kana>
+		<english>bad</english>
+	</listItem>
+	<listItem>
+		<kanji>飲む</kanji>
+		<kana>のむ</kana>
+		<english>to drink</english>
+	</listItem>
+	<listItem>
+		<kanji>週末</kanji>
+		<kana>しゅうまつ</kana>
+		<english>weekend</english>
+	</listItem>
+	<listItem>
+		<kanji>家</kanji>
+		<kana>いえ</kana>
+		<english>home</english>
+	</listItem>
+	<listItem>
+		<kanji>成績</kanji>
+		<kana>せいせき</kana>
+		<english>grades</english>
+	</listItem>
+</kanjiList>

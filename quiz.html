@@ -1,0 +1,24 @@
+<html>
+	<head>
+		<title>KanjiQuiz_Z.</title>
+		
+		<link rel="stylesheet" type="text/css" href="/quiz/styles.css"/>
+		<script type="text/javascript" src="/quiz/script.js"></script>
+	</head>
+	<body>
+		<div id="quiz">
+			<p id="quest1">
+				あなたは　<label class="kanji" id="kanji1" for="ans1">日本語</label>を　<label class="kanji" id="kanji2" for="ans2">話しますか</label>。
+			</p>
+		</div>
+		<div id="answers">
+			1.&nbsp;<input type="text" class="ans" id="ans1"/>
+			&nbsp;&nbsp;&nbsp;
+			2.&nbsp;<input type="text" class="ans" id="ans2"/>
+			<br/>
+			<button onclick="grade();">
+				Grade Quiz
+			</button>
+		</div>
+	</body>
+</html>

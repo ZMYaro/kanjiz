@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 10, Lesson 2 Vocabulary</name>
+	<listItem>
+		<kanji>personを 迎えに 行く</kanji>
+		<kana>personを むかえに いく</kana>
+		<english>go to pick up [person]</english>
+	</listItem>
+	<listItem>
+		<kanji>personを 迎えに 来る</kanji>
+		<kana>personを むかえに くる</kana>
+		<english>go to pick up [person]</english>
+	</listItem>
+	<listItem>
+		<kanji>personを 迎えに 帰る</kanji>
+		<kana>personを むかえに かえる</kana>
+		<english>go to pick up [person]</english>
+	</listItem>
+	<listItem>
+		<kanji>thingを 取りに 行く</kanji>
+		<kana>thingを とりに いく</kana>
+		<english>go to pick up [thing]</english>
+	</listItem>
+	<listItem>
+		<kanji>thingを 取りに 来る</kanji>
+		<kana>thingを とりに くる</kana>
+		<english>go to pick up [thing]</english>
+	</listItem>
+	<listItem>
+		<kanji>thingを 取りに 帰る</kanji>
+		<kana>thingを とりに かえる</kana>
+		<english>go to pick up [thing]</english>
+	</listItem>
+	<listItem>
+		<kanji>placeに 寄る</kanji>
+		<kana>placeに よる</kana>
+		<english>to stop by/drop by [place]</english>
+	</listItem>
+	<listItem>
+		<kanji>placeに 寄ります</kanji>
+		<kana>placeに よります</kana>
+		<english>stop by/drop by [place]</english>
+	</listItem>
+	<listItem>
+		<kanji>timeまでに</kanji>
+		<kana>timeまでに</kana>
+		<english>by [time]</english>
+	</listItem>
+	<listItem>
+		<kanji>その頃</kanji>
+		<kana>そのごろ</kana>
+		<english>around that time</english>
+	</listItem>
+	<listItem>
+		<kanji>それは いい かんがえです。</kanji>
+		<kana>それは いい かんがえです。</kana>
+		<english>That is a good idea.</english>
+	</listItem>
+	<listItem>
+		<kanji>とちゅうで</kanji>
+		<kana>とちゅうで</kana>
+		<english>on the way</english>
+	</listItem>
+	<listItem>
+		<kanji>帰りに</kanji>
+		<kana>かえりに</kana>
+		<english>on the way home</english>
+	</listItem>
+</kanjiList>

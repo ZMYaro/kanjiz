@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 1, Chapter 4, Lesson 3 Vocabulary</name>
+	<listItem>
+		<kanji>昨日</kanji>
+		<kana>きのう</kana>
+		<english>yesterday</english>
+	</listItem>
+	<listItem>
+		<kanji>今日</kanji>
+		<kana>きょう</kana>
+		<english>today</english>
+	</listItem>
+	<listItem>
+		<kanji>明日</kanji>
+		<kana>あした</kana>
+		<english>tomorrow</english>
+	</listItem>
+	<listItem>
+		<kanji>朝</kanji>
+		<kana>あさ</kana>
+		<english>morning</english>
+	</listItem>
+	<listItem>
+		<kanji>（お）昼</kanji>
+		<kana>（お）ひる</kana>
+		<english>daytime</english>
+	</listItem>
+	<listItem>
+		<kanji>晩</kanji>
+		<kana>ばん</kana>
+		<english>evening</english>
+	</listItem>
+	<listItem>
+		<kanji>夜</kanji>
+		<kana>よる</kana>
+		<english>night</english>
+	</listItem>
+	<listItem>
+		<kanji>夕方</kanji>
+		<kana>ゆうがた</kana>
+		<english>late afternoon, early evening</english>
+	</listItem>
+	<listItem>
+		<kanji>朝御飯</kanji>
+		<kana>あさごはん</kana>
+		<english>breakfast</english>
+	</listItem>
+	<listItem>
+		<kanji>（お）昼御飯</kanji>
+		<kana>（お）ひるごはん</kana>
+		<english>lunch</english>
+	</listItem>
+	<listItem>
+		<kanji>晩御飯</kanji>
+		<kana>ばんごはん</kana>
+		<english>dinner, supper</english>
+	</listItem>
+	<listItem>
+		<kanji>何も + [neg.]</kanji>
+		<kana>なにも + [neg.]</kana>
+		<english>not anything, nothing</english>
+	</listItem>
+	<listItem>
+		<kanji>弁当</kanji>
+		<kana>べんとう</kana>
+		<english>box lunch</english>
+	</listItem>
+	<listItem>
+		<kanji>（お）むすび/おにぎり</kanji>
+		<kana>（お）むすび/おにぎり</kana>
+		<english>rice ball</english>
+	</listItem>
+	<listItem>
+		<kanji>ラーメン</kanji>
+		<kana>ラーメン</kana>
+		<english>Chinese noodles with soup</english>
+	</listItem>
+	<listItem>
+		<kanji>うどん</kanji>
+		<kana>うどん</kana>
+		<english>Japanese white noodles with soup</english>
+	</listItem>
+	<listItem>
+		<kanji>ピザ</kanji>
+		<kana>ピザ</kana>
+		<english>pizza</english>
+	</listItem>
+	<listItem>
+		<kanji>ホット ドッグ</kanji>
+		<kana>ホット ドッグ</kana>
+		<english>hot dog</english>
+	</listItem>
+	<listItem>
+		<kanji>ハンバーガー</kanji>
+		<kana>ハンバーガー</kana>
+		<english>hamburger</english>
+	</listItem>
+	<listItem>
+		<kanji>ステーキ</kanji>
+		<kana>ステーキ</kana>
+		<english>steak</english>
+	</listItem>
+	<listItem>
+		<kanji>魚</kanji>
+		<kana>さかな</kana>
+		<english>fish</english>
+	</listItem>
+	<listItem>
+		<kanji>スパゲッティ</kanji>
+		<kana>スパゲッティ</kana>
+		<english>spaghetti</english>
+	</listItem>
+	<listItem>
+		<kanji>（お）寿司</kanji>
+		<kana>（お）すし</kana>
+		<english>sushi</english>
+	</listItem>
+	<listItem>
+		<kanji>てんぷら</kanji>
+		<kana>てんぷら</kana>
+		<english>tempura</english>
+	</listItem>
+</kanjiList>

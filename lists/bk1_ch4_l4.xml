@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 1, Chapter 4, Lesson 4 Vocabulary</name>
+	<listItem>
+		<kanji>図書館</kanji>
+		<kana>としょかん</kana>
+		<english>library</english>
+	</listItem>
+	<listItem>
+		<kanji>カフェテリア</kanji>
+		<kana>カフェテリア</kana>
+		<english>cafetaria</english>
+	</listItem>
+	<listItem>
+		<kanji>スナック バー</kanji>
+		<kana>スナック バー</kana>
+		<english>snack bar</english>
+	</listItem>
+	<listItem>
+		<kanji>[person]と</kanji>
+		<kana>[person]と</kana>
+		<english>with [person]</english>
+	</listItem>
+	<listItem>
+		<kanji>いっしょに</kanji>
+		<kana>いっしょに</kana>
+		<english>together</english>
+	</listItem>
+	<listItem>
+		<kanji>新聞</kanji>
+		<kana>しんぶん</kana>
+		<english>newspaper</english>
+	</listItem>
+	<listItem>
+		<kanji>雑誌</kanji>
+		<kana>ざっし</kana>
+		<english>magazine</english>
+	</listItem>
+	<listItem>
+		<kanji>ウォークマン</kanji>
+		<kana>ウォークマン</kana>
+		<english>walkman</english>
+	</listItem>
+	<listItem>
+		<kanji>テープ</kanji>
+		<kana>テープ</kana>
+		<english>tape</english>
+	</listItem>
+	<listItem>
+		<kanji>読みます/読む</kanji>
+		<kana>よみます/よむ</kana>
+		<english>to read</english>
+	</listItem>
+	<listItem>
+		<kanji>聞きます/聞く</kanji>
+		<kana>ききます/きく</kana>
+		<english>to listen, hear</english>
+	</listItem>
+	<listItem>
+		<kanji>します/する</kanji>
+		<kana>します/する</kana>
+		<english>to do</english>
+	</listItem>
+	<listItem>
+		<kanji>勉強（を） します</kanji>
+		<kana>べんきょう（を） します</kana>
+		<english>to study</english>
+	</listItem>
+	<listItem>
+		<kanji>シーディ</kanji>
+		<kana>シーディ</kana>
+		<english>CD</english>
+	</listItem>
+	<listItem>
+		<kanji>シーディ プレーヤー</kanji>
+		<kana>シーディ プレーヤー</kana>
+		<english>CD player</english>
+	</listItem>
+	<listItem>
+		<kanji>ランゲージ ラボ</kanji>
+		<kana>ランゲージ ラボ</kana>
+		<english>language lab</english>
+	</listItem>
+</kanjiList>

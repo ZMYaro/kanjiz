@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 7, Lesson 2 Additional Words</name>
+	<listItem>
+		<kanji>最高気温</kanji>
+		<kana>さいこう きおん</kana>
+		<english>high temperature</english>
+	</listItem>
+	<listItem>
+		<kanji>最低気温</kanji>
+		<kana>さいてい きおん</kana>
+		<english>lowest temperature</english>
+	</listItem>
+</kanjiList>

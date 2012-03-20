@@ -1,0 +1,10 @@
+<!DOCTYPE app [
+	<!ELEMENT kanjiList (name, listItem)>
+	
+	<!ELEMENT name (#PCDATA)>     <!-- the name of the kanji list    -->
+	
+	<!ELEMENT listItem (kanji,hiragana,english)> <!-- an item in the kanjiList -->
+	<!ELEMENT kanji    (#PCDATA)> <!-- the kanji for the listItem    -->
+	<!ELEMENT kana (#PCDATA)> <!-- the hiragana for the listItem -->
+	<!ELEMENT english  (#PCDATA)> <!-- the English translation of the listItem -->
+]>

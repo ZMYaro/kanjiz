@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 1, Chapter 4, Lesson 5 Vocabulary</name>
+	<listItem>
+		<kanji>見ます/見る</kanji>
+		<kana>みます/みる</kana>
+		<english>to watch, look, see</english>
+	</listItem>
+	<listItem>
+		<kanji>書きます/書く</kanji>
+		<kana>かきます/かく</kana>
+		<english>to write, draw</english>
+	</listItem>
+	<listItem>
+		<kanji>タイプ（を） します</kanji>
+		<kana>タイプ（を） します</kana>
+		<english>to type</english>
+	</listItem>
+	<listItem>
+		<kanji>テレビ</kanji>
+		<kana>テレビ</kana>
+		<english>television</english>
+	</listItem>
+	<listItem>
+		<kanji>レポート</kanji>
+		<kana>レポート</kana>
+		<english>report</english>
+	</listItem>
+	<listItem>
+		<kanji>手紙</kanji>
+		<kana>てがみ</kana>
+		<english>letter</english>
+	</listItem>
+	<listItem>
+		<kanji>ラジオ</kanji>
+		<kana>ラジオ</kana>
+		<english>radio</english>
+	</listItem>
+	<listItem>
+		<kanji>電話</kanji>
+		<kana>でんわ</kana>
+		<english>telephone</english>
+	</listItem>
+	<listItem>
+		<kanji>コンピューター</kanji>
+		<kana>コンピューター</kana>
+		<english>computer</english>
+	</listItem>
+	<listItem>
+		<kanji>ビデオ</kanji>
+		<kana>ビデオ</kana>
+		<english>video</english>
+	</listItem>
+	<listItem>
+		<kanji>[tool]で</kanji>
+		<kana>[tool]で</kana>
+		<english>by/with/on [tool]</english>
+	</listItem>
+	<listItem>
+		<kanji>ニュース</kanji>
+		<kana>ニュース</kana>
+		<english>news</english>
+	</listItem>
+	<listItem>
+		<kanji>アニメ</kanji>
+		<kana>アニメ</kana>
+		<english>cartoons</english>
+	</listItem>
+	<listItem>
+		<kanji>テレビ ゲーム</kanji>
+		<kana>テレビ ゲーム</kana>
+		<english>video game</english>
+	</listItem>
+	<listItem>
+		<kanji>まんが</kanji>
+		<kana>まんが</kana>
+		<english>comics</english>
+	</listItem>
+</kanjiList>

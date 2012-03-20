@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 2, Chapter 7, Lesson 1 Cultural Words</name>
+	<description>Zodiac and New Year's</description>
+	
+	<listItem>
+		<kanji>えと</kanji>
+		<kana>えと</kana>
+		<english>zodiac</english>
+	</listItem>
+	<listItem>
+		<kanji>子</kanji>
+		<kana>ねずみ</kana>
+		<english>rat (zodiac)</english>
+	</listItem>
+	<listItem>
+		<kanji>丑 (牛)</kanji>
+		<kana>うし</kana>
+		<english>ox (zodiac)</english>
+	</listItem>
+	<listItem>
+		<kanji>寅　(虎)</kanji>
+		<kana>とら</kana>
+		<english>tiger (zodiac)</english>
+	</listItem>
+	<listItem>
+		<kanji>卯 (兎)</kanji>
+		<kana>うさぎ</kana>
+		<english>rabbit (zodiac)</english>
+	</listItem>
+	<listItem>
+		<kanji>辰 (竜/龍)</kanji>
+		<kana>たつ</kana>
+		<english>dragon (zodiac)</english>
+	</listItem>
+	<listItem>
+		<kanji>巳 (蛇)</kanji>
+		<kana>へび</kana>
+		<english>serpent (zodiac)</english>
+	</listItem>
+	<listItem>
+		<kanji>午 (馬)</kanji>
+		<kana>うま</kana>
+		<english>horse (zodiac)</english>
+	</listItem>
+	<listItem>
+		<kanji>未 (羊)</kanji>
+		<kana>ひつじ</kana>
+		<english>sheep (zodiac)</english>
+	</listItem>
+	<listItem>
+		<kanji>申 (猿)</kanji>
+		<kana>さる</kana>
+		<english>monkey (zodiac)</english>
+	</listItem>
+	<listItem>
+		<kanji>[] (鶏)</kanji>
+		<kana>にわとり</kana>
+		<english>rooster (zodiac)</english>
+	</listItem>
+	<listItem>
+		<kanji>戌 (犬)</kanji>
+		<kana>いぬ</kana>
+		<english>dog (zodiac)</english>
+	</listItem>
+	<listItem>
+		<kanji>豕 (猪)</kanji>
+		<kana>いのしし</kana>
+		<english>boar (zodiac)</english>
+	</listItem>
+	<listItem>
+		<kanji>おせちりょうり</kanji>
+		<kana>おせちりょうり</kana>
+		<english>special New Year's food</english>
+	</listItem>
+	<listItem>
+		<kanji>がどまつ</kanji>
+		<kana>かどまつ</kana>
+		<english>special New Year's decoration</english>
+	</listItem>
+	<listItem>
+		<kanji>としこしそば</kanji>
+		<kana>としこしそば</kana>
+		<english>hot buckwheat noodle soup; eaten on New Year's Eve</english>
+	</listItem>
+	<listItem>
+		<kanji>おぞうに</kanji>
+		<kana>おぞうに</kana>
+		<english>broth containing &lt;i&gt;mochi&lt;/i&gt;, vegetables, fish, or meat; eaten on New Year's morning</english>
+	</listItem>
+	<listItem>
+		<kanji>はねつき</kanji>
+		<kana>はねつき</kana>
+		<english>Japanese game similar to badminton</english>
+	</listItem>
+</kanjiList>
