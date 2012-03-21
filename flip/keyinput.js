@@ -1,5 +1,8 @@
 function keyPressed(e) {
 	switch (e.keyCode) {
+		case 27: // Esc
+			document.getElementById('settingsBg').style.display = 'none';
+		break;
 		case 70: // F
 			flipCard();
 		break;
