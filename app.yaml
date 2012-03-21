@@ -5,8 +5,8 @@ api_version: 1
 
 handlers:
 
-- url: /imgs
-  static_dir: imgs
+- url: /shared
+  static_dir: shared
 
 - url: /lists
   static_dir: lists
