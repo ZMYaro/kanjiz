@@ -16,7 +16,7 @@ function loadLists() {
 
 function dispLists() {
 	var listsPane = document.getElementById("listsPane");
-	listsPane.innerHTML = "<p style='text-align:center; vertical-align:middle; margin-top:24px;'><img src='/imgs/loading_anim.gif' style='vertical-align:middle;'/> Loading</p>";
+	listsPane.innerHTML = "<p style='text-align:center; vertical-align:middle; margin-top:24px;'><img src='/shared/imgs/loading_anim.gif' style='vertical-align:middle;'/> Loading</p>";
 	var newItems = [];
 	for (var i = 0; i < lists.length; i++) {
 		var newItem = document.createElement("div");
@@ -44,7 +44,7 @@ function dispLists() {
 
 function dispListItems(listNum) {
 	var listItemsPane = document.getElementById("listItemsPane");
-	listItemsPane.innerHTML = "<p style='text-align:center; vertical-align:middle; margin-top:24px;'><img src='/imgs/loading_anim.gif' style='vertical-align:middle;'/> Loading</p>";
+	listItemsPane.innerHTML = "<p style='text-align:center; vertical-align:middle; margin-top:24px;'><img src='/shared/imgs/loading_anim.gif' style='vertical-align:middle;'/> Loading</p>";
 	var newItems = [];
 	var listItems = lists[listNum].getElementsByTagName("listItem");
 	for (var i = 0; i < listItems.length; i++) {
