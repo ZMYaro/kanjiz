@@ -133,4 +133,7 @@ function loadSettings() {
 	document.getElementById("backKanji").checked = false;
 	
 	document.getElementById("back" + data[1].charAt(0).toUpperCase() + data[1].substring(1)).checked = true;
+	
+	current--;
+	nextCard();
 }

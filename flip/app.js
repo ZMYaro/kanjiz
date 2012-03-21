@@ -45,9 +45,6 @@ function init() {
 	// load all other settings
 	loadSettings();
 	
-	current--;
-	nextCard();
-	
 	setTimeout("loadLists();", 1);
 	
 	document.addEventListener("keydown", keyPressed, true);
