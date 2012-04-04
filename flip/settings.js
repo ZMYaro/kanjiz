@@ -118,7 +118,9 @@ function loadSettings() {
 	
 	// load the front data and update the UI accourdingly
 	data[0] = getSetting("frontData");
-	txt[0] = list[current][data[0]];
+	if(list.length > 0) {
+		txt[0] = list[current][data[0]];
+	}
 	document.getElementById("frontEnglish").checked = false;
 	document.getElementById("frontKana").checked = false;
 	document.getElementById("frontKanji").checked = false;
@@ -127,7 +129,9 @@ function loadSettings() {
 	
 	// load the back data and update the UI accourdingly
 	data[1] = getSetting("backData");
-	txt[1] = list[current][data[1]];
+	if(list.length > 0) {
+		txt[1] = list[current][data[1]];
+	}
 	document.getElementById("backEnglish").checked = false;
 	document.getElementById("backKana").checked = false;
 	document.getElementById("backKanji").checked = false;
