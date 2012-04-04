@@ -70,7 +70,7 @@ class SettingSetter(webapp.RequestHandler):
 				for default in defaults:
 					setattr(settings, default, defaults[default]);
 				settings.put()
-			setattr(settings, setting, urllib.unquote(value))
+			setattr(settings, setting, unicode(urllib.unquote(value), 'utf-8'))
 			settings.put()
 		else:
 			self.error(401) # ??
