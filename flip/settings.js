@@ -23,7 +23,7 @@ function getSetting(setting) {
 			if(xhr.readyState == 4) {
 				if(xhr.status == 401) { // not authenticated
 					if(confirm("You do not appear to be signed in.  Sign in now?")) {
-						window.open("/login", "_self");
+						window.open("/login?app=kanjiflip", "_self");
 					}
 				}
 			}
@@ -60,7 +60,7 @@ function setSetting(setting, value) {
 			if(xhr.readyState == 4) {
 				if(xhr.status == 401) { // not authenticated
 					if(confirm("You do not appear to be signed in.  Sign in now?")) {
-						window.open("/login", "_self");
+						window.open("/login?app=kanjiflip", "_self");
 					}
 				}
 			}
