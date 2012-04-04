@@ -180,7 +180,7 @@ function shuffleUserList() {
 		var listItem = document.createElement("div"); // create the HTML list item
 		listItem.className = "listItem";
 		listItem.innerHTML = "<button onclick=\"removeItem(this.parentElement);\">&times;</button>";
-		listItem.innerHTML += "&nbsp;" + list[i][0] + " / " + list[i][1] + " / " + list[i][2];
+		listItem.innerHTML += "&nbsp;" + list[i]['english'] + " / " + list[i]['kanji'] + " / " + list[i]['kana'];
 		userListPane.appendChild(listItem); // add it to the visible list
 	}
 	
