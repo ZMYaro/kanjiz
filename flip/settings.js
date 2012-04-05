@@ -1,15 +1,15 @@
 var defaults = {
-	"frontData":"english",
-	"backData":"kana",
+	"data":"{\"front\":\"english\", \"back\":\"kana\"}",
+	//"backData":"kana",
 	"list":"[{\"english\":\"Welcome\", \"kana\":\"よこそう\", \"kanji\":\"よこそう\"}, {\"english\":\"To KanjiFlip_Z.\", \"kana\":\"KanjiFlip_Z.へ\", \"kanji\":\"KanjiFlip_Z.へ\"}]",
 	"cloudSave":"true"
 };
-var validators = {
-	"frontData":/english|kana|kanji/,
-	"backData":/english|kana|kanji/,
+/*var validators = {
+	"data":/\{('|")(front|back)\1\s*:(english|kana|kanji)\1,\s*('|")(english|kana|kanji)\3\}/,
+	//"backData":/english|kana|kanji/,
 	"cloudSave":/true|false/,
 	"list":/\[.*\]/
-};
+};*/
 
 /**
   * Gets the value for a setting
@@ -36,12 +36,12 @@ function getSetting(setting) {
 	} else {
 		return defaults[setting];
 	}
-	if(validators[setting].test(value)) {
+	/*if(validators[setting].test(value)) {*/
 		return value;
-	} else {
+	/*} else {
 		console.log("The stored value, \"" + value + "\", is not a valid value for setting \"" + setting + "\".  Substituting the default value.");
 		return defaults[setting];
-	}
+	}*/
 }
 
 /**
@@ -50,10 +50,10 @@ function getSetting(setting) {
   * @param {string} value - The new value for the setting
   */
 function setSetting(setting, value) {
-	if(!validators[setting].test(value)) {
+	/*if(!validators[setting].test(value)) {
 		console.log("\"" + value + "\" is not a valid value for setting \"" + setting + "\".");
 		return;
-	}
+	}*/
 	if(cloudSave || setting === "cloudSave") {
 		var xhr = new XMLHttpRequest();
 		xhr.onreadystatechange = function() {
@@ -117,26 +117,25 @@ function loadSettings() {
 	}
 	
 	// load the front data and update the UI accourdingly
-	data[0] = getSetting("frontData");
+	data = JSON.parse(getSetting("data"));
 	if(list.length > 0) {
-		txt[0] = list[current][data[0]];
+		txt["front"] = list[current][data["front"]];
 	}
 	document.getElementById("frontEnglish").checked = false;
 	document.getElementById("frontKana").checked = false;
 	document.getElementById("frontKanji").checked = false;
 	
-	document.getElementById("front" + data[0].charAt(0).toUpperCase() + data[0].substring(1)).checked = true;
+	document.getElementById("front" + data["front"].charAt(0).toUpperCase() + data["front"].substring(1)).checked = true;
 	
 	// load the back data and update the UI accourdingly
-	data[1] = getSetting("backData");
 	if(list.length > 0) {
-		txt[1] = list[current][data[1]];
+		txt["back"] = list[current][data["back"]];
 	}
 	document.getElementById("backEnglish").checked = false;
 	document.getElementById("backKana").checked = false;
 	document.getElementById("backKanji").checked = false;
 	
-	document.getElementById("back" + data[1].charAt(0).toUpperCase() + data[1].substring(1)).checked = true;
+	document.getElementById("back" + data["back"].charAt(0).toUpperCase() + data["back"].substring(1)).checked = true;
 	
 	current--;
 	nextCard();

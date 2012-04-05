@@ -1,4 +1,4 @@
-var txt = ["Welcome", "よこそう"];
+var txt = {"front":"Welcome", "back":"よこそう"};
 
 var lang = {
 	"english":0,
@@ -7,10 +7,10 @@ var lang = {
 };
 
 /** What is displayed on the front and back of each card */
-var data = ["english", "kana"];
+var data = {"front":"english", "back":"kana"};
 
-/** The currently visible side (0 = front; 1 = back) */
-var side = 0;
+/** The currently visible side */
+var side = "front";
 
 /** The current list of cards */
 var list = [{"english":"Welcome", "kana":"よこそう", "kanji":"よこそう"}, {"english":"To KanjiFlip_Z.", "kana":"KanjiFlip_Z.へ", "kanji":"KanjiFlip_Z.へ"}];
@@ -29,15 +29,15 @@ var fontSizes = ["32pt", "40pt"]
 
 // HTML elements
 /** The styled card div */ var card;
-/** The text container in the card div */ var cardTxt;
-/** The off-screen card, used for sizing */ var osCard;
+/** The text container in the card div */ //var cardTxt;
+/** The off-screen card, used for sizing */ //var osCard;
 
 /** Initialize the app */
 function init() {
 	// set HTML element variables
 	card = document.getElementById("card");
-	cardTxt = document.getElementById("cardTxt");
-	osCard = document.getElementById("osCard");
+	/*cardTxt = document.getElementById("cardTxt");
+	osCard = document.getElementById("osCard");*/
 //	osCard.style.left = (window.innerWidth + 5000) + "px";
 	document.getElementById("nextCardBtn").disabled = false;
 	document.getElementById("restartBtn").style.WebkitBoxShadow = "none";
@@ -51,34 +51,41 @@ function init() {
 }
 
 function flipCard() {
-	card.style.width = "0px";
+	card.style.WebkitTransform = "rotateY(90deg)";
+	      card.style.transform = "rotateY(90deg)";
 	setTimeout("flipCardBack();", 300);
 	
-	if (side == 0) {
-		side = 1;
+	if (side == "front") {
+		side = "back";
 	} else {
-		side = 0;
+		side = "front";
 	}
 }
 function flipCardBack() {
 	
-	osCard.style.fontFamily = fontFamilies[lang[data[side]]];
+	/*osCard.style.fontFamily = fontFamilies[lang[data[side]]];
 	osCard.style.fontSize = fontSizes[lang[data[side]]];
 	cardTxt.style.fontFamily = fontFamilies[lang[data[side]]];
 	cardTxt.style.fontSize = fontSizes[lang[data[side]]];
 	
 	osCard.innerHTML = txt[side];
-	cardTxt.innerHTML = txt[side];
+	cardTxt.innerHTML = txt[side];*/
 	
-	var newWidth = osCard.offsetWidth;
+	card.innerHTML = txt[side];
 	
-	if (newWidth > (window.innerWidth - 128)) {
-		cardTxt.style.width = (window.innerWidth - 128) + "px";
+	/*var newWidth = card.offsetWidth;
+	
+	if (newWidth > (window.innerWidth - 96)) {
+		//cardTxt.style.width = (window.innerWidth - 128) + "px";
 		card.style.width = (window.innerWidth - 96) + "px";
 	} else {
-		cardTxt.style.width = (newWidth + 32) + "px";
-		card.style.width = (newWidth + 32) + "px";
-	}
+		//cardTxt.style.width = (newWidth + 32) + "px";
+		//card.style.width = (newWidth + 32) + "px";
+		card.style.width = null;
+	}*/
+	
+	card.style.WebkitTransform = "rotateY(0deg)";
+	      card.style.transform = "rotateY(0deg)";
 	
 	document.getElementById("progress").style.width = (1.0 * (current + 1) / list.length * 100) + "%";
 	document.getElementById("progressNum").innerHTML = (current + 1) + "/" + list.length;
@@ -91,8 +98,8 @@ function nextCard() {
 	current++;
 	
 	if (current < list.length) {
-		txt = [list[current][data[0]], list[current][data[1]]];
-		side = 0;
+		txt = {"front":list[current][data["front"]], "back":list[current][data["back"]]};
+		side = "front";
 		//setTimeout("flipCardBack();", 550);
 		setTimeout("slideCardBack();", 200);
 	}
@@ -123,23 +130,27 @@ function nextCard() {
 }
 function slideCardBack() {
 	if (list.length > 0) {
-		osCard.style.fontFamily = fontFamilies[lang[data[side]]];
+		/*osCard.style.fontFamily = fontFamilies[lang[data[side]]];
 		osCard.style.fontSize = fontSizes[lang[data[side]]];
 		cardTxt.style.fontFamily = fontFamilies[lang[data[side]]];
 		cardTxt.style.fontSize = fontSizes[lang[data[side]]];
 	
 		osCard.innerHTML = txt[side];
-		cardTxt.innerHTML = txt[side];
+		cardTxt.innerHTML = txt[side];*/
+		
+		card.innerHTML = txt[side];
 	
-		var newWidth = osCard.offsetWidth;
+		/*var newWidth = osCard.offsetWidth;
+		var newWidth = card.offsetWidth;
 	
-		if (newWidth > (window.innerWidth - 128)) {
-			cardTxt.style.width = (window.innerWidth - 128) + "px";
+		if (newWidth > (window.innerWidth - 96)) {
+			//cardTxt.style.width = (window.innerWidth - 128) + "px";
 			card.style.width = (window.innerWidth - 96) + "px";
 		} else {
-			cardTxt.style.width = (newWidth + 32) + "px";
-			card.style.width = (newWidth + 32) + "px";
-		}
+			//cardTxt.style.width = (newWidth + 32) + "px";
+			//card.style.width = (newWidth + 32) + "px";
+			card.style.width = null;
+		}*/
 		
 		setTimeout("document.getElementById('cardBlock').style.top = '128px';", 200);
 		
@@ -159,17 +170,13 @@ function slideCardBack() {
 
 function restart() {
 	current = -1;
-	side = 0;
+	side = "front";
 	nextCard();
 }
 
 function setData(dataSide, dataType) {
 	data[dataSide] = dataType;
-	if (dataSide == 0) {
-		setSetting("frontData", dataType);
-	} else if (dataSide == 1) {
-		setSetting("backData", dataType);
-	}
+	setSetting("data", JSON.stringify(data));
 	current--;
 	nextCard();
 }

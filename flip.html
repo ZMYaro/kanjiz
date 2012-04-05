@@ -19,10 +19,8 @@
 		<div id="bg"></div>
 		<div id="app">
 			<div id="cardBlock">
-				<div id="card" style="width:240px;">
-					<div id="cardTxt">
-						Loading...
-					</div>
+				<div id="card">
+					Loading...
 				</div>
 			</div>
 			<div id="controls">
@@ -80,15 +78,15 @@
 					<br />
 					Front:
 					<br />
-					<label for="frontEnglish" onclick="setData(0, 'english');">
+					<label for="frontEnglish" onclick="setData('front', 'english');">
 						<input type="radio" name="front" id="frontEnglish" checked />
 						English
 					</label>
-					<label for="frontKana" onclick="setData(0, 'kana');">
+					<label for="frontKana" onclick="setData('front', 'kana');">
 						<input type="radio" name="front" id="frontKana" />
 						Kana
 					</label>
-					<label for="frontKanji" onclick="setData(0, 'kanji');">
+					<label for="frontKanji" onclick="setData('front', 'kanji');">
 						<input type="radio" name="front" id="frontKanji" />
 						Kanji
 					</label>
@@ -96,15 +94,15 @@
 					<br />
 					Back:
 					<br />
-					<label for="backEnglish" onclick="setData(1, 'english');">
+					<label for="backEnglish" onclick="setData('back', 'english');">
 						<input type="radio" name="back" id="backEnglish" />
 						English
 					</label>
-					<label for="backKana" onclick="setData(1, 'kana');">
+					<label for="backKana" onclick="setData('back', 'kana');">
 						<input type="radio" name="back" id="backKana" />
 						Kana
 					</label>
-					<label for="backKanji" onclick="setData(1, 'kanji');">
+					<label for="backKanji" onclick="setData('back', 'kanji');">
 						<input type="radio" name="back" id="backKanji" checked />
 						Kanji
 					</label>

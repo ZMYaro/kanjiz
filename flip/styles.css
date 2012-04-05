@@ -112,23 +112,30 @@ label {
 	font-size:32pt;
 	text-align:center;
 	
-	padding:32px 0px;
+	padding:32px;
+	
+	max-width:85%;
 	
 	display:inline-block;
 	overflow:hidden;
 	
-	-webkit-transition-property:width;
+	/*-webkit-transition-property:width;*/
+	-webkit-transition-property:-webkit-transform;
+	-webkit-transition-property:        transform;
+	        transition-property:        transform;
 	-webkit-transition-duration:0.2s;
+	        transition-duration:0.2s;
 	-webkit-transition-timing-function:linear;
+	        transition-timing-function:linear;
 	
 	-webkit-user-select:none;
 	cursor:default;
 }
-#cardTxt {
+/*#cardTxt {
 	text-align:center;
 	display:inline-block;
-}
-#osCard {
+}*/
+/*#osCard {
 	border-style:none;
 	border-width:0px;
 	
@@ -141,7 +148,7 @@ label {
 	
 	position:fixed;
 	display:inline-block;
-}
+}*/
 #controls {
 	position:absolute;
 	bottom:4px;

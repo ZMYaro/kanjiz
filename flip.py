@@ -12,8 +12,8 @@ from google.appengine.ext.webapp import template
 from google.appengine.ext.webapp.util import run_wsgi_app
 
 defaults = {
-	'frontData':'english',
-	'backData':'kana',
+	'data':'{\"front\":\"english\", \"back\":\"kana\"}',
+	#'backData':'kana',
 	#'list':'[{\"english\":\"Welcome\", \"kana\":\"' + unicode('よこそう', 'utf-8') + '\", \"kanji\":\"' + unicode('よこそう', 'utf-8') + '\"}, {\"english\":\"To KanjiFlip_Z.\", \"kana\":\"KanjiFlip_Z.' + unicode('へ', 'utf-8') + '\", \"kanji\":\"KanjiFlip_Z.' + unicode('へ', 'utf-8') + '\"}]',
 	'list':u'[{\"english\":\"Welcome\", \"kana\":\"よこそう\", \"kanji\":\"よこそう\"}, {\"english\":\"To KanjiFlip_Z.\", \"kana\":\"KanjiFlip_Z.へ\", \"kanji\":\"KanjiFlip_Z.へ\"}]',
 	'cloudSave':'true'
@@ -21,8 +21,7 @@ defaults = {
 
 class FlipSettings(db.Model):
 	user = db.UserProperty()
-	frontData = db.StringProperty()
-	backData = db.StringProperty()
+	data = db.StringProperty()
 	list = db.TextProperty()
 	cloudSave = db.StringProperty()
 
@@ -44,6 +43,8 @@ class FlipPage(webapp.RequestHandler):
 class SettingGetter(webapp.RequestHandler):
 	def get(self, setting):
 		global defaults
+		
+		self.response.headers['Access-Control-Allow-Origin'] = 'chrome-extension://cgdlfanepopcimpmhahpkklmheclflbe'
 		
 		user = users.get_current_user()
 		if user:
