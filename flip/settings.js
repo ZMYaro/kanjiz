@@ -36,12 +36,13 @@ function getSetting(setting) {
 	} else {
 		return defaults[setting];
 	}
+	if(!!value) {
 	/*if(validators[setting].test(value)) {*/
 		return value;
-	/*} else {
+	} else {
 		console.log("The stored value, \"" + value + "\", is not a valid value for setting \"" + setting + "\".  Substituting the default value.");
 		return defaults[setting];
-	}*/
+	}
 }
 
 /**
