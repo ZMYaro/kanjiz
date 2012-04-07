@@ -97,15 +97,15 @@ function dispListItems(listItems) {
 //	var list = loadXML(listId);
 //	var listItems = list.getElementsByTagName("listItem");
 	
-	for (var i = 0; i < listItems.length; i++) {
+	for(var i = 0; i < listItems.length; i++) {
 		var newItem = document.createElement("div");
 		newItem.className = "listItem";
 		newItem.innerHTML = "<button>+</button>";
-		newItem.innerHTML += "&nbsp;" + listItems[i].getElementsByTagName("english")[0].textContent + " / " + listItems[i].getElementsByTagName("kana")[0].textContent + " / " + listItems[i].getElementsByTagName("kanji")[0].textContent;
-		newItem.setAttribute("data-english", listItems[i].getElementsByTagName("english")[0].textContent);
-		newItem.setAttribute("data-kana", listItems[i].getElementsByTagName("kana")[0].textContent);
-		newItem.setAttribute("data-kanji", listItems[i].getElementsByTagName("kanji")[0].textContent);
-		newItem.setAttribute("onclick", "addItem(\"" + listItems[i].getElementsByTagName("english")[0].textContent + "\", \"" + listItems[i].getElementsByTagName("kana")[0].textContent + "\", \"" + listItems[i].getElementsByTagName("kanji")[0].textContent + "\");");
+		newItem.innerHTML += "&nbsp;" + listItems[i].getElementsByTagName("english")[0].textContent.replace(/"|'/g, "") + " / " + listItems[i].getElementsByTagName("kana")[0].textContent.replace(/"|'/g, "") + " / " + listItems[i].getElementsByTagName("kanji")[0].textContent.replace(/"|'/g, "");
+		newItem.setAttribute("data-english", listItems[i].getElementsByTagName("english")[0].textContent.replace(/"|'/g, ""));
+		newItem.setAttribute("data-kana", listItems[i].getElementsByTagName("kana")[0].textContent.replace(/"|'/g, ""));
+		newItem.setAttribute("data-kanji", listItems[i].getElementsByTagName("kanji")[0].textContent.replace(/"|'/g, ""));
+		newItem.setAttribute("onclick", "addItem(\"" + listItems[i].getElementsByTagName("english")[0].textContent.replace(/"|'/g, "") + "\", \"" + listItems[i].getElementsByTagName("kana")[0].textContent.replace(/"|'/g, "") + "\", \"" + listItems[i].getElementsByTagName("kanji")[0].textContent.replace(/"|'/g, "") + "\");");
 		newItems.push(newItem);
 	}
 	
@@ -113,7 +113,7 @@ function dispListItems(listItems) {
 	
 	// show the new items
 	// this is done after they are all created to reduce lag in displaying them, although it will likely be barely noticable in Chrome
-	for (var i = 0; i < newItems.length; i++) {
+	for(var i = 0; i < newItems.length; i++) {
 		listItemsPane.appendChild(newItems[i]);
 	}
 }
