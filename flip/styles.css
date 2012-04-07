@@ -22,12 +22,12 @@ button {
 	
 	cursor:pointer;
 }
-button:hover {
+button:enabled:hover {
 	background-image:-webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0%, white), color-stop(100%, lightGray));
 	border-style:solid;
 	border-color:#888;
 }
-button:active {
+button:enabled:active {
 	background-image:-webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0%, lightGray), color-stop(100%, white));
 	border-style:inset;
 	border-color:#DDD;
@@ -42,16 +42,6 @@ button:disabled {
 	border-color:#777;
 	
 	cursor:default;
-}
-button:disabled:hover {
-	background-image:none;
-	border-style:solid;
-	border-color:#777;
-}
-button:disabled:active {
-	background-image:none;
-	border-style:solid;
-	border-color:#777;
 }
 
 label {
