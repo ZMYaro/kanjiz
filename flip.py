@@ -19,6 +19,8 @@ defaults = {
 	'cloudSave':'true'
 }
 
+testers = ['zmyaro@gmail.com','mangosteve@wow.com']
+
 class FlipSettings(db.Model):
 	user = db.UserProperty()
 	data = db.StringProperty()
@@ -26,10 +28,12 @@ class FlipSettings(db.Model):
 	cloudSave = db.StringProperty()
 
 class FlipPage(webapp.RequestHandler):
+	global testers
+	
 	def get(self):
 		user = users.get_current_user()
 		if user:
-			if user.email() in ['zmyaro@gmail.com']:
+			if user.email() in testers:
 				self.response.headers['Content-Type'] = 'text/html;charset=utf-8'
 				self.response.headers['X-UA-Compatible'] = 'chrome=1'
 		
