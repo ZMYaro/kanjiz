@@ -28,19 +28,14 @@ class FlipSettings(db.Model):
 	cloudSave = db.StringProperty()
 
 class FlipPage(webapp.RequestHandler):
-	global testers
-	
 	def get(self):
 		user = users.get_current_user()
 		if user:
-			if user.email() in testers:
-				self.response.headers['Content-Type'] = 'text/html;charset=utf-8'
-				self.response.headers['X-UA-Compatible'] = 'chrome=1'
-		
-				path = os.path.join(os.path.dirname(__file__), 'flip.html')
-				self.response.out.write(template.render(path, {}))
-			else:
-				self.redirect('/forbidden?app=kanjiflip')
+			self.response.headers['Content-Type'] = 'text/html;charset=utf-8'
+			self.response.headers['X-UA-Compatible'] = 'chrome=1'
+	
+			path = os.path.join(os.path.dirname(__file__), 'flip.html')
+			self.response.out.write(template.render(path, {}))
 		else:
 			self.redirect('/login?app=kanjiflip')
 
@@ -69,7 +64,7 @@ class SettingSetter(webapp.RequestHandler):
 		user = users.get_current_user()
 		if user and setting != 'user':
 			settings = FlipSettings.gql('WHERE user = :1', user).get()
-			if not settings: 
+			if not settings:
 				settings = FlipSettings()
 				settings.user = user
 				for default in defaults:
