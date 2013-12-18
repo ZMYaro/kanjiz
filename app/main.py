@@ -2,11 +2,16 @@ import cgi
 import os
 
 from google.appengine.api import users
-from google.appengine.ext import webapp
-from google.appengine.ext.webapp import template
-from google.appengine.ext.webapp.util import run_wsgi_app
 
-class MainPage(webapp.RequestHandler):
+import webapp2
+import jinja2
+
+JINJA_ENVIRONMENT = jinja2.Environment(
+	loader=jinja2.FileSystemLoader(os.path.dirname(__file__)),
+	extensions=['jinja2.ext.autoescape'],
+	autoescape=True)
+
+class MainPage(webapp2.RequestHandler):
 	def get(self):
 		self.response.headers['Content-Type'] = 'text/html;charset=utf-8'
 		self.response.headers['X-UA-Compatible'] = 'chrome=1'
@@ -17,45 +22,46 @@ class MainPage(webapp.RequestHandler):
 		else:
 			templateVars = {'loginURL':users.create_login_url(self.request.uri)}
 		
-		path = os.path.join(os.path.dirname(__file__), 'index.html')
-		self.response.out.write(template.render(path, templateVars))
+		template = JINJA_ENVIRONMENT.get_template('index.html')
+		self.response.write(template.render(templateVars))
 
-class LoginPage(webapp.RequestHandler):
+#class KanjiTestPage(webapp2.RequestHandler):
+#	def get(self, stuff): # Ignore any stuff after the base URL
+#		path = os.path.join(os.path.dirname(__file__), 'test.html')
+#		self.response.write(template.render(path, {}))
+
+class LoginPage(webapp2.RequestHandler):
 	def get(self):
 		self.response.headers['Content-Type'] = 'text/html;charset=utf-8'
 		self.response.headers['X-UA-Compatible'] = 'chrome=1'
 		
-		path = os.path.join(os.path.dirname(__file__), 'login.html')
+		template = JINJA_ENVIRONMENT.get_template('login.html')
 		if self.request.get('app'):
 			templateVars = {'loginURL':users.create_login_url('/' + self.request.get('app'))}
 		else:
 			templateVars = {'loginURL':users.create_login_url('/')}
-		self.response.out.write(template.render(path, templateVars))
+		self.response.write(template.render(templateVars))
 
-class ForbiddenPage(webapp.RequestHandler):
+class ForbiddenPage(webapp2.RequestHandler):
 	def get(self):
 		templateVars = {}
 		if self.request.get('app'):
 			templateVars = {'app':self.request.get('app')}
-		path = os.path.join(os.path.dirname(__file__), '403.html')
-		self.response.out.write(template.render(path, templateVars))
+		template = JINJA_ENVIRONMENT.get_template('403.html')
+		self.response.write(template.render(templateVars))
 		self.response.set_status(403);
 
-class NotFoundPage(webapp.RequestHandler):
+class NotFoundPage(webapp2.RequestHandler):
 	def get(self, page):
-		path = os.path.join(os.path.dirname(__file__), '404.html')
-		self.response.out.write(template.render(path, {}))
+		template = JINJA_ENVIRONMENT.get_template('404.html')
+		self.response.write(template.render({}))
 		self.response.set_status(404);
 
-site = webapp.WSGIApplication([('/', MainPage),
-                               ('/index\.html', MainPage),
-                               ('/login', LoginPage),
-                               ('/forbidden', ForbiddenPage),
-                               ('/(.*)', NotFoundPage)],
-                              debug=True)
-
-def main():
-	run_wsgi_app(site)
-
-if __name__ == '__main__':
-	main()
+app = webapp2.WSGIApplication([
+	('/', MainPage),
+	('/index\.html', MainPage),
+	#('/kanjitest(/.*)?', KanjiTestPage),
+	('/login', LoginPage),
+	('/forbidden', ForbiddenPage),
+	('/(.*)', NotFoundPage)
+], debug=True)

@@ -1,22 +1,19 @@
 
-import cgi
 import os
-import urllib
 
-from google.appengine.ext import webapp
-from google.appengine.ext.webapp import template
-from google.appengine.ext.webapp.util import run_wsgi_app
+import jinja2
+import webapp2
 
-class KanjiTestPage(webapp.RequestHandler):
+JINJA_ENVIRONMENT = jinja2.Environment(
+	loader=jinja2.FileSystemLoader(os.path.dirname(__file__)),
+	extensions=['jinja2.ext.autoescape'],
+	autoescape=True)
+
+class KanjiTestPage(webapp2.RequestHandler):
 	def get(self, stuff): # Ignore any stuff after the base URL
-		path = os.path.join(os.path.dirname(__file__), 'test.html')
-		self.response.out.write(template.render(path, {}))
+		template = JINJA_ENVIRONMENT.get_template('test.html')
+		self.response.write(template.render({}))
 
 
-site = webapp.WSGIApplication([('/kanjitest(/.*)?', KanjiTestPage)], debug=True)
+app = webapp2.WSGIApplication([('/kanjitest(/.*)?', KanjiTestPage)], debug=True)
 
-def main():
-	run_wsgi_app(site)
-
-if __name__ == '__main__':
-	main()

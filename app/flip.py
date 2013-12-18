@@ -5,11 +5,16 @@ import cgi
 import os
 import urllib
 
+import jinja2
+import webapp2
+
 from google.appengine.api import users
 from google.appengine.ext import db
-from google.appengine.ext import webapp
-from google.appengine.ext.webapp import template
-from google.appengine.ext.webapp.util import run_wsgi_app
+
+JINJA_ENVIRONMENT = jinja2.Environment(
+	loader=jinja2.FileSystemLoader(os.path.dirname(__file__)),
+	extensions=['jinja2.ext.autoescape'],
+	autoescape=True)
 
 defaults = {
 	'data':'{\"front\":\"english\", \"back\":\"kana\"}',
@@ -27,19 +32,19 @@ class FlipSettings(db.Model):
 	list = db.TextProperty()
 	cloudSave = db.StringProperty()
 
-class FlipPage(webapp.RequestHandler):
+class FlipPage(webapp2.RequestHandler):
 	def get(self):
 		user = users.get_current_user()
 		if user:
 			self.response.headers['Content-Type'] = 'text/html;charset=utf-8'
 			self.response.headers['X-UA-Compatible'] = 'chrome=1'
 	
-			path = os.path.join(os.path.dirname(__file__), 'flip.html')
-			self.response.out.write(template.render(path, {}))
+			template = JINJA_ENVIRONMENT.get_template('flip.html')
+			self.response.write(template.render({}))
 		else:
 			self.redirect('/login?app=kanjiflip')
 
-class SettingGetter(webapp.RequestHandler):
+class SettingGetter(webapp2.RequestHandler):
 	def get(self, setting):
 		global defaults
 		
@@ -54,12 +59,12 @@ class SettingGetter(webapp.RequestHandler):
 				for default in defaults:
 					setattr(settings, default, defaults[default]);
 				settings.put()
-			self.response.out.write(getattr(settings, setting, defaults[setting]))
+			self.response.write(getattr(settings, setting, defaults[setting]))
 				
 		else:
 			self.error(401) # ??
 		
-class SettingSetter(webapp.RequestHandler):
+class SettingSetter(webapp2.RequestHandler):
 	def get(self, setting, value):
 		user = users.get_current_user()
 		if user and setting != 'user':
@@ -75,14 +80,8 @@ class SettingSetter(webapp.RequestHandler):
 		else:
 			self.error(401) # ??
 
-site = webapp.WSGIApplication(
-                              [('/kanjiflip/settings/get/(.*)', SettingGetter),
-                               ('/kanjiflip/settings/set/(.*?)/(.*)', SettingSetter),
-                               ('/kanjiflip/?', FlipPage)],
-                              debug=True)
-
-def main():
-	run_wsgi_app(site)
-
-if __name__ == '__main__':
-	main()
+app = webapp2.WSGIApplication([
+	('/kanjiflip/settings/get/(.*)', SettingGetter),
+	('/kanjiflip/settings/set/(.*?)/(.*)', SettingSetter),
+	('/kanjiflip/?', FlipPage)
+], debug=True)
