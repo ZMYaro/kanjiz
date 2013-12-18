@@ -1,34 +1,51 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		
+		<style type="text/css">
+			input, label {
+				font-family: sans-serif;
+				font-size: 16px;
+			}
+		</style>
 		<script type="text/javascript">
 			function createXML() {
 				var kanji = document.getElementById("kanji").value;
 				var kana = document.getElementById("kana").value;
 				var eng = document.getElementById("eng").value;
 				
-				var out = "<listItem>\n";
-				out += "\t<kanji>" + kanji + "</kanji>\n";
-				out += "\t<kana>" + kana + "</kana>\n";
-				out += "\t<english>" + eng + "</english>\n";
-				out += "</listitem>";
+				var out = "\t<listItem>\n";
+				out += "\t\t<kanji>" + kanji + "</kanji>\n";
+				out += "\t\t<kana>" + kana + "</kana>\n";
+				out += "\t\t<english>" + eng + "</english>\n";
+				out += "\t</listitem>";
 				
 				document.getElementById("output").value = out;
+			}
+			function addToList() {
+				document.getElementById("list").value += "\n" + document.getElementById("output").value;
+				document.getElementById("eng").value = "";
+				document.getElementById("kana").value = "";
+				document.getElementById("kanji").value = "";
+				document.getElementById("kanji").focus();
 			}
 		</script>
 	</head>
 	<body>
-		Kanji:
-		<input type="text" id="kanji" onKeyUp="createXML();"/>
-		<br/>
-		Kana:
-		<input type="text" id="kana" onKeyUp="createXML();"/>
-		<br/>
-		English:
-		<input type="text" id="eng" onKeyUp="createXML();"/>
+		<form onsubmit="event.preventDefault();addToList();">
+			<label for="kanji">Kanji:</label>
+			<input type="text" id="kanji" onKeyUp="createXML();"/>
+			<br />
+			<label for="kana">Kana:</label>
+			<input type="text" id="kana" onKeyUp="createXML();"/>
+			<br />
+			<label for="eng">English:</label>
+			<input type="text" id="eng" onKeyUp="createXML();"/>
+			<br />
+			<button type="submit">Add to list</button>
+		</form>
 		<br/>
 		<br/>
 		<textarea disabled id="output" style="height:14ex; width:80%;"></textarea>
+		<textarea id="list" style="height: 40em; width: 80%;"></textarea>
 	</body>
 </html>
