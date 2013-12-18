@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
 <kanjiList>
-	<name>Genki 1, Lesson 7</name>
+	<name>Genki 1, Lesson 7 Vocabulary</name>
 	<listItem>
 		<kanji>姉</kanji>
 		<kana>あね</kana>
@@ -190,7 +190,7 @@
 	<listItem>
 		<kanji>（～を）かぶる</kanji>
 		<kana>（～を）かぶる</kana>
-		<english>to put on (~) (a hat)</english>
+		<english>to put on (a hat)</english>
 	</listItem>
 	<listItem>
 		<kanji>（～を）知る</kanji>
@@ -235,7 +235,7 @@
 	<listItem>
 		<kanji>（～を）はく</kanji>
 		<kana>（～を）はく</kana>
-		<english>to put on (~) (clothes below one's waist)</english>
+		<english>to put on (clothes below one's waist)</english>
 	</listItem>
 	<listItem>
 		<kanji>太る</kanji>

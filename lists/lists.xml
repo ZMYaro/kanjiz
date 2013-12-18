@@ -304,10 +304,22 @@
 			<name>Chapter 15, Lesson 4 Kanjis</name>
 		</list>
 	</folder>
-	<folder name="Genki 1 Vocabulary">
+	<folder name="Genki 1">
 		<list>
 			<id>genki1_l7</id>
-			<name>Genki 1, Lesson 7</name>
+			<name>Genki 1, Lesson 7 Vocabulary</name>
+		</list>
+		<list>
+			<id>genki1_l9</id>
+			<name>Genki 1, Lesson 9 Vocabulary</name>
+		</list>
+		<list>
+			<id>genki1_l9_kanji</id>
+			<name>Genki 1, Lesson 9 Kanji</name>
+		</list>
+		<list>
+			<id>genki1_l9_kanji_ex</id>
+			<name>Genki 1, Lesson 9 Kanji Examples</name>
 		</list>
 	</folder>
 	<folder name="Eco">

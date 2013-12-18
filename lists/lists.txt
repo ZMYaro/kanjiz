@@ -72,6 +72,10 @@ bk2_ch15_l1_kanjis
 bk2_ch15_l2_kanjis
 bk2_ch15_l3_kanjis
 bk2_ch15_l4_kanjis
+genki1_l7
+genki1_l9
+genki1_l9_kanji
+genki1_l9_kanji_ex
 grade1_kanjis
 eco_kanjis
 eco_words

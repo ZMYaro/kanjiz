@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Genki 1, Lesson 9 Vocabulary</name>
+	<listItem>
+		<kanji>いい子</kanji>
+		<kana>いいこ</kana>
+		<english>good child</english>
+	</listItem>
+	<listItem>
+		<kanji>色</kanji>
+		<kana>いろ</kana>
+		<english>color</english>
+	</listItem>
+	<listItem>
+		<kanji>お弁当</kanji>
+		<kana>おべんとう</kana>
+		<english>boxed lunch</english>
+	</listItem>
+	<listItem>
+		<kanji>歌舞伎</kanji>
+		<kana>かぶき</kana>
+		<english>traditional Japanese theatrical art</english>
+	</listItem>
+	<listItem>
+		<kanji>ギター</kanji>
+		<kana>ギター</kana>
+		<english>guitar</english>
+	</listItem>
+	<listItem>
+		<kanji>去年</kanji>
+		<kana>きょねん</kana>
+		<english>last year</english>
+	</listItem>
+	<listItem>
+		<kanji>薬</kanji>
+		<kana>くすり</kana>
+		<english>medicine</english>
+	</listItem>
+	<listItem>
+		<kanji>薬を飲む</kanji>
+		<kana>くすりをのむ</kana>
+		<english>to take medicine</english>
+	</listItem>
+	<listItem>
+		<kanji>コンサート</kanji>
+		<kana>コンサート</kana>
+		<english>concert</english>
+	</listItem>
+	<listItem>
+		<kanji>今度</kanji>
+		<kana>こんど</kana>
+		<english>near future</english>
+	</listItem>
+	<listItem>
+		<kanji>作文</kanji>
+		<kana>さくぶん</kana>
+		<english>essay; composition</english>
+	</listItem>
+	<listItem>
+		<kanji>試験</kanji>
+		<kana>しけん</kana>
+		<english>exam</english>
+	</listItem>
+	<listItem>
+		<kanji>スキー</kanji>
+		<kana>スキー</kana>
+		<english>ski</english>
+	</listItem>
+	<listItem>
+		<kanji>先月</kanji>
+		<kana>せんげつ</kana>
+		<english>last month</english>
+	</listItem>
+	<listItem>
+		<kanji>単語</kanji>
+		<kana>たんご</kana>
+		<english>word; vocabulary</english>
+	</listItem>
+	<listItem>
+		<kanji>ピアノ</kanji>
+		<kana>ピアノ</kana>
+		<english>piano</english>
+	</listItem>
+	<listItem>
+		<kanji>病気</kanji>
+		<kana>びょうき</kana>
+		<english>illness; sickness</english>
+	</listItem>
+	<listItem>
+		<kanji>青い</kanji>
+		<kana>あおい</kana>
+		<english>blue</english>
+	</listItem>
+	<listItem>
+		<kanji>赤い</kanji>
+		<kana>あかい</kana>
+		<english>red</english>
+	</listItem>
+	<listItem>
+		<kanji>黒い</kanji>
+		<kana>くろい</kana>
+		<english>black</english>
+	</listItem>
+	<listItem>
+		<kanji>寂しい</kanji>
+		<kana>さびしい</kana>
+		<english>lonely</english>
+	</listItem>
+	<listItem>
+		<kanji>白い</kanji>
+		<kana>しろい</kana>
+		<english>white</english>
+	</listItem>
+	<listItem>
+		<kanji>若い</kanji>
+		<kana>わかい</kana>
+		<english>young</english>
+	</listItem>
+	<listItem>
+		<kanji>意地悪（な）</kanji>
+		<kana>いじわる（な）</kana>
+		<english>mean-spirited</english>
+	</listItem>
+	<listItem>
+		<kanji>踊る</kanji>
+		<kana>おどる</kana>
+		<english>to dance</english>
+	</listItem>
+	<listItem>
+		<kanji>（～が）終わる</kanji>
+		<kana>（～が）おわる</kana>
+		<english>(~) ends</english>
+	</listItem>
+	<listItem>
+		<kanji>人気がある</kanji>
+		<kana>にんきがある</kana>
+		<english>to be popular</english>
+	</listItem>
+	<listItem>
+		<kanji>（～が）始まる</kanji>
+		<kana>（～が）はじまる</kana>
+		<english>(~) begins</english>
+	</listItem>
+	<listItem>
+		<kanji>（～を）弾く</kanji>
+		<kana>（～を）ひく</kana>
+		<english>to play (a string instrument)</english>
+	</listItem>
+	<listItem>
+		<kanji>（AにBを）もらう</kanji>
+		<kana>（AにBを）もらう</kana>
+		<english>to get (thing B from person A)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～を）覚える</kanji>
+		<kana>（～を）おぼえる</kana>
+		<english>to memorize (~)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～に）出る</kanji>
+		<kana>（～に）でる</kana>
+		<english>to appear/attend (~)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～を）出る</kanji>
+		<kana>（～を）でる</kana>
+		<english>to exit (~)</english>
+	</listItem>
+	<listItem>
+		<kanji>運動する</kanji>
+		<kana>うんどうする</kana>
+		<english>to do physical exercise</english>
+	</listItem>
+	<listItem>
+		<kanji>散歩する</kanji>
+		<kana>さんぽする</kana>
+		<english>to take a walk</english>
+	</listItem>
+	<listItem>
+		<kanji>～から</kanji>
+		<kana>～から</kana>
+		<english>from ~</english>
+	</listItem>
+	<listItem>
+		<kanji>是非</kanji>
+		<kana>ぜひ</kana>
+		<english>by all means</english>
+	</listItem>
+	<listItem>
+		<kanji>ところで</kanji>
+		<kana>ところで</kana>
+		<english>by the way</english>
+	</listItem>
+	<listItem>
+		<kanji>みんな</kanji>
+		<kana>みんな</kana>
+		<english>all</english>
+	</listItem>
+	<listItem>
+		<kanji>もう</kanji>
+		<kana>もう</kana>
+		<english>already</english>
+	</listItem>
+	<listItem>
+		<kanji>一つ</kanji>
+		<kana>ひとつ</kana>
+		<english>one (small thing)</english>
+	</listItem>
+	<listItem>
+		<kanji>二つ</kanji>
+		<kana>ふたつ</kana>
+		<english>two (small things)</english>
+	</listItem>
+	<listItem>
+		<kanji>三つ</kanji>
+		<kana>みっつ</kana>
+		<english>three (small things)</english>
+	</listItem>
+	<listItem>
+		<kanji>四つ</kanji>
+		<kana>よっつ</kana>
+		<english>four (small things)</english>
+	</listItem>
+	<listItem>
+		<kanji>五つ</kanji>
+		<kana>いつつ</kana>
+		<english>five (small things)</english>
+	</listItem>
+	<listItem>
+		<kanji>六つ</kanji>
+		<kana>むっつ</kana>
+		<english>six (small things)</english>
+	</listItem>
+	<listItem>
+		<kanji>七つ</kanji>
+		<kana>ななつ</kana>
+		<english>seven (small things)</english>
+	</listItem>
+	<listItem>
+		<kanji>八つ</kanji>
+		<kana>やっつ</kana>
+		<english>eight (small things)</english>
+	</listItem>
+	<listItem>
+		<kanji>九つ</kanji>
+		<kana>ここのつ</kana>
+		<english>nine (small things)</english>
+	</listItem>
+	<listItem>
+		<kanji>十</kanji>
+		<kana>とお</kana>
+		<english>ten (small things)</english>
+	</listItem>
+</kanjiList>

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Genki 1, Lesson 9 Kanji</name>
+	<listItem>
+		<kanji>午</kanji>
+		<kana>ご</kana>
+		<english>noon (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>後</kanji>
+		<kana>ご/あと/うし</kana>
+		<english>after (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>前</kanji>
+		<kana>ぜん/まえ</kana>
+		<english>before (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>名</kanji>
+		<kana>めい/な</kana>
+		<english>name (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>白</kanji>
+		<kana>はく/しろ</kana>
+		<english>white (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>雨</kanji>
+		<kana>う/あめ</kana>
+		<english>rain (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>書</kanji>
+		<kana>しょ/か</kana>
+		<english>write (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>友</kanji>
+		<kana>ゆう/とも</kana>
+		<english>friend (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>間</kanji>
+		<kana>かん/あいだ</kana>
+		<english>between (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>家</kanji>
+		<kana>か/いえ</kana>
+		<english>house (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>話</kanji>
+		<kana>わ/はな</kana>
+		<english>speak (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>少</kanji>
+		<kana>しょう/すこ/すく</kana>
+		<english>little (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>古</kanji>
+		<kana>こ/ふる</kana>
+		<english>old (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>知</kanji>
+		<kana>ち/し</kana>
+		<english>know (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>来</kanji>
+		<kana>らい/く/き/こ</kana>
+		<english>come (kanji)</english>
+	</listItem>
+</kanjiList>

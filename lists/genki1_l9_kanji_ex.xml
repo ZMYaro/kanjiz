@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Genki 1, Lesson 9 Kanji Examples</name>
+	<listItem>
+		<kanji>午前</kanji>
+		<kana>ごぜん</kana>
+		<english>A.M.</english>
+	</listItem>
+	<listItem>
+		<kanji>午後</kanji>
+		<kana>ごご</kana>
+		<english>P.M.</english>
+	</listItem>
+	<listItem>
+		<kanji>午前中</kanji>
+		<kana>ごぜんちゅう</kana>
+		<english>in the morning</english>
+	</listItem>
+	<listItem>
+		<kanji>正午</kanji>
+		<kana>しょうご</kana>
+		<english>noon</english>
+	</listItem>
+	<listItem>
+		<kanji>～の後</kanji>
+		<kana>～のあと</kana>
+		<english>after ~</english>
+	</listItem>
+	<listItem>
+		<kanji>後で</kanji>
+		<kana>あとで</kana>
+		<english>later</english>
+	</listItem>
+	<listItem>
+		<kanji>後ろ</kanji>
+		<kana>うしろ</kana>
+		<english>back; behind</english>
+	</listItem>
+	<listItem>
+		<kanji>最後に</kanji>
+		<kana>さいごに</kana>
+		<english>lastly</english>
+	</listItem>
+	<listItem>
+		<kanji>前</kanji>
+		<kana>まえ</kana>
+		<english>before; front</english>
+	</listItem>
+	<listItem>
+		<kanji>名前</kanji>
+		<kana>なまえ</kana>
+		<english>name</english>
+	</listItem>
+	<listItem>
+		<kanji>前売り</kanji>
+		<kana>まえうり</kana>
+		<english>advance scale</english>
+	</listItem>
+	<listItem>
+		<kanji>有名（な）</kanji>
+		<kana>ゆうめい（な）</kana>
+		<english>famous</english>
+	</listItem>
+	<listItem>
+		<kanji>名刺</kanji>
+		<kana>めいし</kana>
+		<english>name card</english>
+	</listItem>
+	<listItem>
+		<kanji>氏名</kanji>
+		<kana>しめい</kana>
+		<english>full name</english>
+	</listItem>
+	<listItem>
+		<kanji>地名</kanji>
+		<kana>ちめい</kana>
+		<english>place name</english>
+	</listItem>
+	<listItem>
+		<kanji>白い</kanji>
+		<kana>白い</kana>
+		<english>white</english>
+	</listItem>
+	<listItem>
+		<kanji>白紙</kanji>
+		<kana>はくし</kana>
+		<english>blank sheet</english>
+	</listItem>
+	<listItem>
+		<kanji>白鳥</kanji>
+		<kana>はくちょう</kana>
+		<english>swan</english>
+	</listItem>
+	<listItem>
+		<kanji>雨</kanji>
+		<kana>あめ</kana>
+		<english>rain</english>
+	</listItem>
+	<listItem>
+		<kanji>雨期/梅雨</kanji>
+		<kana>うき/つゆ</kana>
+		<english>rainy season</english>
+	</listItem>
+	<listItem>
+		<kanji>書く</kanji>
+		<kana>かく</kana>
+		<english>to write</english>
+	</listItem>
+	<listItem>
+		<kanji>辞書</kanji>
+		<kana>じしょ</kana>
+		<english>dictionary</english>
+	</listItem>
+	<listItem>
+		<kanji>教科書</kanji>
+		<kana>きょうかしょ</kana>
+		<english>textbook</english>
+	</listItem>
+	<listItem>
+		<kanji>図書館</kanji>
+		<kana>としょかん</kana>
+		<english>library</english>
+	</listItem>
+	<listItem>
+		<kanji>友達</kanji>
+		<kana>ともだち</kana>
+		<english>friend</english>
+	</listItem>
+	<listItem>
+		<kanji>親友</kanji>
+		<kana>しんゆう</kana>
+		<english>best friend</english>
+	</listItem>
+	<listItem>
+		<kanji>友人</kanji>
+		<kana>ゆうじん</kana>
+		<english>friend (more formal(?)))</english>
+	</listItem>
+	<listItem>
+		<kanji>友情</kanji>
+		<kana>ゆうじょう</kana>
+		<english>friendship</english>
+	</listItem>
+	<listItem>
+		<kanji>時間</kanji>
+		<kana>じかん</kana>
+		<english>time</english>
+	</listItem>
+	<listItem>
+		<kanji>間</kanji>
+		<kana>あいだ</kana>
+		<english>between</english>
+	</listItem>
+	<listItem>
+		<kanji>人間</kanji>
+		<kana>にんげん</kana>
+		<english>human being</english>
+	</listItem>
+	<listItem>
+		<kanji>一週間</kanji>
+		<kana>いっしゅうかん</kana>
+		<english>one week</english>
+	</listItem>
+	<listItem>
+		<kanji>家</kanji>
+		<kana>いえ</kana>
+		<english>house</english>
+	</listItem>
+	<listItem>
+		<kanji>家族</kanji>
+		<kana>かぞく</kana>
+		<english>family</english>
+	</listItem>
+	<listItem>
+		<kanji>家</kanji>
+		<kana>うち</kana>
+		<english>house; home</english>
+	</listItem>
+	<listItem>
+		<kanji>家内</kanji>
+		<kana>かない</kana>
+		<english>(one's own) wife</english>
+	</listItem>
+	<listItem>
+		<kanji>作家</kanji>
+		<kana>さっか</kana>
+		<english>author</english>
+	</listItem>
+	<listItem>
+		<kanji>話す</kanji>
+		<kana>はなす</kana>
+		<english>to speak</english>
+	</listItem>
+	<listItem>
+		<kanji>話</kanji>
+		<kana>はなし</kana>
+		<english>talk; story</english>
+	</listItem>
+	<listItem>
+		<kanji>電話</kanji>
+		<kana>でんわ</kana>
+		<english>telephone</english>
+	</listItem>
+	<listItem>
+		<kanji>会話</kanji>
+		<kana>かいわ</kana>
+		<english>conversation</english>
+	</listItem>
+	<listItem>
+		<kanji>少し</kanji>
+		<kana>すこし</kana>
+		<english>little</english>
+	</listItem>
+	<listItem>
+		<kanji>少ない</kanji>
+		<kana>すくない</kana>
+		<english>few</english>
+	</listItem>
+	<listItem>
+		<kanji>少々</kanji>
+		<kana>しょうしょう</kana>
+		<english>a little</english>
+	</listItem>
+	<listItem>
+		<kanji>少女</kanji>
+		<kana>しょうじょ</kana>
+		<english>girl</english>
+	</listItem>
+	<listItem>
+		<kanji>少年</kanji>
+		<kana>しょうねん</kana>
+		<english>boy</english>
+	</listItem>
+	<listItem>
+		<kanji>古い</kanji>
+		<kana>ふるい</kana>
+		<english>old (thing)</english>
+	</listItem>
+	<listItem>
+		<kanji>中古</kanji>
+		<kana>ちゅうこ</kana>
+		<english>secondhand</english>
+	</listItem>
+	<listItem>
+		<kanji>古代</kanji>
+		<kana>こだい</kana>
+		<english>ancient times</english>
+	</listItem>
+	<listItem>
+		<kanji>知る</kanji>
+		<kana>しる</kana>
+		<english>to know</english>
+	</listItem>
+	<listItem>
+		<kanji>知人/知り合い</kanji>
+		<kana>ちじん/しりあい</kana>
+		<english>acquaintance</english>
+	</listItem>
+	<listItem>
+		<kanji>来る</kanji>
+		<kana>くる</kana>
+		<english>to come</english>
+	</listItem>
+	<listItem>
+		<kanji>来週</kanji>
+		<kana>らいしゅう</kana>
+		<english>next week</english>
+	</listItem>
+	<listItem>
+		<kanji>来日</kanji>
+		<kana>らいにち</kana>
+		<english>visit to Japan</english>
+	</listItem>
+</kanjiList>
