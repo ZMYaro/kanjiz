@@ -1,4 +1,4 @@
-application: kanji-z
+application: kanji-z-hrd
 version: 3
 runtime: python27
 api_version: 1
@@ -13,35 +13,14 @@ handlers:
   static_dir: lists
 
 
-- url: /kanjitest
-  script: test.py
-
-- url: /kanjitest/
-  script: test.py
-
-- url: /kanjitest/index\.html
+- url: /kanjitest(/.*)?
   script: test.py
 
 - url: /test/
   static_dir: test
 
 
-- url: /uberlist
-  script: uberlist.py
-
-- url: /uberlist/
-  script: uberlist.py
-
-- url: /uberlist/index\.html
-  script: uberlist.py
-
-- url: /kanjilist
-  script: uberlist.py
-
-- url: /kanjilist/
-  script: uberlist.py
-
-- url: /kanjilist/index\.html
+- url: /kanjilist(/.*)?
   script: uberlist.py
 
 - url: /uberlist/
@@ -76,7 +55,7 @@ handlers:
 - url: /quiz/
   static_dir: quiz
 
-- url: /kanjiflip/?.*
+- url: /kanjiflip(/.*)?
   script: flip.py
 
 - url: /flip/
