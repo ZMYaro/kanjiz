@@ -1,7 +1,5 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+# coding=utf-8
 
-import cgi
 import os
 import urllib
 
@@ -12,14 +10,13 @@ from google.appengine.api import users
 from google.appengine.ext import db
 
 JINJA_ENVIRONMENT = jinja2.Environment(
-	loader=jinja2.FileSystemLoader(os.path.dirname(__file__)),
+	loader=jinja2.FileSystemLoader(os.path.join(os.path.dirname(__file__), 'templates/')),
 	extensions=['jinja2.ext.autoescape'],
 	autoescape=True)
 
 defaults = {
 	'data':'{\"front\":\"english\", \"back\":\"kana\"}',
 	#'backData':'kana',
-	#'list':'[{\"english\":\"Welcome\", \"kana\":\"' + unicode('よこそう', 'utf-8') + '\", \"kanji\":\"' + unicode('よこそう', 'utf-8') + '\"}, {\"english\":\"To KanjiFlip_Z.\", \"kana\":\"KanjiFlip_Z.' + unicode('へ', 'utf-8') + '\", \"kanji\":\"KanjiFlip_Z.' + unicode('へ', 'utf-8') + '\"}]',
 	'list':u'[{\"english\":\"Welcome\", \"kana\":\"よこそう\", \"kanji\":\"よこそう\"}, {\"english\":\"To KanjiFlip_Z.\", \"kana\":\"KanjiFlip_Z.へ\", \"kanji\":\"KanjiFlip_Z.へ\"}]',
 	'cloudSave':'true'
 }

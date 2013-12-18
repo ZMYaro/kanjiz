@@ -1,13 +1,13 @@
-import cgi
 import os
 
 from google.appengine.api import users
 
-import webapp2
 import jinja2
+import webapp2
+
 
 JINJA_ENVIRONMENT = jinja2.Environment(
-	loader=jinja2.FileSystemLoader(os.path.dirname(__file__)),
+	loader=jinja2.FileSystemLoader(os.path.join(os.path.dirname(__file__), 'templates/')),
 	extensions=['jinja2.ext.autoescape'],
 	autoescape=True)
 
@@ -24,11 +24,6 @@ class MainPage(webapp2.RequestHandler):
 		
 		template = JINJA_ENVIRONMENT.get_template('index.html')
 		self.response.write(template.render(templateVars))
-
-#class KanjiTestPage(webapp2.RequestHandler):
-#	def get(self, stuff): # Ignore any stuff after the base URL
-#		path = os.path.join(os.path.dirname(__file__), 'test.html')
-#		self.response.write(template.render(path, {}))
 
 class LoginPage(webapp2.RequestHandler):
 	def get(self):
@@ -60,7 +55,6 @@ class NotFoundPage(webapp2.RequestHandler):
 app = webapp2.WSGIApplication([
 	('/', MainPage),
 	('/index\.html', MainPage),
-	#('/kanjitest(/.*)?', KanjiTestPage),
 	('/login', LoginPage),
 	('/forbidden', ForbiddenPage),
 	('/(.*)', NotFoundPage)

@@ -13,7 +13,7 @@ handlers:
 
 
 - url: /kanjitest(/.*)?
-  script: test.app
+  script: kanjitest.app
 
 - url: /test/
   static_dir: test
@@ -55,7 +55,7 @@ handlers:
   static_dir: quiz
 
 - url: /kanjiflip(/.*)?
-  script: flip.app
+  script: kanjiflip.app
 
 - url: /flip/
   static_dir: flip

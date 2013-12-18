@@ -1,11 +1,10 @@
-
 import os
 
 import jinja2
 import webapp2
 
 JINJA_ENVIRONMENT = jinja2.Environment(
-	loader=jinja2.FileSystemLoader(os.path.dirname(__file__)),
+	loader=jinja2.FileSystemLoader(os.path.join(os.path.dirname(__file__), 'templates/')),
 	extensions=['jinja2.ext.autoescape'],
 	autoescape=True)
 
@@ -16,4 +15,3 @@ class KanjiTestPage(webapp2.RequestHandler):
 
 
 app = webapp2.WSGIApplication([('/kanjitest(/.*)?', KanjiTestPage)], debug=True)
-
