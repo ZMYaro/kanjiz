@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Genki 1, Lesson 7</name>
+	<listItem>
+		<kanji>姉</kanji>
+		<kana>あね</kana>
+		<english>(one's own) older sister</english>
+	</listItem>
+	<listItem>
+		<kanji>アパート</kanji>
+		<kana>アパート</kana>
+		<english>apartment</english>
+	</listItem>
+	<listItem>
+		<kanji>妹</kanji>
+		<kana>いもうと</kana>
+		<english>younger sister</english>
+	</listItem>
+	<listItem>
+		<kanji>歌</kanji>
+		<kana>うた</kana>
+		<english>song</english>
+	</listItem>
+	<listItem>
+		<kanji>おじいさん</kanji>
+		<kana>おじいさん</kana>
+		<english>grandfather; old man</english>
+	</listItem>
+	<listItem>
+		<kanji>弟</kanji>
+		<kana>おとうと</kana>
+		<english>younger brother</english>
+	</listItem>
+	<listItem>
+		<kanji>男の人</kanji>
+		<kana>おとこのひと</kana>
+		<english>man</english>
+	</listItem>
+	<listItem>
+		<kanji>お兄さん</kanji>
+		<kana>おにいさん</kana>
+		<english>(someone else's) older brother</english>
+	</listItem>
+	<listItem>
+		<kanji>お姉さん</kanji>
+		<kana>おねえさん</kana>
+		<english>(someone else's) older sister</english>
+	</listItem>
+	<listItem>
+		<kanji>おばあさん</kanji>
+		<kana>おばあさん</kana>
+		<english>grandmother; old woman</english>
+	</listItem>
+	<listItem>
+		<kanji>女の人</kanji>
+		<kana>おんなのひと</kana>
+		<english>woman</english>
+	</listItem>
+	<listItem>
+		<kanji>会社</kanji>
+		<kana>かいしゃ</kana>
+		<english>company</english>
+	</listItem>
+	<listItem>
+		<kanji>家族</kanji>
+		<kana>かぞく</kana>
+		<english>family</english>
+	</listItem>
+	<listItem>
+		<kanji>髪</kanji>
+		<kana>かみ</kana>
+		<english>hair</english>
+	</listItem>
+	<listItem>
+		<kanji>兄弟</kanji>
+		<kana>きょうだい</kana>
+		<english>siblings</english>
+	</listItem>
+	<listItem>
+		<kanji>口</kanji>
+		<kana>くち</kana>
+		<english>mouth</english>
+	</listItem>
+	<listItem>
+		<kanji>国</kanji>
+		<kana>くに</kana>
+		<english>country; place of origin</english>
+	</listItem>
+	<listItem>
+		<kanji>車</kanji>
+		<kana>くるま</kana>
+		<english>car</english>
+	</listItem>
+	<listItem>
+		<kanji>ゲーム</kanji>
+		<kana>ゲーム</kana>
+		<english>game</english>
+	</listItem>
+	<listItem>
+		<kanji>コンビニ</kanji>
+		<kana>コンビニ</kana>
+		<english>convenince store</english>
+	</listItem>
+	<listItem>
+		<kanji>サークル</kanji>
+		<kana>サークル</kana>
+		<english>club activity</english>
+	</listItem>
+	<listItem>
+		<kanji>食堂</kanji>
+		<kana>しょくどう</kana>
+		<english>cafeteria; dining commons</english>
+	</listItem>
+	<listItem>
+		<kanji>父</kanji>
+		<kana>ちち</kana>
+		<english>(one's own) father</english>
+	</listItem>
+	<listItem>
+		<kanji>ディーブイディー</kanji>
+		<kana>ディーブイディー</kana>
+		<english>DVD</english>
+	</listItem>
+	<listItem>
+		<kanji>母</kanji>
+		<kana>はは</kana>
+		<english>(one's own) mother</english>
+	</listItem>
+	<listItem>
+		<kanji>目</kanji>
+		<kana>め</kana>
+		<english>eye</english>
+	</listItem>
+	<listItem>
+		<kanji>眼鏡</kanji>
+		<kana>めがね</kana>
+		<english>glasses</english>
+	</listItem>
+	<listItem>
+		<kanji>頭がいい</kanji>
+		<kana>あたまがいい</kana>
+		<english>bright; smart; clever</english>
+	</listItem>
+	<listItem>
+		<kanji>かわいい</kanji>
+		<kana>かわいい</kana>
+		<english>cute</english>
+	</listItem>
+	<listItem>
+		<kanji>背が高い</kanji>
+		<kana>せがたかい</kana>
+		<english>tall (in stature)</english>
+	</listItem>
+	<listItem>
+		<kanji>背が低い</kanji>
+		<kana>せがひくい</kana>
+		<english>short (in stature)</english>
+	</listItem>
+	<listItem>
+		<kanji>長い</kanji>
+		<kana>ながい</kana>
+		<english>long</english>
+	</listItem>
+	<listItem>
+		<kanji>速い</kanji>
+		<kana>はやい</kana>
+		<english>fast</english>
+	</listItem>
+	<listItem>
+		<kanji>短い</kanji>
+		<kana>みじかい</kana>
+		<english>short (in length)</english>
+	</listItem>
+	<listItem>
+		<kanji>親切（な）</kanji>
+		<kana>しんせつ（な）</kana>
+		<english>kind</english>
+	</listItem>
+	<listItem>
+		<kanji>便利（な）</kanji>
+		<kana>べんり（な）</kana>
+		<english>convenient</english>
+	</listItem>
+	<listItem>
+		<kanji>（～を）歌う</kanji>
+		<kana>（～を）うたう</kana>
+		<english>to sing (~)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～を）かぶる</kanji>
+		<kana>（～を）かぶる</kana>
+		<english>to put on (~) (a hat)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～を）知る</kanji>
+		<kana>（～を）しる</kana>
+		<english>to get to know (~)</english>
+	</listItem>
+	<listItem>
+		<kanji>知っている</kanji>
+		<kana>しっている</kana>
+		<english>to know</english>
+	</listItem>
+	<listItem>
+		<kanji>知っています</kanji>
+		<kana>しっています</kana>
+		<english>to know (ます form)</english>
+	</listItem>
+	<listItem>
+		<kanji>知らない</kanji>
+		<kana>しらない</kana>
+		<english>to not know</english>
+	</listItem>
+	<listItem>
+		<kanji>知りません</kanji>
+		<kana>しりません</kana>
+		<english>to not know (ます form)</english>
+	</listItem>
+	<listItem>
+		<kanji>住む</kanji>
+		<kana>すむ</kana>
+		<english>to live</english>
+	</listItem>
+	<listItem>
+		<kanji>（～に）住んでいる</kanji>
+		<kana>（～に）すんでいる</kana>
+		<english>live (in ~)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～に）住んでいます</kanji>
+		<kana>（～に）すんでいます</kana>
+		<english>live (in ~) (ます form)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～を）はく</kanji>
+		<kana>（～を）はく</kana>
+		<english>to put on (~) (clothes below one's waist)</english>
+	</listItem>
+	<listItem>
+		<kanji>太る</kanji>
+		<kana>ふとる</kana>
+		<english>to gain weight</english>
+	</listItem>
+	<listItem>
+		<kanji>太っている</kanji>
+		<kana>ふとっている</kana>
+		<english>to be fat</english>
+	</listItem>
+	<listItem>
+		<kanji>太っています</kanji>
+		<kana>ふとっています</kana>
+		<english>to be fat (ます form)</english>
+	</listItem>
+	<listItem>
+		<kanji>（眼鏡を）かける</kanji>
+		<kana>（めがねを）かける</kana>
+		<english>to put on (glasses)</english>
+	</listItem>
+	<listItem>
+		<kanji>着る</kanji>
+		<kana>きる</kana>
+		<english>to put on (clothes above one's waist)</english>
+	</listItem>
+	<listItem>
+		<kanji>勤める</kanji>
+		<kana>つとめる</kana>
+		<english>to work [for]</english>
+	</listItem>
+	<listItem>
+		<kanji>（～に）勤めている</kanji>
+		<kana>（～に）つとめている</kana>
+		<english>to work (for/at ~)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～に）勤めています</kanji>
+		<kana>（～に）つとめています</kana>
+		<english>to work (for/at ~) (ます form)</english>
+	</listItem>
+	<listItem>
+		<kanji>やせる</kanji>
+		<kana>やせる</kana>
+		<english>to lose weight</english>
+	</listItem>
+	<listItem>
+		<kanji>やせている</kanji>
+		<kana>やせている</kana>
+		<english>to be thin</english>
+	</listItem>
+	<listItem>
+		<kanji>やせています</kanji>
+		<kana>やせています</kana>
+		<english>to be thin (ます form)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～と）結婚する</kanji>
+		<kana>（～と）けっこんする</kana>
+		<english>to get married (to ~)</english>
+	</listItem>
+	<listItem>
+		<kanji>～が</kanji>
+		<kana>～が</kana>
+		<english>~, but</english>
+	</listItem>
+	<listItem>
+		<kanji>＃人</kanji>
+		<kana>＃にん</kana>
+		<english># people</english>
+	</listItem>
+	<listItem>
+		<kanji>一人</kanji>
+		<kana>ひとり</kana>
+		<english>one person</english>
+	</listItem>
+	<listItem>
+		<kanji>二人</kanji>
+		<kana>ふたり</kana>
+		<english>two people</english>
+	</listItem>
+	<listItem>
+		<kanji>別に + negative</kanji>
+		<kana>べつに + negative</kana>
+		<english>nothing in particular</english>
+	</listItem>
+	<listItem>
+		<kanji>もしもし</kanji>
+		<kana>もしもし</kana>
+		<english>Hello? (when answering the phone)</english>
+	</listItem>
+	<listItem>
+		<kanji>もちろん</kanji>
+		<kana>もちろん</kana>
+		<english>of course</english>
+	</listItem>
+	<listItem>
+		<kanji>よかったら</kanji>
+		<kana>よかったら</kana>
+		<english>if you like</english>
+	</listItem>
+</kanjiList>
