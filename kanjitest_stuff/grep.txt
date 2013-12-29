@@ -1,4 +1,4 @@
-In KanjiTest_Z.
+In KanjiTestZ
 - grep [str] [file]      (search for [str] within a specific list)
 - grep [str] *           (search for [str] in all lists)
 - grep -r [str] *        (search for [str] in all lists in all subfolders)

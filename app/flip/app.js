@@ -13,7 +13,7 @@ var data = {"front":"english", "back":"kana"};
 var side = "front";
 
 /** The current list of cards */
-var list = [{"english":"Welcome", "kana":"よこそう", "kanji":"よこそう"}, {"english":"To KanjiFlip_Z.", "kana":"KanjiFlip_Z.へ", "kanji":"KanjiFlip_Z.へ"}];
+var list = [{"english":"Welcome", "kana":"よこそう", "kanji":"よこそう"}, {"english":"To KanjiFlipZ", "kana":"KanjiFlipZへ", "kanji":"KanjiFlipZへ"}];
 
 /** The currently visible card */
 var current = 0;

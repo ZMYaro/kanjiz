@@ -4,8 +4,8 @@
 	<name>Welcome Message</name>
 	
 	<listItem>
-		<kanji>KanjiTest_Z.へ ようこそ。</kanji>
-		<kana>KanjiTest_Z.へ ようこそ。</kana>
-		<english>Welcome to KanjiTest_Z.</english>
+		<kanji>KanjiTestZへ ようこそ。</kanji>
+		<kana>KanjiTestZへ ようこそ。</kana>
+		<english>Welcome to KanjiTestZ</english>
 	</listItem>
 </kanjiList>

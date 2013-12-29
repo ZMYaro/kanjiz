@@ -1,7 +1,7 @@
 var defaults = {
 	"data":"{\"front\":\"english\", \"back\":\"kana\"}",
 	//"backData":"kana",
-	"list":"[{\"english\":\"Welcome\", \"kana\":\"よこそう\", \"kanji\":\"よこそう\"}, {\"english\":\"To KanjiFlip_Z.\", \"kana\":\"KanjiFlip_Z.へ\", \"kanji\":\"KanjiFlip_Z.へ\"}]",
+	"list":"[{\"english\":\"Welcome\", \"kana\":\"よこそう\", \"kanji\":\"よこそう\"}, {\"english\":\"To KanjiFlipZ\", \"kana\":\"KanjiFlipZへ\", \"kanji\":\"KanjiFlipZへ\"}]",
 	"cloudSave":"true"
 };
 /*var validators = {

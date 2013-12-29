@@ -17,7 +17,7 @@ JINJA_ENVIRONMENT = jinja2.Environment(
 defaults = {
 	'data':'{\"front\":\"english\", \"back\":\"kana\"}',
 	#'backData':'kana',
-	'list':u'[{\"english\":\"Welcome\", \"kana\":\"よこそう\", \"kanji\":\"よこそう\"}, {\"english\":\"To KanjiFlip_Z.\", \"kana\":\"KanjiFlip_Z.へ\", \"kanji\":\"KanjiFlip_Z.へ\"}]',
+	'list':u'[{\"english\":\"Welcome\", \"kana\":\"よこそう\", \"kanji\":\"よこそう\"}, {\"english\":\"To KanjiFlipZ\", \"kana\":\"KanjiFlipZへ\", \"kanji\":\"KanjiFlipZへ\"}]',
 	'cloudSave':'true'
 }
 
