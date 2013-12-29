@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Genki 1, Lesson 11 Vocabulary</name>
+	<listItem>
+		<kanji>オーストラリア</kanji>
+		<kana>オーストラリア</kana>
+		<english>Australia</english>
+	</listItem>
+	<listItem>
+		<kanji>お菓子</kanji>
+		<kana>おかし</kana>
+		<english>snack; sweets</english>
+	</listItem>
+	<listItem>
+		<kanji>お正月</kanji>
+		<kana>おしょうがつ</kana>
+		<english>New Year's</english>
+	</listItem>
+	<listItem>
+		<kanji>男の子</kanji>
+		<kana>おとこのこ</kana>
+		<english>boy</english>
+	</listItem>
+	<listItem>
+		<kanji>お祭り</kanji>
+		<kana>おまつり</kana>
+		<english>festival</english>
+	</listItem>
+	<listItem>
+		<kanji>おもちゃ</kanji>
+		<kana>おもちゃ</kana>
+		<english>toy</english>
+	</listItem>
+	<listItem>
+		<kanji>温泉</kanji>
+		<kana>おんせん</kana>
+		<english>spa; hot spring</english>
+	</listItem>
+	<listItem>
+		<kanji>女の子</kanji>
+		<kana>おんなのこ</kana>
+		<english>girl</english>
+	</listItem>
+	<listItem>
+		<kanji>外国</kanji>
+		<kana>がいこく</kana>
+		<english>foreign country</english>
+	</listItem>
+	<listItem>
+		<kanji>歌手</kanji>
+		<kana>かしゅ</kana>
+		<english>singer</english>
+	</listItem>
+	<listItem>
+		<kanji>川</kanji>
+		<kana>かわ</kana>
+		<english>river</english>
+	</listItem>
+	<listItem>
+		<kanji>キャンプ</kanji>
+		<kana>キャンプ</kana>
+		<english>camp</english>
+	</listItem>
+	<listItem>
+		<kanji>こちら</kanji>
+		<kana>こちら</kana>
+		<english>this person (polite)</english>
+	</listItem>
+	<listItem>
+		<kanji>今学期</kanji>
+		<kana>こんがっき</kana>
+		<english>this semester</english>
+	</listItem>
+	<listItem>
+		<kanji>社長</kanji>
+		<kana>しゃちょう</kana>
+		<english>president (of a company)</english>
+	</listItem>
+	<listItem>
+		<kanji>授業</kanji>
+		<kana>じゅぎょう</kana>
+		<english>class</english>
+	</listItem>
+	<listItem>
+		<kanji>将来</kanji>
+		<kana>しょうらい</kana>
+		<english>future</english>
+	</listItem>
+	<listItem>
+		<kanji>神社</kanji>
+		<kana>じんじゃ</kana>
+		<english>shrine</english>
+	</listItem>
+	<listItem>
+		<kanji>つり</kanji>
+		<kana>つり</kana>
+		<english>fishing</english>
+	</listItem>
+	<listItem>
+		<kanji>ドライブ</kanji>
+		<kana>ドライブ</kana>
+		<english>drive</english>
+	</listItem>
+	<listItem>
+		<kanji>ビール</kanji>
+		<kana>ビール</kana>
+		<english>beer</english>
+	</listItem>
+	<listItem>
+		<kanji>美術館</kanji>
+		<kana>びじゅつかん</kana>
+		<english>art museum</english>
+	</listItem>
+	<listItem>
+		<kanji>ホストファミリー</kanji>
+		<kana>ホストファミリー</kana>
+		<english>host family</english>
+	</listItem>
+	<listItem>
+		<kanji>湖</kanji>
+		<kana>みずうみ</kana>
+		<english>lake</english>
+	</listItem>
+	<listItem>
+		<kanji>山</kanji>
+		<kana>やま</kana>
+		<english>mountain</english>
+	</listItem>
+	<listItem>
+		<kanji>夢</kanji>
+		<kana>ゆめ</kana>
+		<english>dream</english>
+	</listItem>
+	<listItem>
+		<kanji>ルームメート</kanji>
+		<kana>ルームメート</kana>
+		<english>roommate</english>
+	</listItem>
+	<listItem>
+		<kanji>うそをつく</kanji>
+		<kana>うそをつく</kana>
+		<english>to tell a lie</english>
+	</listItem>
+	<listItem>
+		<kanji>おなかがすく</kanji>
+		<kana>おなかがすく</kana>
+		<english>to become hungry</english>
+	</listItem>
+	<listItem>
+		<kanji>（～を）飼う</kanji>
+		<kana>（～を）かう</kana>
+		<english>to own (a pet)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～を）サボる</kanji>
+		<kana>（～を）サボる</kana>
+		<english>to cut (class)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～を）取る</kanji>
+		<kana>（～を）とる</kana>
+		<english>to take (a class): to get (a grade)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～を）取ります</kanji>
+		<kana>（～を）とります</kana>
+		<english>to take (a class); to get (a grade) (ます form)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～を）習う</kanji>
+		<kana>（～を）ならう</kana>
+		<english>to learn (~)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～に）登る</kanji>
+		<kana>（～に）のぼる</kana>
+		<english>to climb (~)</english>
+	</listItem>
+	<listItem>
+		<kanji>働く</kanji>
+		<kana>はたらく</kana>
+		<english>to work</english>
+	</listItem>
+	<listItem>
+		<kanji>疲れる</kanji>
+		<kana>つかれる</kana>
+		<english>to get tired</english>
+	</listItem>
+	<listItem>
+		<kanji>（～を）やめる</kanji>
+		<kana>（～を）やめる</kana>
+		<english>to quit (~)</english>
+	</listItem>
+	<listItem>
+		<kanji>けんかする</kanji>
+		<kana>けんかする</kana>
+		<english>to have a fight; to quarrel</english>
+	</listItem>
+	<listItem>
+		<kanji>（AにBを）紹介する</kanji>
+		<kana>（AにBを）しょうかいする</kana>
+		<english>to introduce (person B to person A)</english>
+	</listItem>
+	<listItem>
+		<kanji>ダイエットする</kanji>
+		<kana>ダイエットする</kana>
+		<english>to go on a diet</english>
+	</listItem>
+	<listItem>
+		<kanji>ダイエットします</kanji>
+		<kana>ダイエットします</kana>
+		<english>to go on a diet (ます form)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～に）遅刻する</kanji>
+		<kana>（～に）ちこくする</kana>
+		<english>to be late (for ~)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～に）留学する</kanji>
+		<kana>（～に）りゅうがくする</kana>
+		<english>to study abroad (in ~)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～の）後</kanji>
+		<kana>（～の）あと</kana>
+		<english>after (an event)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～の） 出身</kanji>
+		<kana>（～の）しゅっしん</kana>
+		<english>coming from (a place)</english>
+	</listItem>
+	<listItem>
+		<kanji>そして</kanji>
+		<kana>そして</kana>
+		<english>and then</english>
+	</listItem>
+	<listItem>
+		<kanji>（～）だけ</kanji>
+		<kana>（～）だけ</kana>
+		<english>just (~); only (~)</english>
+	</listItem>
+	<listItem>
+		<kanji>～点</kanji>
+		<kana>～てん</kana>
+		<english>~ points</english>
+	</listItem>
+	<listItem>
+		<kanji>久しぶり</kanji>
+		<kana>ひさしぶり</kana>
+		<english>it has been a long time</english>
+	</listItem>
+	<listItem>
+		<kanji>まあまあ</kanji>
+		<kana>まあまあ</kana>
+		<english>okay; so-so</english>
+	</listItem>
+	<listItem>
+		<kanji>もっと</kanji>
+		<kana>もっと</kana>
+		<english>more</english>
+	</listItem>
+	<listItem>
+		<kanji>作家</kanji>
+		<kana>さっか</kana>
+		<english>writer</english>
+	</listItem>
+	<listItem>
+		<kanji>ジャーナリスト</kanji>
+		<kana>ジャーナリスト</kana>
+		<english>journalist</english>
+	</listItem>
+	<listItem>
+		<kanji>警察官</kanji>
+		<kana>けいさつかん</kana>
+		<english>police officer</english>
+	</listItem>
+	<listItem>
+		<kanji>俳優</kanji>
+		<kana>はいゆう</kana>
+		<english>actor; actress</english>
+	</listItem>
+	<listItem>
+		<kanji>女優</kanji>
+		<kana>じょゆう</kana>
+		<english>actress</english>
+	</listItem>
+	<listItem>
+		<kanji>看護師</kanji>
+		<kana>かんごし</kana>
+		<english>nurse</english>
+	</listItem>
+	<listItem>
+		<kanji>消防士</kanji>
+		<kana>しょうぼし</kana>
+		<english>firefighter</english>
+	</listItem>
+	<listItem>
+		<kanji>漫画家</kanji>
+		<kana>まんがか</kana>
+		<english>cartoonist</english>
+	</listItem>
+	<listItem>
+		<kanji>宇宙飛行士</kanji>
+		<kana>うちゅうひこうし</kana>
+		<english>astronaut</english>
+	</listItem>
+	<listItem>
+		<kanji>野球選手</kanji>
+		<kana>やきゅうせんしゅ</kana>
+		<english>baseball player</english>
+	</listItem>
+	<listItem>
+		<kanji>大統領</kanji>
+		<kana>だいとうりょう</kana>
+		<english>president (of a country)</english>
+	</listItem>
+</kanjiList>

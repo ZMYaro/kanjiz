@@ -76,6 +76,8 @@ genki1_l7
 genki1_l9
 genki1_l9_kanji
 genki1_l9_kanji_ex
+genki1_l10_vocab
+genki1_l11_vocab
 grade1_kanjis
 eco_kanjis
 eco_words

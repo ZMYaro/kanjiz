@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Genki 1, Lesson 10 Vocabulary</name>
+	<listItem>
+		<kanji>秋</kanji>
+		<kana>あき</kana>
+		<english>autumn</english>
+	</listItem>
+	<listItem>
+		<kanji>医者</kanji>
+		<kana>いしゃ</kana>
+		<english>doctor</english>
+	</listItem>
+	<listItem>
+		<kanji>駅</kanji>
+		<kana>えき</kana>
+		<english>station</english>
+	</listItem>
+	<listItem>
+		<kanji>お金持ち</kanji>
+		<kana>おかねもち</kana>
+		<english>rich person</english>
+	</listItem>
+	<listItem>
+		<kanji>顔</kanji>
+		<kana>かお</kana>
+		<english>face</english>
+	</listItem>
+	<listItem>
+		<kanji>季節</kanji>
+		<kana>きせつ</kana>
+		<english>season</english>
+	</listItem>
+	<listItem>
+		<kanji>牛乳</kanji>
+		<kana>ぎゅうにゅう</kana>
+		<english>milk</english>
+	</listItem>
+	<listItem>
+		<kanji>クレジットカード</kanji>
+		<kana>クレジットカード</kana>
+		<english>credit card</english>
+	</listItem>
+	<listItem>
+		<kanji>ケーキ</kanji>
+		<kana>ケーキ</kana>
+		<english>cake</english>
+	</listItem>
+	<listItem>
+		<kanji>今年</kanji>
+		<kana>ことし</kana>
+		<english>this year</english>
+	</listItem>
+	<listItem>
+		<kanji>サッカー</kanji>
+		<kana>サッカー</kana>
+		<english>soccer</english>
+	</listItem>
+	<listItem>
+		<kanji>シャツ</kanji>
+		<kana>シャツ</kana>
+		<english>shirt</english>
+	</listItem>
+	<listItem>
+		<kanji>新幹線</kanji>
+		<kana>しんかんせん</kana>
+		<english>bullet train</english>
+	</listItem>
+	<listItem>
+		<kanji>すし</kanji>
+		<kana>すし</kana>
+		<english>sushi</english>
+	</listItem>
+	<listItem>
+		<kanji>生活</kanji>
+		<kana>せいかつ</kana>
+		<english>life; living</english>
+	</listItem>
+	<listItem>
+		<kanji>世界</kanji>
+		<kana>せかい</kana>
+		<english>world</english>
+	</listItem>
+	<listItem>
+		<kanji>地下鉄</kanji>
+		<kana>ちかてつ</kana>
+		<english>subway</english>
+	</listItem>
+	<listItem>
+		<kanji>手袋</kanji>
+		<kana>てぶくろ</kana>
+		<english>gloves</english>
+	</listItem>
+	<listItem>
+		<kanji>天ぷら</kanji>
+		<kana>てんぷら</kana>
+		<english>tempura</english>
+	</listItem>
+	<listItem>
+		<kanji>床屋</kanji>
+		<kana>とこや</kana>
+		<english>barber's</english>
+	</listItem>
+	<listItem>
+		<kanji>春</kanji>
+		<kana>はる</kana>
+		<english>spring (season)</english>
+	</listItem>
+	<listItem>
+		<kanji>パンツ</kanji>
+		<kana>パンツ</kana>
+		<english>pants</english>
+	</listItem>
+	<listItem>
+		<kanji>美容院</kanji>
+		<kana>びよういん</kana>
+		<english>beauty parlor</english>
+	</listItem>
+	<listItem>
+		<kanji>便</kanji>
+		<kana>びん</kana>
+		<english>flight</english>
+	</listItem>
+	<listItem>
+		<kanji>船</kanji>
+		<kana>ふね</kana>
+		<english>ship; boat</english>
+	</listItem>
+	<listItem>
+		<kanji>野球</kanji>
+		<kana>やきゅう</kana>
+		<english>baseball</english>
+	</listItem>
+	<listItem>
+		<kanji>有名人</kanji>
+		<kana>ゆうめいじん</kana>
+		<english>celebrity</english>
+	</listItem>
+	<listItem>
+		<kanji>予約</kanji>
+		<kana>よやく</kana>
+		<english>reservation</english>
+	</listItem>
+	<listItem>
+		<kanji>来学期</kanji>
+		<kana>らいがっき</kana>
+		<english>next semester</english>
+	</listItem>
+	<listItem>
+		<kanji>りんご</kanji>
+		<kana>りんご</kana>
+		<english>apple</english>
+	</listItem>
+	<listItem>
+		<kanji>暖かい</kanji>
+		<kana>あたたかい</kana>
+		<english>warm</english>
+	</listItem>
+	<listItem>
+		<kanji>遅い</kanji>
+		<kana>おそい</kana>
+		<english>slow; late</english>
+	</listItem>
+	<listItem>
+		<kanji>涼しい</kanji>
+		<kana>すずしい</kana>
+		<english>cool (weather)</english>
+	</listItem>
+	<listItem>
+		<kanji>冷たい</kanji>
+		<kana>つめたい</kana>
+		<english>cold (thing/person)</english>
+	</listItem>
+	<listItem>
+		<kanji>眠い</kanji>
+		<kana>ねむい</kana>
+		<english>sleepy</english>
+	</listItem>
+	<listItem>
+		<kanji>簡単（な）</kanji>
+		<kana>かんたん（な）</kana>
+		<english>easy; simple</english>
+	</listItem>
+	<listItem>
+		<kanji>（～）かかる</kanji>
+		<kana>（～）かかる</kana>
+		<english>to take (time/money)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～）かかります</kanji>
+		<kana>（～）かかります</kana>
+		<english>to take (time/money) (ます form)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～に）止まる</kanji>
+		<kana>（～に）とまる</kana>
+		<english>to stay (at a hotel, etc.)</english>
+	</listItem>
+	<listItem>
+		<kanji>なる</kanji>
+		<kana>なる</kana>
+		<english>to become</english>
+	</listItem>
+	<listItem>
+		<kanji>なります</kanji>
+		<kana>なります</kana>
+		<english>to become (ます form)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～を）払う</kanji>
+		<kana>（～を）はらう</kana>
+		<english>to pay (~)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～を）払います</kanji>
+		<kana>（～を）はらいます</kana>
+		<english>to pay (~) (ます form)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～を）決める</kanji>
+		<kana>（～を）きめる</kana>
+		<english>to decide (~)</english>
+	</listItem>
+	<listItem>
+		<kanji>旅行する</kanji>
+		<kana>りょこうする</kana>
+		<english>to travel</english>
+	</listItem>
+	<listItem>
+		<kanji>旅行します</kanji>
+		<kana>りょこうします</kana>
+		<english>to travel (ます form)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～を）練習する</kanji>
+		<kana>（～を）れんしゅうする</kana>
+		<english>to practice (~)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～を）練習します</kanji>
+		<kana>（～を）れんしゅうします</kana>
+		<english>to practice (~) (ます form)</english>
+	</listItem>
+	<listItem>
+		<kanji>歩いて</kanji>
+		<kana>あるいて</kana>
+		<english>on foot</english>
+	</listItem>
+	<listItem>
+		<kanji>一番</kanji>
+		<kana>いちばん</kana>
+		<english>best</english>
+	</listItem>
+	<listItem>
+		<kanji>AかB</kanji>
+		<kana>AかB</kana>
+		<english>A or B</english>
+	</listItem>
+	<listItem>
+		<kanji>＃か月</kanji>
+		<kana>＃かげつ</kana>
+		<english>for # months</english>
+	</listItem>
+	<listItem>
+		<kanji>～後</kanji>
+		<kana>～ご</kana>
+		<english>in ~ time; after ~</english>
+	</listItem>
+	<listItem>
+		<kanji>このごろ</kanji>
+		<kana>このごろ</kana>
+		<english>these days</english>
+	</listItem>
+	<listItem>
+		<kanji>＃週間</kanji>
+		<kana>＃しゅうかん</kana>
+		<english>for # weeks</english>
+	</listItem>
+	<listItem>
+		<kanji>（～）で</kanji>
+		<kana>（～）で</kana>
+		<english>by (means of transportation); with (tool)</english>
+	</listItem>
+	<listItem>
+		<kanji>どうやって</kanji>
+		<kana>どうやって</kana>
+		<english>how; by what means</english>
+	</listItem>
+	<listItem>
+		<kanji>どちら/どっち</kanji>
+		<kana>どちら/どっち</kana>
+		<english>which</english>
+	</listItem>
+	<listItem>
+		<kanji>どのぐらい</kanji>
+		<kana>どのぐらい</kana>
+		<english>how much; how long</english>
+	</listItem>
+	<listItem>
+		<kanji>＃年</kanji>
+		<kana>＃ねん</kana>
+		<english># years</english>
+	</listItem>
+	<listItem>
+		<kanji>早く</kanji>
+		<kana>はやく</kana>
+		<english>early</english>
+	</listItem>
+	<listItem>
+		<kanji>速く</kanji>
+		<kana>はやく</kana>
+		<english>fast</english>
+	</listItem>
+</kanjiList>
