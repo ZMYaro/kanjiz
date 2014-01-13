@@ -63,6 +63,10 @@ class SettingGetter(webapp2.RequestHandler):
 		
 class SettingSetter(webapp2.RequestHandler):
 	def get(self, setting, value):
+		# Do not allow settings to be set by arbitrary external XHRs.
+		if 'Referer' not in self.request.headers or self.request.headers['Referer'].find(self.request.host_url) == -1:
+			self.error(403)
+			return
 		user = users.get_current_user()
 		if user and setting != 'user':
 			settings = FlipSettings.gql('WHERE user = :1', user).get()
