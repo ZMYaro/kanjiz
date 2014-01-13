@@ -1,7 +1,7 @@
 {
-	"name":"KanjiTestZ",
-	"description":"Choose one or more vocabulary lists and test yourself on them in a random order.",
-	"version": "4",
+	"name": "KanjiTestZ",
+	"description": "Choose one or more vocabulary lists and test yourself on them in a random order.",
+	"version": "4.1",
 	"app": {
 		"urls": [
 			"http://kanji-z.appspot.com/kanjitest"
@@ -11,7 +11,7 @@
 		}
 	},
 	"icons": {
-		"48":"icon_48.png",
-		"128":"icon_128.png"
+		"48": "icon_48.png",
+		"128": "icon_128.png"
 	}
 }
