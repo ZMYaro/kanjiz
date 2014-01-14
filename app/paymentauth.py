@@ -15,12 +15,8 @@ CONFIG = {
 	'license_path': '%(server)s/chromewebstore/v1/licenses/%(appid)s/%(userid)s',
 	'oauth_token': 'INSERT OAUTH TOKEN HERE',
 	'oauth_token_secret': 'INSERT OAUTH TOKEN SECRET HERE',
-	'app_id': 'INSERT APPLICATION ID HERE',
+	'app_id': 'INSERT APPLICATION ID HERE'
 }
-
-CONFIG['app_id'] = 'Replace with app id'
-CONFIG['oauth_token'] = 'Replace with OAuth token'
-CONFIG['oauth_token_secret'] = 'Replace with OAuth token secret'
 
 def checkUserAuth(user):
 	user_id = user.federated_identity()
