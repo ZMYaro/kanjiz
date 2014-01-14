@@ -18,46 +18,40 @@
 		<link rel="stylesheet" type="text/css" href="/shared/styles.css" />
 		<style type="text/css">
 			h2 {
-				margin-left:24px;
-				text-align:left;
+				margin-left: 24px;
+				text-align: left;
 			}
 			
 			#user {
-				display:inline;
-				display:inline-block;
-				float:right;
-				text-align:right;
-				color:white;
-				text-shadow:0px 0px 2px rgba(255,255,255,0.2);
-				padding-right:8px;
+				float: right;
+				text-align: right;
+				margin-right: 24px;
+				margin-top: 4px;
+				color: white;
 			}
-			#user a, #user a:visited {
-				color:#7777FF;
-			}
-			
 			#zLink {
-				position:absolute;
-				left:4px;
-				bottom:2px;
-				text-decoration:none;
-				vertical-align:top;
-				
-				color:darkBlue;
-				text-shadow:0px 0px 6px white;
+				position: absolute;
+				left: 4px;
+				bottom: 4px;
 			}
-			#zLink:link {
-				text-decoration:none;
-				
+				#zLink img {
+					margin-right: 4px;
+					vertical-align: middle;
+					width: 24px;
+					height: 24px;
+				}
+			#user, #zLink {
+				text-shadow: 0px 0px 2px rgba(255,255,255,0.5);
 			}
-			#zLink img {
-				margin-right:4px;
-				vertical-align:top;
+			#user a span, #zLink span {
+				color: lightBlue;
+				text-decoration: none;
 			}
-			#zLink:hover span {
+			#user a:hover span, #zLink:hover span {
 				text-decoration:underline;
 			}
-			#zLink:hover span {
-				color:black;
+			#user a:active span, #zLink:active span {
+				color: #F05555;
 			}
 			
 			#apps {
@@ -100,13 +94,19 @@
 			<header>
 				<div id="user">
 					{% if userEmail %}
-						{{ userEmail }} - <a href="{{ logoutURL }}">Sign out</a>
+						{{ userEmail }} -
+						<a href="{{ logoutURL }}">
+							<span>Sign out</span>
+						</a>
 					{% else %}
-						<a href="{{ loginURL }}" title="Sign into KanjiZ with your Google account"><img src="/shared/imgs/google_icon.png" alt="" /> Sign in</a>
+						<a href="{{ loginURL }}" title="Sign into KanjiZ with your Google account">
+							<img src="/shared/imgs/google_icon.png" alt="" />
+							<span>Sign in</span>
+						</a>
 					{% endif %}
 				</div>
 				<h2>
-					KanjiZ - Japanese studying apps by Zachary Yaro
+					KanjiZ - Japanese studying apps
 				</h2>
 			</header>
 			<table id="apps">
@@ -160,11 +160,9 @@
 					</td>
 				</tr>
 			</table>
-			<a href="http://zmyaro.com" target="_blank">
-				<div id="zLink">
-					<img src="/shared/imgs/z_icon_32.png"/>
-					<span>Visit my website</span>
-				</div>
+			<a href="http://zmyaro.com" target="_blank" id="zLink">
+				<img src="/shared/imgs/z_icon_32.png"/>
+				<span>Created by Zachary Yaro</span>
 			</a>
 		</div>
 	</body>
