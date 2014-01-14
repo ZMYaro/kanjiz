@@ -5,8 +5,6 @@ import oauth2 # https://github.com/simplegeo/python-oauth2
 
 # Fake OpenID for dev server.
 DEFAULT_USER_ID = 'https://www.google.com/accounts/o8/id?id=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
-# REMOVE THIS
-DEFAULT_USER_ID = 'https://www.google.com/accounts/o8/id?id=AItOawn4pMkgrQ_Z51SJpESc4WsIyAAhe4xCVTY'
 
 CONFIG = {
 	'oauth_consumer_key': 'anonymous',
