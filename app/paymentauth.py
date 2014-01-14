@@ -53,4 +53,7 @@ def checkUserAuth(user):
 def parseAccess(respText):
 	respJSON = json.loads(respText)
 	if 'result' in respJSON:
-		return respJSON['result'] == 'YES'
+		return respJSON['result'] != 'NO'
+	# If there was an error, assume the user has permission instead of
+	# potentially blocking a valid user.
+	return true
