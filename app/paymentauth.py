@@ -50,4 +50,4 @@ def parseAccess(respText):
 		return respJSON['result'] != 'NO'
 	# If there was an error, assume the user has permission instead of
 	# potentially blocking a valid user.
-	return true
+	return True
