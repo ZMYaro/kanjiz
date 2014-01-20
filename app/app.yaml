@@ -20,7 +20,7 @@ handlers:
 
 
 - url: /kanjilist(/.*)?
-  script: uberlist.app
+  script: kanjilist.app
 
 - url: /uberlist/
   static_dir: uberlist
