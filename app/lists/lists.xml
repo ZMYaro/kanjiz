@@ -329,6 +329,10 @@
 			<id>genki1_l11_vocab</id>
 			<name>Genki 1, Lesson 11 Vocabulary</name>
 		</list>
+		<list>
+			<id>genki1_l11_kanji</id>
+			<name>Genki 1, Lesson 11 Kanji</name>
+		</list>
 	</folder>
 	<folder name="Eco">
 		<list>

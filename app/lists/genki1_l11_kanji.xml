@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Genki 1, Lesson 11 Kanji</name>
+	<listItem>
+		<kanji>手</kanji>
+		<kana>しゅ/て</kana>
+		<english>hand (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>紙</kanji>
+		<kana>し/がみ/かみ</kana>
+		<english>paper (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>好</kanji>
+		<kana>こう/す/この</kana>
+		<english>favorite; to like (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>近</kanji>
+		<kana>きん/ちか</kana>
+		<english>near (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>明</kanji>
+		<kana>めい/あか</kana>
+		<english>bright (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>病</kanji>
+		<kana>びょう</kana>
+		<english>ill; sick (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>院</kanji>
+		<kana>いん</kana>
+		<english>institution (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>映</kanji>
+		<kana>えい/うつ</kana>
+		<english>to reflect (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>画</kanji>
+		<kana>が/かく</kana>
+		<english>picture (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>歌</kanji>
+		<kana>か/うた</kana>
+		<english>to sing (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>市</kanji>
+		<kana>し/いち</kana>
+		<english>city (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>所</kanji>
+		<kana>じょ/しょ/ところ/どころ</kana>
+		<english>place (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>勉</kanji>
+		<kana>べん/つと</kana>
+		<english>to make efforts (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>強</kanji>
+		<kana>きょう/ごう/つよ</kana>
+		<english>strong (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>有</kanji>
+		<kana>ゆう/あ</kana>
+		<english>to exist (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>旅</kanji>
+		<kana>りょ/たび</kana>
+		<english>travel (kanji)</english>
+	</listItem>
+</kanjiList>
