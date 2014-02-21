@@ -1,10 +1,20 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
+		<meta name="viewport" content="width=device-width" />
 		<style type="text/css">
 			input, label {
 				font-family: sans-serif;
 				font-size: 16px;
+			}
+			#output, #list {
+				width: 95%;
+			}
+			#output {
+				height: 14ex;
+			}
+			#list {
+				height: 40em;
 			}
 		</style>
 		<script type="text/javascript">
@@ -45,7 +55,7 @@
 		</form>
 		<br/>
 		<br/>
-		<textarea disabled id="output" style="height:14ex; width:80%;"></textarea>
-		<textarea id="list" style="height: 40em; width: 80%;"></textarea>
+		<textarea disabled id="output"></textarea>
+		<textarea id="list"></textarea>
 	</body>
 </html>
