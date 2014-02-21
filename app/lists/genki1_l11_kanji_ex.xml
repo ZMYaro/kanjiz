@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Genki 1, Lesson 11 Kanji Examples</name>
+	<listItem>
+		<kanji>手紙</kanji>
+		<kana>てがみ</kana>
+		<english>letter</english>
+	</listItem>
+	<listItem>
+		<kanji>手</kanji>
+		<kana>て</kana>
+		<english>hand</english>
+	</listItem>
+	<listItem>
+		<kanji>手話</kanji>
+		<kana>しゅわ</kana>
+		<english>sign language</english>
+	</listItem>
+	<listItem>
+		<kanji>上手（な）</kanji>
+		<kana>じょうず（な）</kana>
+		<english>good at</english>
+	</listItem>
+	<listItem>
+		<kanji>紙</kanji>
+		<kana>かみ</kana>
+		<english>paper</english>
+	</listItem>
+	<listItem>
+		<kanji>和紙</kanji>
+		<kana>わし</kana>
+		<english>Japanese paper</english>
+	</listItem>
+	<listItem>
+		<kanji>表紙</kanji>
+		<kana>ひょうし</kana>
+		<english>front cover</english>
+	</listItem>
+	<listItem>
+		<kanji>好き（な）</kanji>
+		<kana>すき（な）</kana>
+		<english>to like</english>
+	</listItem>
+	<listItem>
+		<kanji>大好き（な）</kanji>
+		<kana>だいすき（な）</kana>
+		<english>to love</english>
+	</listItem>
+	<listItem>
+		<kanji>好意</kanji>
+		<kana>こうい</kana>
+		<english>good will</english>
+	</listItem>
+	<listItem>
+		<kanji>好み</kanji>
+		<kana>このみ</kana>
+		<english>liking; taste</english>
+	</listItem>
+	<listItem>
+		<kanji>好物</kanji>
+		<kana>こうぶつ</kana>
+		<english>favorite food</english>
+	</listItem>
+	<listItem>
+		<kanji>近く</kanji>
+		<kana>ちかく</kana>
+		<english>near; nearby</english>
+	</listItem>
+	<listItem>
+		<kanji>近所</kanji>
+		<kana>きんじょ</kana>
+		<english>neighborhood</english>
+	</listItem>
+	<listItem>
+		<kanji>最近</kanji>
+		<kana>さいきん</kana>
+		<english>recently</english>
+	</listItem>
+	<listItem>
+		<kanji>中近東</kanji>
+		<kana>ちゅうきんとう</kana>
+		<english>the Middle and Near East</english>
+	</listItem>
+	<listItem>
+		<kanji>明るい</kanji>
+		<kana>あかるい</kana>
+		<english>cheerful; bright</english>
+	</listItem>
+	<listItem>
+		<kanji>明日</kanji>
+		<kana>あした</kana>
+		<english>tomorrow</english>
+	</listItem>
+	<listItem>
+		<kanji>説明</kanji>
+		<kana>せつめい</kana>
+		<english>explanation</english>
+	</listItem>
+	<listItem>
+		<kanji>発明</kanji>
+		<kana>はつめい</kana>
+		<english>invention</english>
+	</listItem>
+	<listItem>
+		<kanji>文明</kanji>
+		<kana>ぶんめい</kana>
+		<english>civilization</english>
+	</listItem>
+	<listItem>
+		<kanji>病院</kanji>
+		<kana>びょういん</kana>
+		<english>hospital</english>
+	</listItem>
+	<listItem>
+		<kanji>病気</kanji>
+		<kana>びょうき</kana>
+		<english>illness</english>
+	</listItem>
+	<listItem>
+		<kanji>重病</kanji>
+		<kana>じゅうびょう</kana>
+		<english>serious illness</english>
+	</listItem>
+	<listItem>
+		<kanji>急病</kanji>
+		<kana>きゅうびょう</kana>
+		<english>sudden illness</english>
+	</listItem>
+	<listItem>
+		<kanji>大学院</kanji>
+		<kana>だいがくいん</kana>
+		<english>graduate school</english>
+	</listItem>
+	<listItem>
+		<kanji>美容院</kanji>
+		<kana>びよういん</kana>
+		<english>beauty parlor</english>
+	</listItem>
+	<listItem>
+		<kanji>映画</kanji>
+		<kana>えいが</kana>
+		<english>movie</english>
+	</listItem>
+	<listItem>
+		<kanji>映画館</kanji>
+		<kana>えいがかん</kana>
+		<english>movie theater</english>
+	</listItem>
+	<listItem>
+		<kanji>映る</kanji>
+		<kana>うつる</kana>
+		<english>to be reflected</english>
+	</listItem>
+	<listItem>
+		<kanji>画家</kanji>
+		<kana>がか</kana>
+		<english>painter</english>
+	</listItem>
+	<listItem>
+		<kanji>計画</kanji>
+		<kana>けいかく</kana>
+		<english>plan</english>
+	</listItem>
+	<listItem>
+		<kanji>漫画</kanji>
+		<kana>まんが</kana>
+		<english>comic</english>
+	</listItem>
+	<listItem>
+		<kanji>歌う</kanji>
+		<kana>うたう</kana>
+		<english>to sing</english>
+	</listItem>
+	<listItem>
+		<kanji>歌</kanji>
+		<kana>うた</kana>
+		<english>song</english>
+	</listItem>
+	<listItem>
+		<kanji>歌手</kanji>
+		<kana>かしゅ</kana>
+		<english>singer</english>
+	</listItem>
+	<listItem>
+		<kanji>国家</kanji>
+		<kana>こっか</kana>
+		<english>national anthem</english>
+	</listItem>
+	<listItem>
+		<kanji>歌舞伎</kanji>
+		<kana>かぶき</kana>
+		<english>Kabuki</english>
+	</listItem>
+	<listItem>
+		<kanji>歌詞</kanji>
+		<kana>かし</kana>
+		<english>lyrics</english>
+	</listItem>
+	<listItem>
+		<kanji>川口市</kanji>
+		<kana>かわぐちし</kana>
+		<english>Kawaguchi City</english>
+	</listItem>
+	<listItem>
+		<kanji>市役所</kanji>
+		<kana>しやくしょ</kana>
+		<english>city hall</english>
+	</listItem>
+	<listItem>
+		<kanji>市長</kanji>
+		<kana>しちょう</kana>
+		<english>mayor</english>
+	</listItem>
+	<listItem>
+		<kanji>市場</kanji>
+		<kana>いちば</kana>
+		<english>market</english>
+	</listItem>
+	<listItem>
+		<kanji>近所</kanji>
+		<kana>きんじょ</kana>
+		<english>neighborhood</english>
+	</listItem>
+	<listItem>
+		<kanji>台所</kanji>
+		<kana>だいどころ</kana>
+		<english>kitchen</english>
+	</listItem>
+	<listItem>
+		<kanji>住所</kanji>
+		<kana>じゅうしょ</kana>
+		<english>address</english>
+	</listItem>
+	<listItem>
+		<kanji>勉強する</kanji>
+		<kana>べんきょうする</kana>
+		<english>to study</english>
+	</listItem>
+	<listItem>
+		<kanji>勉める</kanji>
+		<kana>つとめる</kana>
+		<english>to try hard</english>
+	</listItem>
+	<listItem>
+		<kanji>勤勉な</kanji>
+		<kana>きんべんな</kana>
+		<english>diligent</english>
+	</listItem>
+	<listItem>
+		<kanji>強い</kanji>
+		<kana>つよい</kana>
+		<english>strong</english>
+	</listItem>
+	<listItem>
+		<kanji>強情な</kanji>
+		<kana>ごうじょうな</kana>
+		<english>obstinate</english>
+	</listItem>
+	<listItem>
+		<kanji>強盗</kanji>
+		<kana>ごうとう</kana>
+		<english>robbery</english>
+	</listItem>
+	<listItem>
+		<kanji>強力な</kanji>
+		<kana>きょうりょくな</kana>
+		<english>powerful</english>
+	</listItem>
+	<listItem>
+		<kanji>有名な</kanji>
+		<kana>ゆうめいな</kana>
+		<english>famous</english>
+	</listItem>
+	<listItem>
+		<kanji>有料</kanji>
+		<kana>ゆうりょう</kana>
+		<english>toll; fee</english>
+	</listItem>
+	<listItem>
+		<kanji>有る</kanji>
+		<kana>ある</kana>
+		<english>to exist</english>
+	</listItem>
+	<listItem>
+		<kanji>有能な</kanji>
+		<kana>ゆうのうな</kana>
+		<english>talented</english>
+	</listItem>
+	<listItem>
+		<kanji>旅行</kanji>
+		<kana>りょこう</kana>
+		<english>travel</english>
+	</listItem>
+	<listItem>
+		<kanji>旅館</kanji>
+		<kana>りょかん</kana>
+		<english>inn</english>
+	</listItem>
+	<listItem>
+		<kanji>一人旅</kanji>
+		<kana>ひとりたび</kana>
+		<english>traveling alone</english>
+	</listItem>
+	<listItem>
+		<kanji>旅券</kanji>
+		<kana>りょけん</kana>
+		<english>passport</english>
+	</listItem>
+</kanjiList>
