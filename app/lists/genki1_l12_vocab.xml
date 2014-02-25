@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Genki 1, Lesson 12 Vocabulary</name>
+	<listItem>
+		<kanji>足</kanji>
+		<kana>あし</kana>
+		<english>leg; foot</english>
+	</listItem>
+	<listItem>
+		<kanji>意味</kanji>
+		<kana>いみ</kana>
+		<english>meaning</english>
+	</listItem>
+	<listItem>
+		<kanji>お手洗い</kanji>
+		<kana>おてあらい</kana>
+		<english>restroom</english>
+	</listItem>
+	<listItem>
+		<kanji>おなか</kanji>
+		<kana>おなか</kana>
+		<english>stomach</english>
+	</listItem>
+	<listItem>
+		<kanji>風邪</kanji>
+		<kana>かぜ</kana>
+		<english>common cold</english>
+	</listItem>
+	<listItem>
+		<kanji>彼女</kanji>
+		<kana>かのじょ</kana>
+		<english>girlfriend</english>
+	</listItem>
+	<listItem>
+		<kanji>彼</kanji>
+		<kana>かれ</kana>
+		<english>boyfriend</english>
+	</listItem>
+	<listItem>
+		<kanji>気温</kanji>
+		<kana>きおん</kana>
+		<english>temperature (weather)</english>
+	</listItem>
+	<listItem>
+		<kanji>曇り</kanji>
+		<kana>くもり</kana>
+		<english>cloudy weather</english>
+	</listItem>
+	<listItem>
+		<kanji>試合</kanji>
+		<kana>しあい</kana>
+		<english>match; game</english>
+	</listItem>
+	<listItem>
+		<kanji>ジュース</kanji>
+		<kana>ジュース</kana>
+		<english>juice</english>
+	</listItem>
+	<listItem>
+		<kanji>政治</kanji>
+		<kana>せいじ</kana>
+		<english>politics</english>
+	</listItem>
+	<listItem>
+		<kanji>成績</kanji>
+		<kana>せいせき</kana>
+		<english>grade (on a test, etc.)</english>
+	</listItem>
+	<listItem>
+		<kanji>せき</kanji>
+		<kana>せき</kana>
+		<english>cough</english>
+	</listItem>
+	<listItem>
+		<kanji>のど</kanji>
+		<kana>のど</kana>
+		<english>throat</english>
+	</listItem>
+	<listItem>
+		<kanji>歯</kanji>
+		<kana>は</kana>
+		<english>tooth</english>
+	</listItem>
+	<listItem>
+		<kanji>花</kanji>
+		<kana>はな</kana>
+		<english>flower</english>
+	</listItem>
+	<listItem>
+		<kanji>晴れ</kanji>
+		<kana>はれ</kana>
+		<english>flower</english>
+	</listItem>
+	<listItem>
+		<kanji>服</kanji>
+		<kana>ふく</kana>
+		<english>clothes</english>
+	</listItem>
+	<listItem>
+		<kanji>二日酔い</kanji>
+		<kana>ふつかよい</kana>
+		<english>hangover</english>
+	</listItem>
+	<listItem>
+		<kanji>プレゼント</kanji>
+		<kana>プレゼント</kana>
+		<english>present</english>
+	</listItem>
+	<listItem>
+		<kanji>ホームシック</kanji>
+		<kana>ホームシック</kana>
+		<english>homesickness</english>
+	</listItem>
+	<listItem>
+		<kanji>マイナス</kanji>
+		<kana>マイナス</kana>
+		<english>minus</english>
+	</listItem>
+	<listItem>
+		<kanji>物</kanji>
+		<kana>もの</kana>
+		<english>thing</english>
+	</listItem>
+	<listItem>
+		<kanji>雪</kanji>
+		<kana>ゆき</kana>
+		<english>snow</english>
+	</listItem>
+	<listItem>
+		<kanji>用事</kanji>
+		<kana>ようじ</kana>
+		<english>business to take care of</english>
+	</listItem>
+	<listItem>
+		<kanji>甘い</kanji>
+		<kana>あまい</kana>
+		<english>sweet</english>
+	</listItem>
+	<listItem>
+		<kanji>痛い</kanji>
+		<kana>いたい</kana>
+		<english>hurt; painful</english>
+	</listItem>
+	<listItem>
+		<kanji>多い</kanji>
+		<kana>おおい</kana>
+		<english>there are many</english>
+	</listItem>
+	<listItem>
+		<kanji>狭い</kanji>
+		<kana>せまい</kana>
+		<english>narrow; not spacious</english>
+	</listItem>
+	<listItem>
+		<kanji>都合が悪い</kanji>
+		<kana>つごうがわるい</kana>
+		<english>inconvenient; have a scheduling conflict</english>
+	</listItem>
+	<listItem>
+		<kanji>悪い</kanji>
+		<kana>わるい</kana>
+		<english>bad</english>
+	</listItem>
+	<listItem>
+		<kanji>素敵（な）</kanji>
+		<kana>すてき（な）</kana>
+		<english>nice</english>
+	</listItem>
+	<listItem>
+		<kanji>歩き</kanji>
+		<kana>あるき</kana>
+		<english>to walk</english>
+	</listItem>
+	<listItem>
+		<kanji>歩きます</kanji>
+		<kana>あるきます</kana>
+		<english>to walk (ます form)</english>
+	</listItem>
+	<listItem>
+		<kanji>風邪をひく</kanji>
+		<kana>かぜをひく</kana>
+		<english>to catch a cold</english>
+	</listItem>
+	<listItem>
+		<kanji>風邪をひきます</kanji>
+		<kana>かぜをひきます</kana>
+		<english>to catch a cold (ます form)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～に）興味がある</kanji>
+		<kana>（～に）きょうみがある</kana>
+		<english>to be interested (in ~)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～に）興味があります</kanji>
+		<kana>（～に）きょうみがあります</kana>
+		<english>to be interested (in ~) (ます form)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～を）なくす</kanji>
+		<kana>（～を）なくす</kana>
+		<english>to lose (~)</english>
+	</listItem>
+	<listItem>
+		<kanji>熱がある</kanji>
+		<kana>ねつがある</kana>
+		<english>to have a fever</english>
+	</listItem>
+	<listItem>
+		<kanji>熱があります</kanji>
+		<kana>ねつがあります</kana>
+		<english>to have a fever (ます form)</english>
+	</listItem>
+	<listItem>
+		<kanji>のどが渇く</kanji>
+		<kana>のどがかわく</kana>
+		<english>to become thirsty</english>
+	</listItem>
+	<listItem>
+		<kanji>せきが出る</kanji>
+		<kana>せきがでる</kana>
+		<english>to cough</english>
+	</listItem>
+	<listItem>
+		<kanji>せきが出ます</kanji>
+		<kana>せきがでます</kana>
+		<english>to cough (ます form)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～と）別れる</kanji>
+		<kana>（～と）わかれる</kana>
+		<english>to break up; to separate (with ~)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～と）別れます</kanji>
+		<kana>（～と）わかれます</kana>
+		<english>to break up; to separate (with ~) (ます form)</english>
+	</listItem>
+	<listItem>
+		<kanji>緊張する</kanji>
+		<kana>きんちょうする</kana>
+		<english>to get nervous</english>
+	</listItem>
+	<listItem>
+		<kanji>緊張します</kanji>
+		<kana>きんちょうします</kana>
+		<english>to get nervous (ます form)</english>
+	</listItem>
+	<listItem>
+		<kanji>心配する</kanji>
+		<kana>しんぱいする</kana>
+		<english>to worry</english>
+	</listItem>
+	<listItem>
+		<kanji>心配します</kanji>
+		<kana>しんぱいします</kana>
+		<english>to worry (ます form)</english>
+	</listItem>
+	<listItem>
+		<kanji>お大事に</kanji>
+		<kana>おだいじに</kana>
+		<english>get well soon</english>
+	</listItem>
+	<listItem>
+		<kanji>元気がない</kanji>
+		<kana>げんきがない</kana>
+		<english>don't look well</english>
+	</listItem>
+	<listItem>
+		<kanji>多分</kanji>
+		<kana>たぶん</kana>
+		<english>probably; maybe</english>
+	</listItem>
+	<listItem>
+		<kanji>できるだけ</kanji>
+		<kana>できるだけ</kana>
+		<english>as much as possible</english>
+	</listItem>
+	<listItem>
+		<kanji>～でしょう</kanji>
+		<kana>～でしょう</kana>
+		<english>probably; ~, right?</english>
+	</listItem>
+	<listItem>
+		<kanji>～度</kanji>
+		<kana>～ど</kana>
+		<english>~ degrees (temperature)</english>
+	</listItem>
+	<listItem>
+		<kanji>二三日</kanji>
+		<kana>にさんにち</kana>
+		<english>for two to three days</english>
+	</listItem>
+	<listItem>
+		<kanji>～ので</kanji>
+		<kana>～ので</kana>
+		<english>because ~ (more formal)</english>
+	</listItem>
+	<listItem>
+		<kanji>初めて</kanji>
+		<kana>はじめて</kana>
+		<english>for the first time</english>
+	</listItem>
+	<listItem>
+		<kanji>もうすぐ</kanji>
+		<kana>もうすぐ</kana>
+		<english>very soon; in a few moments/days</english>
+	</listItem>
+</kanjiList>
