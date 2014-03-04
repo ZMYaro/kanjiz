@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Genki 1, Lesson 12 Kanji</name>
+	<listItem>
+		<kanji>昔</kanji>
+		<kana>むかし</kana>
+		<english>ancient times (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>々</kanji>
+		<kana>々</kana>
+		<english>[symbol of repetition of a kanji]</english>
+	</listItem>
+	<listItem>
+		<kanji>神</kanji>
+		<kana>じん/しん/こう/かみ</kana>
+		<english>God (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>早</kanji>
+		<kana>そう/はや</kana>
+		<english>early (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>起</kanji>
+		<kana>き/お</kana>
+		<english>to get up (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>牛</kanji>
+		<kana>ぎゅう/うし</kana>
+		<english>cow (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>使</kanji>
+		<kana>し/つか</kana>
+		<english>to use (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>働</kanji>
+		<kana>どう/はたら/ばたら</kana>
+		<english>to work (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>連</kanji>
+		<kana>れん/つ</kana>
+		<english>to link (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>別</kanji>
+		<kana>べつ/わか</kana>
+		<english>to separate (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>度</kanji>
+		<kana>ど</kana>
+		<english>time; degrees (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>赤</kanji>
+		<kana>せき/あか</kana>
+		<english>red (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>青</kanji>
+		<kana>せい/あお</kana>
+		<english>blue (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>色</kanji>
+		<kana>しき/しょく/いろ</kana>
+		<english>color (kanji)</english>
+	</listItem>
+</kanjiList>
