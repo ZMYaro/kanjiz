@@ -48,5 +48,8 @@ function keyPressed(e) {
 		case 82: // R
 			restart();
 		break;
+		case 83: // S
+			shuffleUserList();
+		break;
 	}
 }

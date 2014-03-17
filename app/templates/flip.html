@@ -36,6 +36,11 @@
 					<br />
 					<small><u>R</u>estart</small>
 				</button>
+				<button id="shuffleBtn" style="line-height: 95%;" title="Hotkey: S" accesskey="s" onclick="shuffleUserList();">
+					<big>&#x21dc;</big>
+					<br />
+					<small><u>S</u>huffle + Restart</small>
+				</button>
 				<button id="prevCardBtn" style="line-height:95%;" title="Hotkey: K, P, or &larr;" accesskey="p" onclick="if (current > 0) {current-= 2; nextCard();}" >
 					<big>&#8592;</big>
 					<br />
@@ -52,7 +57,7 @@
 					<small><u>N</u>ext Card</small>
 				</button>
 			</div>
-			<button id="settingsBtn" accesskey="s" onclick="document.getElementById('settingsBg').style.display = 'block';"><u>S</u>ettings</button>
+			<button id="settingsBtn" onclick="document.getElementById('settingsBg').style.display = 'block';">Settings</button>
 		</div>
 		<div id="settingsBg">
 			<div id="settings">
@@ -120,7 +125,7 @@
 					
 					</div>
 					<div id="userListPane">
-						<button style="font-size:10pt;" title="Not yet implemented" onclick="shuffleUserList();">Shuffle List</button>
+						<button style="font-size:10pt;" title="Randomize the list" onclick="shuffleUserList();">Shuffle List</button>
 						<button style="font-size:10pt;" title="Remove all items from the list" onclick="clearUserList();">Clear List</button>
 						<div class="listItem" data-english="Welcome" data-kana="よこそう" data-kanji="よこそう">
 							<button onclick="removeItem(this.parentElement);">&times;</button>&nbsp;Welcome / よこそう / よこそう</button>
@@ -146,6 +151,10 @@
 					<i>(Changes, as of when they went live)</i>
 					<br />
 					<ul>
+						<li>2014-03-17</li>
+						<ul>
+							<li>Added shuffle + restart button with keyboard shortcut</li>
+						</ul>
 						<li>2014-03-05</li>
 						<ul>
 							<li>Added arrow key keyboard shortcuts</li>
