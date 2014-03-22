@@ -143,7 +143,14 @@ function prevCard() {
  * Remove the current card and skip to the next card in the list.
  */
 function dropCardAndContinue() {
-	list.splice(current--, 1);
+	list.splice(current, 1);
+	
+	var userListPane = document.getElementById("userListPane");
+	userListPane.removeChild(userListPane.getElementsByClassName("listItem")[current]);
+	
+	saveUserList();
+	
+	current--;
 	nextCard();
 }
 function slideCardBack() {
