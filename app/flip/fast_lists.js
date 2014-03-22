@@ -5,8 +5,8 @@ function loadLists() {
 	
 	var xhr = new XMLHttpRequest();
 	xhr.onreadystatechange = function() {
-		if (xhr.readyState == 4) {
-			if (xhr.status == 200) {
+		if (xhr.readyState === 4) {
+			if (xhr.status === 200) {
 				dispLists(xhr.responseXML);
 			} else { // else the status is 404/not found
 				setTimeout(loadLists, 1000);
@@ -15,7 +15,7 @@ function loadLists() {
 				}
 			}
 		}
-	}
+	};
 	xhr.open("GET", "/lists/lists.xml", true);
 	xhr.send("");
 	

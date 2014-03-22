@@ -1,14 +1,14 @@
 var defaults = {
-	"data":"{\"front\":\"english\", \"back\":\"kana\"}",
+	"data": "{\"front\":\"english\", \"back\":\"kana\"}",
 	//"backData":"kana",
-	"list":"[{\"english\":\"Welcome\", \"kana\":\"よこそう\", \"kanji\":\"よこそう\"}, {\"english\":\"To KanjiFlipZ\", \"kana\":\"KanjiFlipZへ\", \"kanji\":\"KanjiFlipZへ\"}]",
-	"cloudSave":"true"
+	"list": "[{\"english\":\"Welcome\", \"kana\":\"よこそう\", \"kanji\":\"よこそう\"}, {\"english\":\"To KanjiFlipZ\", \"kana\":\"KanjiFlipZへ\", \"kanji\":\"KanjiFlipZへ\"}]",
+	"cloudSave": "true"
 };
 /*var validators = {
-	"data":/\{('|")(front|back)\1\s*:(english|kana|kanji)\1,\s*('|")(english|kana|kanji)\3\}/,
-	//"backData":/english|kana|kanji/,
-	"cloudSave":/true|false/,
-	"list":/\[.*\]/
+	"data": /\{('|")(front|back)\1\s*:(english|kana|kanji)\1,\s*('|")(english|kana|kanji)\3\}/,
+	//"backData": /english|kana|kanji/,
+	"cloudSave": /true|false/,
+	"list": /\[.*\]/
 };*/
 
 /**
@@ -20,14 +20,14 @@ function getSetting(setting) {
 	if(cloudSave || setting === "cloudSave") {
 		var xhr = new XMLHttpRequest();
 		xhr.onreadystatechange = function() {
-			if(xhr.readyState == 4) {
-				if(xhr.status == 401) { // not authenticated
+			if(xhr.readyState === 4) {
+				if(xhr.status === 401) { // not authenticated
 					if(confirm("You do not appear to be signed in.  Sign in now?")) {
 						window.open("/login?app=kanjiflip", "_self");
 					}
 				}
 			}
-		}
+		};
 		xhr.open("GET", "/kanjiflip/settings/get/" + encodeURIComponent(setting), false); // NOT asynchronous (for now)
 		xhr.send();
 		value = xhr.responseText;
@@ -58,14 +58,14 @@ function setSetting(setting, value) {
 	if(cloudSave || setting === "cloudSave") {
 		var xhr = new XMLHttpRequest();
 		xhr.onreadystatechange = function() {
-			if(xhr.readyState == 4) {
-				if(xhr.status == 401) { // not authenticated
+			if(xhr.readyState === 4) {
+				if(xhr.status === 401) { // not authenticated
 					if(confirm("You do not appear to be signed in.  Sign in now?")) {
 						window.open("/login?app=kanjiflip", "_self");
 					}
 				}
 			}
-		}
+		};
 		xhr.open("GET", "/kanjiflip/settings/set/" + encodeURIComponent(setting) + "/" + encodeURIComponent(value), false); // NOT asynchronous (for now)
 		xhr.send();
 	} else if(!!localStorage) {

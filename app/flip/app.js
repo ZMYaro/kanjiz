@@ -1,19 +1,30 @@
-var txt = {"front":"Welcome", "back":"よこそう"};
+var txt = {"front": "Welcome", "back": "よこそう"};
 
 var lang = {
-	"english":0,
-	"kana":1,
-	"kanji":1
+	"english": 0,
+	"kana": 1,
+	"kanji": 1
 };
 
 /** What is displayed on the front and back of each card */
-var data = {"front":"english", "back":"kana"};
+var data = {"front": "english", "back": " kana"};
 
 /** The currently visible side */
 var side = "front";
 
 /** The current list of cards */
-var list = [{"english":"Welcome", "kana":"よこそう", "kanji":"よこそう"}, {"english":"To KanjiFlipZ", "kana":"KanjiFlipZへ", "kanji":"KanjiFlipZへ"}];
+var list = [
+	{
+		"english": "Welcome",
+		"kana": "よこそう",
+		"kanji": "よこそう"
+	},
+	{
+		"english": "To KanjiFlipZ",
+		"kana": "KanjiFlipZへ",
+		"kanji": "KanjiFlipZへ"
+	}
+];
 
 /** The currently visible card */
 var current = 0;
@@ -25,10 +36,11 @@ var cloudSave = false;
 
 // these are constants
 var fontFamilies = ["Arial, Helvetica, Tahoma, Verdana, sans-serif", "HGKyokashotai, YOzFont"];
-var fontSizes = ["32pt", "40pt"]
+var fontSizes = ["32pt", "40pt"];
 
 // HTML elements
-/** The styled card div */ var card;
+/** The styled card div */
+var card;
 /** The text container in the card div */ //var cardTxt;
 /** The off-screen card, used for sizing */ //var osCard;
 
@@ -45,7 +57,7 @@ function init() {
 	// load all other settings
 	loadSettings();
 	
-	setTimeout("loadLists();", 1);
+	setTimeout(loadLists, 1);
 	
 	document.addEventListener("keydown", keyPressed, true);
 }
@@ -53,9 +65,9 @@ function init() {
 function flipCard() {
 	card.style.WebkitTransform = "rotateY(90deg)";
 	      card.style.transform = "rotateY(90deg)";
-	setTimeout("flipCardBack();", 300);
+	setTimeout(flipCardBack, 300);
 	
-	if (side == "front") {
+	if (side === "front") {
 		side = "back";
 	} else {
 		side = "front";
@@ -98,10 +110,13 @@ function nextCard() {
 	current++;
 	
 	if (current < list.length) {
-		txt = {"front":list[current][data["front"]], "back":list[current][data["back"]]};
+		txt = {
+			"front": list[current][data.front],
+			"back": list[current][data.back]
+		};
 		side = "front";
 		//setTimeout("flipCardBack();", 550);
-		setTimeout("slideCardBack();", 200);
+		setTimeout(slideCardBack, 200);
 	}
 	if (current >= list.length - 1) {
 		document.getElementById("nextCardBtn").disabled = true;
@@ -177,7 +192,9 @@ function slideCardBack() {
 			card.style.width = null;
 		}*/
 		
-		setTimeout("document.getElementById('cardBlock').style.top = '128px';", 200);
+		setTimeout(function() {
+			document.getElementById("cardBlock").style.top = "128px";
+		}, 200);
 		
 		document.getElementById("progress").style.width = (1.0 * (current + 1) / list.length * 100) + "%";
 		document.getElementById("progressNum").innerHTML = (current + 1) + "/" + list.length;
