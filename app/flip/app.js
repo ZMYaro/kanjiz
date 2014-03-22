@@ -128,6 +128,24 @@ function nextCard() {
 		document.getElementById("restartBtn").style.WebkitBoxShadow = "none";
 	}
 }
+
+/**
+ * Display the next card in the list.
+ */
+function prevCard() {
+	if (current > 0) {
+		current -= 2;
+		nextCard();
+	}
+}
+
+/**
+ * Remove the current card and skip to the next card in the list.
+ */
+function dropCardAndContinue() {
+	list.splice(current--, 1);
+	nextCard();
+}
 function slideCardBack() {
 	if (list.length > 0) {
 		/*osCard.style.fontFamily = fontFamilies[lang[data[side]]];

@@ -39,9 +39,9 @@
 				<button id="shuffleBtn" style="line-height: 95%;" title="Hotkey: S" accesskey="s" onclick="shuffleUserList();">
 					<big>&#x21dc;</big>
 					<br />
-					<small><u>S</u>huffle + Restart</small>
+					<small><u>S</u>huffle &amp; Restart</small>
 				</button>
-				<button id="prevCardBtn" style="line-height:95%;" title="Hotkey: K, P, or &larr;" accesskey="p" onclick="if (current > 0) {current-= 2; nextCard();}" >
+				<button id="prevCardBtn" style="line-height:95%;" title="Hotkey: K, P, or &larr;" accesskey="p" onclick="prevCard();" >
 					<big>&#8592;</big>
 					<br />
 					<small><u>P</u>rev. Card</small>
@@ -51,10 +51,15 @@
 					<br />
 					<small><u>F</u>lip Card</small>
 				</button>
-				<button id="nextCardBtn" style="line-height:95%;" title="Hotkey: J, N, or &rarr;" accesskey="n" onclick="nextCard();" >
+				<button id="nextCardBtn" style="line-height:95%;" title="Hotkey: J, N, or &rarr;" accesskey="n" onclick="nextCard();">
 					<big>&#8594;</big>
 					<br />
 					<small><u>N</u>ext Card</small>
+				</button>
+				<button id="dropCardAndContinueBtn" style="line-height: 95%;" title="Hotkey: D" accesskey="d" onclick="dropCardAndContinue();">
+					<big>&#x219B;</big>
+					<br />
+					<small><u>D</u>rop Card &amp; Continue</small>
 				</button>
 			</div>
 			<button id="settingsBtn" onclick="document.getElementById('settingsBg').style.display = 'block';">Settings</button>
