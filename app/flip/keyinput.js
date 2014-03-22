@@ -20,6 +20,9 @@ function keyPressed(e) {
 		case 40: // Down
 			flipCard();
 		break;
+		case 68: // D
+			dropCardAndContinue();
+		break;
 		case 70: // F
 			flipCard();
 		break;
@@ -29,10 +32,7 @@ function keyPressed(e) {
 			}
 		break;
 		case 75: // K
-			if (current > 0) {
-				current -= 2;
-				nextCard();
-			}
+			prevCard();
 		break;
 		case 78: // N
 			if (current < list.length - 1) {
@@ -40,10 +40,7 @@ function keyPressed(e) {
 			}
 		break;
 		case 80: // P
-			if (current > 0) {
-				current -= 2;
-				nextCard();
-			}
+			prevCard();
 		break;
 		case 82: // R
 			restart();
