@@ -18,6 +18,11 @@
 		<div id="osCard"></div>
 		<div id="bg"></div>
 		<div id="app">
+			{% if accessLevel != 'FULL' %}
+				<div class="banner">
+					You are currently using a free trial of KanjiFlipZ.  Please consider supporting this product by <a href="https://chrome.google.com/webstore/detail/cmogbjljapkifdlakaebddigpjnkljlb">purchasing the full version</a>.
+				</div>
+			{% endif %}
 			<div id="cardBlock">
 				<div id="card">
 					Loading...

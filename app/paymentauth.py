@@ -46,8 +46,8 @@ def checkUserAuth(user):
 
 def parseAccess(respText):
 	respJSON = json.loads(respText)
-	if 'result' in respJSON:
-		return respJSON['result'] != 'NO'
-	# If there was an error, assume the user has permission instead of
+	if 'accessLevel' in respJSON:
+		return respJSON['accessLevel']
+	# If there was an error, assume the user has free trial permission instead of
 	# potentially blocking a valid user.
-	return True
+	return 'FREE_TRIAL'

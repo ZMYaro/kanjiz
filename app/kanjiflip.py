@@ -35,12 +35,17 @@ class FlipPage(webapp2.RequestHandler):
 	def get(self):
 		user = users.get_current_user()
 		if user:
-			if checkUserAuth(user):
+			if users.is_current_user_admin():
+				accessLevel = 'FULL'
+			else:
+				accessLevel = checkUserAuth(user)
+			
+			if accessLevel != 'NONE':
 				self.response.headers['Content-Type'] = 'text/html;charset=utf-8'
 				self.response.headers['X-UA-Compatible'] = 'chrome=1'
-		
+				
 				template = JINJA_ENVIRONMENT.get_template('flip.html')
-				self.response.write(template.render({}))
+				self.response.write(template.render({'accessLevel': accessLevel}))
 			else:
 				self.redirect('https://chrome.google.com/webstore/detail/cmogbjljapkifdlakaebddigpjnkljlb')
 		else:
