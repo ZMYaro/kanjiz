@@ -355,6 +355,10 @@
 			<id>genki2_l13_vocab</id>
 			<name>Genki 2, Lesson 13 Vocabulary</name>
 		</list>
+		<list>
+			<id>genki2_l14_vocab</id>
+			<name>Genki 2, Lesson 14 Vocabulary</name>
+		</list>
 	</folder>
 	<folder name="Eco">
 		<list>
