@@ -66,8 +66,9 @@ function setSetting(setting, value) {
 				}
 			}
 		};
-		xhr.open("GET", "/kanjiflip/settings/set/" + encodeURIComponent(setting) + "/" + encodeURIComponent(value), false); // NOT asynchronous (for now)
-		xhr.send();
+		xhr.open("POST", "/kanjiflip/settings/set/" + encodeURIComponent(setting), false); // NOT asynchronous (for now)
+		xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+		xhr.send(encodeURIComponent(value));
 	} else if(!!localStorage) {
 		localStorage[setting] = value;
 	} else {

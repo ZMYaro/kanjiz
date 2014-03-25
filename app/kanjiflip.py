@@ -46,7 +46,7 @@ class FlipPage(webapp2.RequestHandler):
 		else:
 			self.redirect('/login?app=kanjiflip')
 
-class SettingGetter(webapp2.RequestHandler):
+class SettingManager(webapp2.RequestHandler):
 	def get(self, setting):
 		global defaults
 		
@@ -66,8 +66,7 @@ class SettingGetter(webapp2.RequestHandler):
 		else:
 			self.error(401) # ??
 		
-class SettingSetter(webapp2.RequestHandler):
-	def get(self, setting, value):
+	def post(self, setting):
 		# Do not allow settings to be set by arbitrary external XHRs.
 		if 'Referer' not in self.request.headers or self.request.headers['Referer'].find(self.request.host_url) == -1:
 			self.error(403)
@@ -81,13 +80,14 @@ class SettingSetter(webapp2.RequestHandler):
 				for default in defaults:
 					setattr(settings, default, defaults[default]);
 				settings.put()
+			value = self.request.get('value');
 			setattr(settings, setting, unicode(urllib.unquote(value), 'utf-8'))
 			settings.put()
 		else:
 			self.error(401) # ??
 
 app = webapp2.WSGIApplication([
-	('/kanjiflip/settings/get/(.*)', SettingGetter),
-	('/kanjiflip/settings/set/(.*?)/(.*)', SettingSetter),
+	('/kanjiflip/settings/get/(.*)', SettingManager),
+	('/kanjiflip/settings/set/(.*)', SettingManager),
 	('/kanjiflip/?', FlipPage)
 ], debug=True)
