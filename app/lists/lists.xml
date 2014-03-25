@@ -350,6 +350,13 @@
 			<name>Genki 1, Lesson 12 Kanji Examples</name>
 		</list>
 	</folder>
+	<folder name="Genki 2">
+		<list>
+			<id>genki2_l13_vocab</id>
+			<name>Genki 2, Lesson 13 Vocabulary</name>
+		</list>
+	</folder>
+	</folder>
 	<folder name="Eco">
 		<list>
 			<id>eco_kanjis</id>

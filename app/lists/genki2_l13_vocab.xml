@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Genki 2, Lesson 13 Vocabulary</name>
+	<listItem>
+		<kanji>ウエイター</kanji>
+		<kana>ウエイター</kana>
+		<english>waiter</english>
+	</listItem>
+	<listItem>
+		<kanji>お宅</kanji>
+		<kana>おたく</kana>
+		<english>(someone's) house/home</english>
+	</listItem>
+	<listItem>
+		<kanji>大人</kanji>
+		<kana>おとな</kana>
+		<english>adult</english>
+	</listItem>
+	<listItem>
+		<kanji>外国語</kanji>
+		<kana>がいこくご</kana>
+		<english>foreign language</english>
+	</listItem>
+	<listItem>
+		<kanji>楽器</kanji>
+		<kana>がっき</kana>
+		<english>musical instrument</english>
+	</listItem>
+	<listItem>
+		<kanji>空手</kanji>
+		<kana>からて</kana>
+		<english>karate</english>
+	</listItem>
+	<listItem>
+		<kanji>カレー</kanji>
+		<kana>カレー</kana>
+		<english>curry</english>
+	</listItem>
+	<listItem>
+		<kanji>着物</kanji>
+		<kana>きもの</kana>
+		<english>kimono; Japanese traditional dress</english>
+	</listItem>
+	<listItem>
+		<kanji>広告</kanji>
+		<kana>こうこく</kana>
+		<english>advertisement</english>
+	</listItem>
+	<listItem>
+		<kanji>紅茶</kanji>
+		<kana>こうちゃ</kana>
+		<english>black tea</english>
+	</listItem>
+	<listItem>
+		<kanji>言葉</kanji>
+		<kana>ことば</kana>
+		<english>language</english>
+	</listItem>
+	<listItem>
+		<kanji>ゴルフ</kanji>
+		<kana>ゴルフ</kana>
+		<english>golf</english>
+	</listItem>
+	<listItem>
+		<kanji>セーター</kanji>
+		<kana>セーター</kana>
+		<english>sweater</english>
+	</listItem>
+	<listItem>
+		<kanji>象</kanji>
+		<kana>ぞう</kana>
+		<english>elephant</english>
+	</listItem>
+	<listItem>
+		<kanji>バイオリン</kanji>
+		<kana>バイオリン</kana>
+		<english>violin</english>
+	</listItem>
+	<listItem>
+		<kanji>バイク</kanji>
+		<kana>バイク</kana>
+		<english>motorcycle</english>
+	</listItem>
+	<listItem>
+		<kanji>物価</kanji>
+		<kana>ぶっか</kana>
+		<english>(consumer) prices</english>
+	</listItem>
+	<listItem>
+		<kanji>文法</kanji>
+		<kana>ぶんぽう</kana>
+		<english>grammar</english>
+	</listItem>
+	<listItem>
+		<kanji>弁護士</kanji>
+		<kana>べんごし</kana>
+		<english>lawyer</english>
+	</listItem>
+	<listItem>
+		<kanji>募集</kanji>
+		<kana>ぼしゅう</kana>
+		<english>recruitment</english>
+	</listItem>
+	<listItem>
+		<kanji>店</kanji>
+		<kana>みせ</kana>
+		<english>shop; store</english>
+	</listItem>
+	<listItem>
+		<kanji>やくざ</kanji>
+		<kana>やくざ</kana>
+		<english>gangster</english>
+	</listItem>
+	<listItem>
+		<kanji>約束</kanji>
+		<kana>やくそく</kana>
+		<english>promise; appointment</english>
+	</listItem>
+	<listItem>
+		<kanji>レポート</kanji>
+		<kana>レポート</kana>
+		<english>(term) paper</english>
+	</listItem>
+	<listItem>
+		<kanji>私</kanji>
+		<kana>わたしく</kana>
+		<english>I (formal)</english>
+	</listItem>
+	<listItem>
+		<kanji>うれしい</kanji>
+		<kana>うれしい</kana>
+		<english>glad</english>
+	</listItem>
+	<listItem>
+		<kanji>悲しい</kanji>
+		<kana>かなしい</kana>
+		<english>sad</english>
+	</listItem>
+	<listItem>
+		<kanji>辛い</kanji>
+		<kana>からい</kana>
+		<english>hot and spicy; salty</english>
+	</listItem>
+	<listItem>
+		<kanji>厳しい</kanji>
+		<kana>きびしい</kana>
+		<english>strict</english>
+	</listItem>
+	<listItem>
+		<kanji>すごい</kanji>
+		<kana>すごい</kana>
+		<english>incredible; awesome</english>
+	</listItem>
+	<listItem>
+		<kanji>近い</kanji>
+		<kana>ちかい</kana>
+		<english>close; near</english>
+	</listItem>
+	<listItem>
+		<kanji>色々（な）</kanji>
+		<kana>いろいら（な）</kana>
+		<english>various; different kinds of</english>
+	</listItem>
+	<listItem>
+		<kanji>幸せ（な）</kanji>
+		<kana>しあわせ（な）</kana>
+		<english>happy (lasting happiness)</english>
+	</listItem>
+	<listItem>
+		<kanji>だめ（な）</kanji>
+		<kana>だめ（な）</kana>
+		<english>no good</english>
+	</listItem>
+	<listItem>
+		<kanji>（～を）編む</kanji>
+		<kana>（～を）あむ</kana>
+		<english>to knit</english>
+	</listItem>
+	<listItem>
+		<kanji>（personにthingを）貸す</kanji>
+		<kana>（personにthingを）かす</kana>
+		<english>to lend; to rent (thing to person)</english>
+	</listItem>
+	<listItem>
+		<kanji>頑張る</kanji>
+		<kana>がんばる</kana>
+		<english>to do one's best; to try hard</english>
+	</listItem>
+	<listItem>
+		<kanji>泣く</kanji>
+		<kana>なく</kana>
+		<english>to cry</english>
+	</listItem>
+	<listItem>
+		<kanji>（～を）磨く</kanji>
+		<kana>（～を）みがく</kana>
+		<english>to brush (teeth); to polish (~)</english>
+	</listItem>
+	<listItem>
+		<kanji>約束を守る</kanji>
+		<kana>やくそくをまもる</kana>
+		<english>to keep a promise</english>
+	</listItem>
+	<listItem>
+		<kanji>（～に）感動する</kanji>
+		<kana>（～に）かんどうする</kana>
+		<english>to be moved/touched (by ~)</english>
+	</listItem>
+	<listItem>
+		<kanji>いらっしゃいます</kanji>
+		<kana>いらっしゃいます</kana>
+		<english>(someone honorable) is present/home</english>
+	</listItem>
+	<listItem>
+		<kanji>＃回</kanji>
+		<kana>＃かい</kana>
+		<english># times</english>
+	</listItem>
+	<listItem>
+		<kanji>＃キロ</kanji>
+		<kana>＃キロ</kana>
+		<english># kilometers; # kilograms</english>
+	</listItem>
+	<listItem>
+		<kanji>実は</kanji>
+		<kana>じつは</kana>
+		<english>as a matter of fact...</english>
+	</listItem>
+	<listItem>
+		<kanji>全部</kanji>
+		<kana>ぜんぶ</kana>
+		<english>all</english>
+	</listItem>
+	<listItem>
+		<kanji>～と申します</kanji>
+		<kana>～ともうします</kana>
+		<english>my name is ~</english>
+	</listItem>
+	<listItem>
+		<kanji>一日</kanji>
+		<kana>いちにち</kana>
+		<english>one day</english>
+	</listItem>
+	<listItem>
+		<kanji>二日</kanji>
+		<kana>ふつか</kana>
+		<english>two days</english>
+	</listItem>
+	<listItem>
+		<kanji>三日</kanji>
+		<kana>みっか</kana>
+		<english>three days</english>
+	</listItem>
+	<listItem>
+		<kanji>四日</kanji>
+		<kana>よっか</kana>
+		<english>four days</english>
+	</listItem>
+	<listItem>
+		<kanji>五日</kanji>
+		<kana>いつか</kana>
+		<english>five days</english>
+	</listItem>
+	<listItem>
+		<kanji>六日</kanji>
+		<kana>むいか</kana>
+		<english>six days</english>
+	</listItem>
+	<listItem>
+		<kanji>七日</kanji>
+		<kana>なのか</kana>
+		<english>seven days</english>
+	</listItem>
+	<listItem>
+		<kanji>八日</kanji>
+		<kana>ようか</kana>
+		<english>eight days</english>
+	</listItem>
+	<listItem>
+		<kanji>九日</kanji>
+		<kana>ここのか</kana>
+		<english>nine days</english>
+	</listItem>
+	<listItem>
+		<kanji>十日</kanji>
+		<kana>とおか</kana>
+		<english>ten days</english>
+	</listItem>
+</kanjiList>
