@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Book 1, Chapter 1, Lesson 5 Vocabulary</name>
+	<listItem>
+		<kanji>一</kanji>
+		<kana>いち</kana>
+		<english>one (1)</english>
+	</listItem>
+	<listItem>
+		<kanji>二</kanji>
+		<kana>に</kana>
+		<english>two (2)</english>
+	</listItem>
+	<listItem>
+		<kanji>三</kanji>
+		<kana>さん</kana>
+		<english>three (3)</english>
+	</listItem>
+	<listItem>
+		<kanji>四</kanji>
+		<kana>し/よん</kana>
+		<english>four (4)</english>
+	</listItem>
+	<listItem>
+		<kanji>五</kanji>
+		<kana>ご</kana>
+		<english>five (5)</english>
+	</listItem>
+	<listItem>
+		<kanji>六</kanji>
+		<kana>ろく</kana>
+		<english>six (6)</english>
+	</listItem>
+	<listItem>
+		<kanji>七</kanji>
+		<kana>しち/なな</kana>
+		<english>seven (7)</english>
+	</listItem>
+	<listItem>
+		<kanji>八</kanji>
+		<kana>はち</kana>
+		<english>eight (8)</english>
+	</listItem>
+	<listItem>
+		<kanji>九</kanji>
+		<kana>く/きゅう</kana>
+		<english>nine (9)</english>
+	</listItem>
+	<listItem>
+		<kanji>十</kanji>
+		<kana>じゅう</kana>
+		<english>ten (10)</english>
+	</listItem>
+	<listItem>
+		<kanji>住みません</kanji>
+		<kana>すみません</kana>
+		<english>excuse me</english>
+	</listItem>
+	<listItem>
+		<kanji>住みません。もう　一度　お願いします。</kanji>
+		<kana>すみません。もう　いちど　おねがいします。</kana>
+		<english>Excuse me.  One more time please.</english>
+	</listItem>
+	<listItem>
+		<kanji>ゆっくり</kanji>
+		<kana>ゆっくり</kana>
+		<english>slowly</english>
+	</listItem>
+	<listItem>
+		<kanji>住みません。ゆっくり　お願いします。</kanji>
+		<kana>すみません。　ゆっくり　おねがいします。</kana>
+		<english>Excuse me.  Slowly, please.</english>
+	</listItem>
+	<listItem>
+		<kanji>ちょっと　待って　下さい。</kanji>
+		<kana>ちょっと　まって　ください。</kana>
+		<english>Please wait a moment.</english>
+	</listItem>
+	<listItem>
+		<kanji>どうも　ありがとう　ございます</kanji>
+		<kana>どうも　ありがとう　ございます</kana>
+		<english>thank you (most formal)</english>
+	</listItem>
+	<listItem>
+		<kanji>ありがとう　ございます</kanji>
+		<kana>ありがとう　ございます</kana>
+		<english>thank you (second-most formal)</english>
+	</listItem>
+	<listItem>
+		<kanji>どうも　ありがとう</kanji>
+		<kana>どうも　ありがとう</kana>
+		<english>thank you</english>
+	</listItem>
+	<listItem>
+		<kanji>ありがとう</kanji>
+		<kana>ありがとう</kana>
+		<english>thank you (second-least formal)</english>
+	</listItem>
+	<listItem>
+		<kanji>どうも</kanji>
+		<kana>どうも</kana>
+		<english>thank you (least formal)</english>
+	</listItem>
+	<listItem>
+		<kanji>どういたしまして</kanji>
+		<kana>どういたしまして</kana>
+		<english>you are welcome</english>
+	</listItem>
+	<listItem>
+		<kanji>電話　番号</kanji>
+		<kana>でんわ　ばんごう</kana>
+		<english>telephone number</english>
+	</listItem>
+</kanjiList>

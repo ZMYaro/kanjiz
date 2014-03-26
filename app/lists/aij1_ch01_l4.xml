@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Chapter 1, Lesson 4, Vocabulary</name>
+	<listItem>
+		<kanji>始める</kanji>
+		<kana>はじめる</kana>
+		<english>begin</english>
+	</listItem>
+	<listItem>
+		<kanji>始めましょう</kanji>
+		<kana>はじめましょう</kana>
+		<english>let us begin</english>
+	</listItem>
+	<listItem>
+		<kanji>規律。</kanji>
+		<kana>きりつ。</kana>
+		<english>Stand. (command used at ceremonies or in formal situations)</english>
+	</listItem>
+	<listItem>
+		<kanji>れい。</kanji>
+		<kana>れい。</kana>
+		<english>Bow. (command used at ceremonies or in formal situations)</english>
+	</listItem>
+	<listItem>
+		<kanji>着席。</kanji>
+		<kana>ちゃくせき。</kana>
+		<english>Sit. (command used at ceremonies or in formal situations)</english>
+	</listItem>
+	<listItem>
+		<kanji>（お）休みです</kanji>
+		<kana>（お）やすみです</kana>
+		<english>is absent</english>
+	</listItem>
+	<listItem>
+		<kanji>遅刻です</kanji>
+		<kana>ちこくです</kana>
+		<english>is tardy</english>
+	</listItem>
+	<listItem>
+		<kanji>速く</kanji>
+		<kana>はやく</kana>
+		<english>hurry!</english>
+	</listItem>
+	<listItem>
+		<kanji>終わる</kanji>
+		<kana>おわる</kana>
+		<english>finish</english>
+	</listItem>
+	<listItem>
+		<kanji>終わりましょう</kanji>
+		<kana>おわりましょう</kana>
+		<english>let's finish</english>
+	</listItem>
+	<listItem>
+		<kanji>何</kanji>
+		<kana>なに/なん</kana>
+		<english>what</english>
+	</listItem>
+	<listItem>
+		<kanji>～か</kanji>
+		<kana>～か</kana>
+		<english>[particle indicating a question]</english>
+	</listItem>
+	<listItem>
+		<kanji>住みません。遅く　なりました。</kanji>
+		<kana>すみません。おそく　なりました。</kana>
+		<english>I am sorry to be late.</english>
+	</listItem>
+</kanjiList>
