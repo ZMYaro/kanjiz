@@ -60,14 +60,28 @@ function loadList(listName) {
 }
 
 function loadSpecificList() {
+	var series = document.getElementById("series").value;
 	var bk = document.getElementById("bk").value;
 	var ch = document.getElementById("ch").value;
+	ch = (ch < 10 ? "0" + ch : ch);
 	var l = document.getElementById("l").value;
+	l = (series === "genki" ? (l < 10 ? "0" + l : l) + "_vocab" : l);
 	if (bk == "" || ch == "" || l == "") {
 		location.hash = "";
 		location.reload();
 	} else {
-		location.hash = ("bk" + bk + "_ch" + ch + "_l" + l);
+		location.hash = (series + bk + (series === "aij" ? "_ch" + ch : "") + "_l" + l);
 		location.reload();
 	}
 }
+
+function seriesChanged(e) {
+
+}
+
+window.addEventListener("load", function() {
+	document.getElementById("series").addEventListener("change", function(e) {
+		document.getElementById("ch").disabled = (e.target.value !== "aij");
+	}, false);
+	init();
+}, false);
