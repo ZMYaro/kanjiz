@@ -68,7 +68,7 @@ function setSetting(setting, value) {
 		};
 		xhr.open("POST", "/kanjiflip/settings/set/" + encodeURIComponent(setting), false); // NOT asynchronous (for now)
 		xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
-		xhr.send(encodeURIComponent(value));
+		xhr.send("value=" + encodeURIComponent(value));
 	} else if(!!localStorage) {
 		localStorage[setting] = value;
 	} else {

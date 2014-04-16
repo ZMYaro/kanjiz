@@ -1,7 +1,7 @@
 # coding=utf-8
 
 import os
-import urllib
+import urllib2
 
 import jinja2
 import webapp2
@@ -86,7 +86,7 @@ class SettingManager(webapp2.RequestHandler):
 					setattr(settings, default, defaults[default]);
 				settings.put()
 			value = self.request.get('value');
-			setattr(settings, setting, unicode(urllib.unquote(value), 'utf-8'))
+			setattr(settings, setting, urllib2.unquote(value))
 			settings.put()
 		else:
 			self.error(401) # ??
