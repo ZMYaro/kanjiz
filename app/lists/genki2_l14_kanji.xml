@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Genki 2, Lesson 14 Kanji</name>
+	<listItem>
+		<kanji>彼</kanji>
+		<kana>かれ/かの</kana>
+		<english>he (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>代</kanji>
+		<kana>だい/か</kana>
+		<english>age; replace (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>留</kanji>
+		<kana>りゅう/る</kana>
+		<english>to stay; to keep (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>族</kanji>
+		<kana>ぞく</kana>
+		<english>family; tribe (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>親</kanji>
+		<kana>しん/おや/した</kana>
+		<english>parent; intimacy (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>切</kanji>
+		<kana>せつ/き/きっ</kana>
+		<english>to cut (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>英</kanji>
+		<kana>えい</kana>
+		<english>English; excellent (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>店</kanji>
+		<kana>てん/みせ</kana>
+		<english>shop (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>去</kanji>
+		<kana>きょ/こ/さ</kana>
+		<english>past; to leave (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>急</kanji>
+		<kana>きゅう/いそ</kana>
+		<english>to hurry; emergency (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>乗</kanji>
+		<kana>じょう/の</kana>
+		<english>to ride (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>当</kanji>
+		<kana>とう/あ</kana>
+		<english>to hit (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>音</kanji>
+		<kana>おん/おと/ね</kana>
+		<english>sound (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>楽</kanji>
+		<kana>がく/がっ/らく/たの</kana>
+		<english>pleasure (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>医</kanji>
+		<kana>い</kana>
+		<english>doctor; medicine (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>者</kanji>
+		<kana>しゃ/もの</kana>
+		<english>person (kanji)</english>
+	</listItem>
+</kanjiList>
