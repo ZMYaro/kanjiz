@@ -371,6 +371,10 @@
 			<id>genki2_l14_kanji</id>
 			<name>Genki 2, Lesson 14 Kanji</name>
 		</list>
+		<list>
+			<id>genki2_l14_kanji_ex</id>
+			<name>Genki 2, Lesson 14 Kanji Examples</name>
+		</list>
 	</folder>
 	<folder name="Eco">
 		<list>
