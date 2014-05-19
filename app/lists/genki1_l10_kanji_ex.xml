@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Genki 1, Lesson 10 Kanji Examples</name>
+	<listItem>
+		<kanji>住む</kanji>
+		<kana>すむ</kana>
+		<english>to live</english>
+	</listItem>
+	<listItem>
+		<kanji>住所</kanji>
+		<kana>じゅうしょ</kana>
+		<english>address</english>
+	</listItem>
+	<listItem>
+		<kanji>移住する</kanji>
+		<kana>いじゅうする</kana>
+		<english>to immigrate</english>
+	</listItem>
+	<listItem>
+		<kanji>お正月</kanji>
+		<kana>おしょうがつ</kana>
+		<english>New Year</english>
+	</listItem>
+	<listItem>
+		<kanji>正しい</kanji>
+		<kana>ただしい</kana>
+		<english>right</english>
+	</listItem>
+	<listItem>
+		<kanji>正午</kanji>
+		<kana>しょうご</kana>
+		<english>noon</english>
+	</listItem>
+	<listItem>
+		<kanji>三年生</kanji>
+		<kana>さんねんせい</kana>
+		<english>third-year student</english>
+	</listItem>
+	<listItem>
+		<kanji>来年</kanji>
+		<kana>らいねん</kana>
+		<english>next year</english>
+	</listItem>
+	<listItem>
+		<kanji>今年</kanji>
+		<kana>ことし</kana>
+		<english>this year</english>
+	</listItem>
+	<listItem>
+		<kanji>年</kanji>
+		<kana>とし</kana>
+		<english>year</english>
+	</listItem>
+	<listItem>
+		<kanji>売る</kanji>
+		<kana>うる</kana>
+		<english>to sell</english>
+	</listItem>
+	<listItem>
+		<kanji>売店</kanji>
+		<kana>ばいてん</kana>
+		<english>stand; stall</english>
+	</listItem>
+	<listItem>
+		<kanji>自動販売機</kanji>
+		<kana>じどうはんばいき</kana>
+		<english>vending machine</english>
+	</listItem>
+	<listItem>
+		<kanji>買う</kanji>
+		<kana>かう</kana>
+		<english>to buy</english>
+	</listItem>
+	<listItem>
+		<kanji>買い物</kanji>
+		<kana>かいもの</kana>
+		<english>shopping</english>
+	</listItem>
+	<listItem>
+		<kanji>売買</kanji>
+		<kana>ばいばい</kana>
+		<english>selling and buying</english>
+	</listItem>
+	<listItem>
+		<kanji>町</kanji>
+		<kana>まち</kana>
+		<english>town</english>
+	</listItem>
+	<listItem>
+		<kanji>北山町</kanji>
+		<kana>きたやまちょう</kana>
+		<english>Kitayama town</english>
+	</listItem>
+	<listItem>
+		<kanji>町長</kanji>
+		<kana>ちょうちょう</kana>
+		<english>mayor of a town</english>
+	</listItem>
+	<listItem>
+		<kanji>長い</kanji>
+		<kana>ながい</kana>
+		<english>long</english>
+	</listItem>
+	<listItem>
+		<kanji>長男</kanji>
+		<kana>ちょうなん</kana>
+		<english>the eldest son</english>
+	</listItem>
+	<listItem>
+		<kanji>社長</kanji>
+		<kana>しゃちょう</kana>
+		<english>company president</english>
+	</listItem>
+	<listItem>
+		<kanji>道</kanji>
+		<kana>みち</kana>
+		<english>way; road</english>
+	</listItem>
+	<listItem>
+		<kanji>書道</kanji>
+		<kana>しょどう</kana>
+		<english>calligraphy</english>
+	</listItem>
+	<listItem>
+		<kanji>柔道</kanji>
+		<kana>じゅうどう</kana>
+		<english>judo</english>
+	</listItem>
+	<listItem>
+		<kanji>北海道</kanji>
+		<kana>ほっかいどう</kana>
+		<english>Hokkaido</english>
+	</listItem>
+	<listItem>
+		<kanji>雪</kanji>
+		<kana>ゆき</kana>
+		<english>snow</english>
+	</listItem>
+	<listItem>
+		<kanji>新雪</kanji>
+		<kana>しんせつ</kana>
+		<english>new snow</english>
+	</listItem>
+	<listItem>
+		<kanji>雪だるま</kanji>
+		<kana>ゆきだるま</kana>
+		<english>snowman</english>
+	</listItem>
+	<listItem>
+		<kanji>立つ</kanji>
+		<kana>たつ</kana>
+		<english>to stand</english>
+	</listItem>
+	<listItem>
+		<kanji>国立大学</kanji>
+		<kana>こくりつだいがく</kana>
+		<english>national university</english>
+	</listItem>
+	<listItem>
+		<kanji>私立高校</kanji>
+		<kana>しりつこうこう</kana>
+		<english>private high school</english>
+	</listItem>
+	<listItem>
+		<kanji>自分</kanji>
+		<kana>じぶん</kana>
+		<english>oneself</english>
+	</listItem>
+	<listItem>
+		<kanji>自動車</kanji>
+		<kana>じどうしゃ</kana>
+		<english>automobile</english>
+	</listItem>
+	<listItem>
+		<kanji>自転車</kanji>
+		<kana>じてんしゃ</kana>
+		<english>bicycle</english>
+	</listItem>
+	<listItem>
+		<kanji>自由</kanji>
+		<kana>じゆう</kana>
+		<english>freedom</english>
+	</listItem>
+	<listItem>
+		<kanji>夜</kanji>
+		<kana>よる</kana>
+		<english>night</english>
+	</listItem>
+	<listItem>
+		<kanji>夜中</kanji>
+		<kana>よなか</kana>
+		<english>middle of night</english>
+	</listItem>
+	<listItem>
+		<kanji>今夜</kanji>
+		<kana>こんや</kana>
+		<english>tonight</english>
+	</listItem>
+	<listItem>
+		<kanji>夜明け</kanji>
+		<kana>よあけ</kana>
+		<english>dawn</english>
+	</listItem>
+	<listItem>
+		<kanji>朝</kanji>
+		<kana>あさ</kana>
+		<english>morning</english>
+	</listItem>
+	<listItem>
+		<kanji>今朝</kanji>
+		<kana>けさ</kana>
+		<english>this morning</english>
+	</listItem>
+	<listItem>
+		<kanji>朝食</kanji>
+		<kana>ちょうしょく</kana>
+		<english>breakfast</english>
+	</listItem>
+	<listItem>
+		<kanji>毎朝</kanji>
+		<kana>まいあさ</kana>
+		<english>every morning</english>
+	</listItem>
+	<listItem>
+		<kanji>持つ</kanji>
+		<kana>もつ</kana>
+		<english>to hold</english>
+	</listItem>
+	<listItem>
+		<kanji>持って来る</kanji>
+		<kana>もってくる</kana>
+		<english>to bring</english>
+	</listItem>
+	<listItem>
+		<kanji>所持品</kanji>
+		<kana>しょじひん</kana>
+		<english>belongings</english>
+	</listItem>
+	<listItem>
+		<kanji>気持ち</kanji>
+		<kana>きもち</kana>
+		<english>feeling</english>
+	</listItem>
+</kanjiList>
