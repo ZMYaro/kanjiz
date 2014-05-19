@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Genki 1, Lesson 10 Kanji</name>
+	<listItem>
+		<kanji>住</kanji>
+		<kana>じゅう/す</kana>
+		<english>to live (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>生</kanji>
+		<kana>しょう/ただ</kana>
+		<english>right (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>年</kanji>
+		<kana>ねん/とし</kana>
+		<english>year (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>売</kanji>
+		<kana>ばい/う</kana>
+		<english>to sell (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>買</kanji>
+		<kana>ばい/か</kana>
+		<english>to buy (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>町</kanji>
+		<kana>ちょう/まち</kana>
+		<english>town (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>長</kanji>
+		<kana>ちょう/なが</kana>
+		<english>long (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>道</kanji>
+		<kana>どう/みち</kana>
+		<english>way (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>雪</kanji>
+		<kana>せつ/ゆき</kana>
+		<english>snow (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>立</kanji>
+		<kana>りつ/た</kana>
+		<english>to stand (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>自</kanji>
+		<kana>じ</kana>
+		<english>self (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>夜</kanji>
+		<kana>や/よる/よ</kana>
+		<english>night (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>朝</kanji>
+		<kana>ちょう/あさ</kana>
+		<english>morning (kanji)</english>
+	</listItem>
+	<listItem>
+		<kanji>持</kanji>
+		<kana>じ/も</kana>
+		<english>to hold (kanji)</english>
+	</listItem>
+</kanjiList>
