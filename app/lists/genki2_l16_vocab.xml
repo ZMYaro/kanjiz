@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kanjiList SYSTEM "kanjiList.dtd">
+<kanjiList>
+	<name>Genki 2, Lesson 16 Vocabulary</name>
+	<listItem>
+		<kanji>駅員</kanji>
+		<kana>えきいん</kana>
+		<english>station attendant</english>
+	</listItem>
+	<listItem>
+		<kanji>大きさ</kanji>
+		<kana>おおきさ</kana>
+		<english>size</english>
+	</listItem>
+	<listItem>
+		<kanji>親</kanji>
+		<kana>おや</kana>
+		<english>parent</english>
+	</listItem>
+	<listItem>
+		<kanji>期末試験</kanji>
+		<kana>きまつしけん</kana>
+		<english>final examination</english>
+	</listItem>
+	<listItem>
+		<kanji>研究</kanji>
+		<kana>けんきゅう</kana>
+		<english>research</english>
+	</listItem>
+	<listItem>
+		<kanji>ごみ</kanji>
+		<kana>ごみ</kana>
+		<english>garbage</english>
+	</listItem>
+	<listItem>
+		<kanji>砂糖</kanji>
+		<kana>さとう</kana>
+		<english>sugar</english>
+	</listItem>
+	<listItem>
+		<kanji>奨学金</kanji>
+		<kana>しょうがくきん</kana>
+		<english>scholarship</english>
+	</listItem>
+	<listItem>
+		<kanji>親せき</kanji>
+		<kana>しんせき</kana>
+		<english>relatives</english>
+	</listItem>
+	<listItem>
+		<kanji>推薦状</kanji>
+		<kana>すいせんじょう</kana>
+		<english>letter of recommendation</english>
+	</listItem>
+	<listItem>
+		<kanji>大学院</kanji>
+		<kana>だいごくいん</kana>
+		<english>graduate school</english>
+	</listItem>
+	<listItem>
+		<kanji>台風</kanji>
+		<kana>たいふう</kana>
+		<english>typhoon</english>
+	</listItem>
+	<listItem>
+		<kanji>日</kanji>
+		<kana>ひ</kana>
+		<english>day</english>
+	</listItem>
+	<listItem>
+		<kanji>ファイル</kanji>
+		<kana>ファイル</kana>
+		<english>file; portfolio</english>
+	</listItem>
+	<listItem>
+		<kanji>道</kanji>
+		<kana>みち</kana>
+		<english>way; road; directions</english>
+	</listItem>
+	<listItem>
+		<kanji>目覚まし時計</kanji>
+		<kana>めざましどけい</kana>
+		<english>alarm clock</english>
+	</listItem>
+	<listItem>
+		<kanji>汚い</kanji>
+		<kana>きたない</kana>
+		<english>dirty</english>
+	</listItem>
+	<listItem>
+		<kanji>（～を）起こす</kanji>
+		<kana>（～を）おこす</kana>
+		<english>to wake (someone) up</english>
+	</listItem>
+	<listItem>
+		<kanji>（personにmealを）おごる</kanji>
+		<kana>（personにmealを）おごる</kana>
+		<english>to treat (person) to (meal)</english>
+	</listItem>
+	<listItem>
+		<kanji>落ち込む</kanji>
+		<kana>おちこむ</kana>
+		<english>to get depressed</english>
+	</listItem>
+	<listItem>
+		<kanji>困る</kanji>
+		<kana>こまる</kana>
+		<english>to have difficulty</english>
+	</listItem>
+	<listItem>
+		<kanji>（～を）出す</kanji>
+		<kana>（～を）だす</kana>
+		<english>to take (something) out, to hand in (something)</english>
+	</listItem>
+	<listItem>
+		<kanji>（personをplaceに）連れていく</kanji>
+		<kana>（personをplaceに）つれていく</kana>
+		<english>to take (someone) to (place)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～を）直す</kanji>
+		<kana>（～を）なおす</kana>
+		<english>to correct (~); to fix (~)</english>
+	</listItem>
+	<listItem>
+		<kanji>道に迷う</kanji>
+		<kana>みちにまよう</kana>
+		<english>to become lost</english>
+	</listItem>
+	<listItem>
+		<kanji>（～が）見つかる</kanji>
+		<kana>（～が）みつかる</kana>
+		<english>to be found</english>
+	</listItem>
+	<listItem>
+		<kanji>（placeまで/にpersonを）迎えに行く</kanji>
+		<kana>（placeまで/にpersonを）むかえに行く</kana>
+		<english>to go pick up (person) from (place)</english>
+	</listItem>
+	<listItem>
+		<kanji>（sourceをtargetに）訳す</kanji>
+		<kana>（sourceをtargetに）やくす</kana>
+		<english>to translate (source) into (target)</english>
+	</listItem>
+	<listItem>
+		<kanji>笑う</kanji>
+		<kana>わらう</kana>
+		<english>to laugh</english>
+	</listItem>
+	<listItem>
+		<kanji>（～に）アイロンをかける</kanji>
+		<kana>（～に）アイロンをかける</kana>
+		<english>to iron (clothes)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～を）集める</kanji>
+		<kana>（～を）あつめる</kana>
+		<english>to collect (~)</english>
+	</listItem>
+	<listItem>
+		<kanji>（thingをplaceに）入れる</kanji>
+		<kana>（thingをplaceに）いれる</kana>
+		<english>to put (thing) in (place)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～に）乗り遅れる</kanji>
+		<kana>（～に）のりおくれる</kana>
+		<english>to miss (a train, bus, etc.)</english>
+	</listItem>
+	<listItem>
+		<kanji>（～を）見せる</kanji>
+		<kana>（～を）みせる</kana>
+		<english>to show (~)</english>
+	</listItem>
+	<listItem>
+		<kanji>朝寝坊する</kanji>
+		<kana>あさねぼうする</kana>
+		<english>to oversleep</english>
+	</listItem>
+	<listItem>
+		<kanji>（placeを）案内する</kanji>
+		<kana>（placeを）あんないする</kana>
+		<english>to show [someone] around (place)</english>
+	</listItem>
+	<listItem>
+		<kanji>説明する</kanji>
+		<kana>せつめいする</kana>
+		<english>to explain</english>
+	</listItem>
+	<listItem>
+		<kanji>（placeまで/にpersonを）迎えに来る</kanji>
+		<kana>（placeまで/にpersonを）むかえに来る</kana>
+		<english>to go pick up (person) from (place)</english>
+	</listItem>
+	<listItem>
+		<kanji>ええと</kanji>
+		<kana>ええと</kana>
+		<english>well...; let me see...</english>
+	</listItem>
+	<listItem>
+		<kanji>今日中に</kanji>
+		<kana>きょうじゅうに</kana>
+		<english>by the end of today</english>
+	</listItem>
+	<listItem>
+		<kanji>この間</kanji>
+		<kana>このあいだ</kana>
+		<english>the other day</english>
+	</listItem>
+	<listItem>
+		<kanji>このぐらい</kanji>
+		<kana>このぐらい</kana>
+		<english>about this much</english>
+	</listItem>
+	<listItem>
+		<kanji>ごめん</kanji>
+		<kana>ごめん</kana>
+		<english>I'm sorry (casual)</english>
+	</listItem>
+	<listItem>
+		<kanji>これから</kanji>
+		<kana>これから</kana>
+		<english>from now on</english>
+	</listItem>
+	<listItem>
+		<kanji>失礼します</kanji>
+		<kana>しつれいします</kana>
+		<english>excuse me; sorry to interrupt you</english>
+	</listItem>
+	<listItem>
+		<kanji>自分で</kanji>
+		<kana>じぶんで</kana>
+		<english>(do something) by oneself</english>
+	</listItem>
+	<listItem>
+		<kanji>授業中に</kanji>
+		<kana>じゅぎょうちゅうに</kana>
+		<english>in class; during the class</english>
+	</listItem>
+	<listItem>
+		<kanji>ほかの</kanji>
+		<kana>ほかの</kana>
+		<english>other</english>
+	</listItem>
+</kanjiList>

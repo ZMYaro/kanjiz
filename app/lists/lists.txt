@@ -92,6 +92,7 @@ genki2_l14_vocab
 genki2_l14_kanji
 genki2_l14_kanji_ex
 genki2_l15_vocab
+genki2_l16_vocab
 grade1_kanji
 eco_kanji
 eco_words
