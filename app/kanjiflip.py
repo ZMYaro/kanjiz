@@ -9,8 +9,6 @@ import webapp2
 from google.appengine.api import users
 from google.appengine.ext import db
 
-from paymentauth import checkUserAuth
-
 JINJA_ENVIRONMENT = jinja2.Environment(
 	loader=jinja2.FileSystemLoader(os.path.join(os.path.dirname(__file__), 'templates/')),
 	extensions=['jinja2.ext.autoescape'],
@@ -35,19 +33,11 @@ class FlipPage(webapp2.RequestHandler):
 	def get(self):
 		user = users.get_current_user()
 		if user:
-			if users.is_current_user_admin():
-				accessLevel = 'FULL'
-			else:
-				accessLevel = checkUserAuth(user)
+			self.response.headers['Content-Type'] = 'text/html;charset=utf-8'
+			self.response.headers['X-UA-Compatible'] = 'chrome=1'
 			
-			if accessLevel != 'NONE':
-				self.response.headers['Content-Type'] = 'text/html;charset=utf-8'
-				self.response.headers['X-UA-Compatible'] = 'chrome=1'
-				
-				template = JINJA_ENVIRONMENT.get_template('flip.html')
-				self.response.write(template.render({'accessLevel': accessLevel}))
-			else:
-				self.redirect('https://chrome.google.com/webstore/detail/cmogbjljapkifdlakaebddigpjnkljlb')
+			template = JINJA_ENVIRONMENT.get_template('flip.html')
+			self.response.write(template.render())
 		else:
 			self.redirect('/login?app=kanjiflip')
 
